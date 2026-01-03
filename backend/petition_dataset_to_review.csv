@@ -1,0 +1,710 @@
+text,pred_dept,pred_conf
+Dam for the village,civil,0.8145423616007076
+Future requirement for bus stand crowding in city.,civil,0.8162317334985647
+Future requirement for bus stand crowding in city.,civil,0.8162317334985647
+Future requirement for hospital medicine shortage in hospital area.,roads,0.5065313319795276
+Future requirement for hospital medicine shortage in hospital area.,roads,0.5065313319795276
+Future requirement for hospital medicine shortage in residential colony.,roads,0.464014478097305
+Future requirement for hospital medicine shortage in school zone.,roads,0.463130246747371
+Future requirement for hospital medicine shortage in town.,roads,0.5553599924632698
+Future requirement for hospital medicine shortage in village.,roads,0.5580435463106638
+Future requirement for hospital medicine shortage in village.,roads,0.5580435463106638
+Future requirement for need new school in city.,civil,0.4739917759907489
+Future requirement for need new school in hospital area.,civil,0.5790649355386104
+Future requirement for need new school in hospital area.,civil,0.5790649355386104
+Future requirement for need new school in market area.,civil,0.5953596451971498
+Future requirement for need new school in market area.,civil,0.5953596451971498
+Future requirement for need new school in market area.,civil,0.5953596451971498
+Future requirement for need new school in residential colony.,civil,0.6120927290100867
+Future requirement for need new school in school zone.,civil,0.6076544639243356
+Future requirement for public toilet maintenance in city.,roads,0.5669056164053774
+Future requirement for public toilet maintenance in hospital area.,civil,0.4637128051693153
+Future requirement for public toilet maintenance in hospital area.,civil,0.4637128051693153
+Future requirement for public toilet maintenance in hospital area.,civil,0.4637128051693153
+Future requirement for public toilet maintenance in hospital area.,civil,0.4637128051693153
+Future requirement for public toilet maintenance in residential colony.,civil,0.4986348110532856
+Future requirement for public toilet maintenance in school zone.,civil,0.5049607201986249
+Future requirement for public toilet maintenance in school zone.,civil,0.5049607201986249
+Future requirement for public toilet maintenance in town.,roads,0.5095468387915117
+Future requirement for public toilet maintenance in village.,roads,0.5207628483758372
+Future requirement for public toilet maintenance in village.,roads,0.5207628483758372
+Future requirement for public toilet maintenance in village.,roads,0.5207628483758372
+Future requirement for solar street lights installation in bus stand.,roads,0.8090361320953964
+Future requirement for solar street lights installation in city.,roads,0.8427338138633181
+Future requirement for solar street lights installation in residential colony.,roads,0.7571136876211471
+Future requirement for solar street lights installation in town.,roads,0.8215312305606437
+Future requirement for solar street lights installation in town.,roads,0.8215312305606437
+Future requirement for sports ground request in hospital area.,roads,0.6551785180816972
+Future requirement for sports ground request in hospital area.,roads,0.6551785180816972
+Future requirement for sports ground request in market area.,roads,0.62124692701854
+Future requirement for sports ground request in market area.,roads,0.62124692701854
+Future requirement for sports ground request in residential colony.,roads,0.6194099305480932
+Future requirement for sports ground request in town.,roads,0.7067812477773322
+Future requirement for sports ground request in village.,roads,0.7102275687793903
+Future requirement for streetlight failure in bus stand.,roads,0.5799199325642524
+Future requirement for streetlight failure in bus stand.,roads,0.5799199325642524
+Future requirement for streetlight failure in bus stand.,roads,0.5799199325642524
+Future requirement for streetlight failure in hospital area.,roads,0.529225452052961
+Future requirement for streetlight failure in hospital area.,roads,0.529225452052961
+Future requirement for streetlight failure in market area.,roads,0.4862821390597131
+Future requirement for streetlight failure in school zone.,roads,0.48703493802126085
+Future requirement for streetlight failure in school zone.,roads,0.48703493802126085
+Long-term development needed: bus stand crowding at bus stand.,civil,0.800804665667358
+Long-term development needed: bus stand crowding at city.,civil,0.7521247256978075
+Long-term development needed: bus stand crowding at hospital area.,civil,0.8080430526193991
+Long-term development needed: bus stand crowding at hospital area.,civil,0.8080430526193991
+Long-term development needed: bus stand crowding at market area.,civil,0.8140185445669136
+Long-term development needed: bus stand crowding at residential colony.,civil,0.8002823265886897
+Long-term development needed: hospital medicine shortage at city.,roads,0.5837394937867182
+Long-term development needed: hospital medicine shortage at market area.,roads,0.4273971743222685
+Long-term development needed: hospital medicine shortage at school zone.,roads,0.4851716129699477
+Long-term development needed: hospital medicine shortage at school zone.,roads,0.4851716129699477
+Long-term development needed: need new school at market area.,civil,0.6010237942457332
+Long-term development needed: need new school at market area.,civil,0.6010237942457332
+Long-term development needed: need new school at market area.,civil,0.6010237942457332
+Long-term development needed: need new school at town.,civil,0.5541984357470305
+Long-term development needed: need new school at town.,civil,0.5541984357470305
+Long-term development needed: need new school at village.,civil,0.5043012564661855
+Long-term development needed: need new school at village.,civil,0.5043012564661855
+Long-term development needed: need new school at village.,civil,0.5043012564661855
+Long-term development needed: public toilet maintenance at bus stand.,roads,0.5080131510870888
+Long-term development needed: public toilet maintenance at bus stand.,roads,0.5080131510870888
+Long-term development needed: public toilet maintenance at city.,roads,0.6226781650657464
+Long-term development needed: public toilet maintenance at hospital area.,roads,0.4924545566371341
+Long-term development needed: public toilet maintenance at market area.,roads,0.4734432414851546
+Long-term development needed: public toilet maintenance at market area.,roads,0.4734432414851546
+Long-term development needed: public toilet maintenance at market area.,roads,0.4734432414851546
+Long-term development needed: public toilet maintenance at town.,roads,0.5443974020797234
+Long-term development needed: public toilet maintenance at village.,roads,0.5912709699319145
+Long-term development needed: solar street lights installation at bus stand.,roads,0.7772743187422205
+Long-term development needed: solar street lights installation at city.,roads,0.8383299536126624
+Long-term development needed: solar street lights installation at city.,roads,0.8383299536126624
+Long-term development needed: solar street lights installation at hospital area.,roads,0.7579100134555151
+Long-term development needed: solar street lights installation at market area.,roads,0.7430511642954256
+Long-term development needed: solar street lights installation at market area.,roads,0.7430511642954256
+Long-term development needed: solar street lights installation at market area.,roads,0.7430511642954256
+Long-term development needed: solar street lights installation at residential colony.,roads,0.7700480371581705
+Long-term development needed: solar street lights installation at school zone.,roads,0.7772564536517846
+Long-term development needed: sports ground request at hospital area.,roads,0.537540514568715
+Long-term development needed: sports ground request at hospital area.,roads,0.537540514568715
+Long-term development needed: sports ground request at market area.,roads,0.5153605285059513
+Long-term development needed: sports ground request at residential colony.,roads,0.55954840379255
+Long-term development needed: sports ground request at school zone.,roads,0.5680487469164545
+Long-term development needed: sports ground request at school zone.,roads,0.5680487469164545
+Long-term development needed: sports ground request at school zone.,roads,0.5680487469164545
+Long-term development needed: sports ground request at town.,roads,0.5949560648690115
+Long-term development needed: sports ground request at village.,roads,0.6382484877461142
+Long-term development needed: streetlight failure at city.,roads,0.649291093638169
+Long-term development needed: streetlight failure at city.,roads,0.649291093638169
+Long-term development needed: streetlight failure at residential colony.,roads,0.5387414561081592
+Long-term development needed: streetlight failure at village.,roads,0.6235711645916345
+Plan to establish bus stand crowding in city can be considered later.,civil,0.7516139492103974
+Plan to establish bus stand crowding in hospital area can be considered later.,civil,0.7844290782879532
+Plan to establish bus stand crowding in market area can be considered later.,civil,0.7918647887163416
+Plan to establish bus stand crowding in market area can be considered later.,civil,0.7918647887163416
+Plan to establish bus stand crowding in residential colony can be considered later.,civil,0.8114885103120154
+Plan to establish bus stand crowding in residential colony can be considered later.,civil,0.8114885103120154
+Plan to establish bus stand crowding in town can be considered later.,civil,0.7927501416523878
+Plan to establish bus stand crowding in town can be considered later.,civil,0.7927501416523878
+Plan to establish hospital medicine shortage in hospital area can be considered later.,roads,0.470280761143602
+Plan to establish hospital medicine shortage in residential colony can be considered later.,civil,0.4062679857073601
+Plan to establish hospital medicine shortage in school zone can be considered later.,roads,0.43469360754009406
+Plan to establish hospital medicine shortage in village can be considered later.,roads,0.5037169905664509
+Plan to establish need new school in bus stand can be considered later.,civil,0.5227952092474916
+Plan to establish need new school in hospital area can be considered later.,civil,0.5577327750922215
+Plan to establish need new school in residential colony can be considered later.,civil,0.6106285438231905
+Plan to establish need new school in town can be considered later.,civil,0.5592182591978677
+Plan to establish need new school in town can be considered later.,civil,0.5592182591978677
+Plan to establish need new school in town can be considered later.,civil,0.5592182591978677
+Plan to establish need new school in town can be considered later.,civil,0.5592182591978677
+Plan to establish need new school in town can be considered later.,civil,0.5592182591978677
+Plan to establish need new school in village can be considered later.,civil,0.5184442959638108
+Plan to establish public toilet maintenance in bus stand can be considered later.,civil,0.4884037090719558
+Plan to establish public toilet maintenance in town can be considered later.,civil,0.5236449382552076
+Plan to establish public toilet maintenance in town can be considered later.,civil,0.5236449382552076
+Plan to establish public toilet maintenance in village can be considered later.,civil,0.4870354384204319
+Plan to establish solar street lights installation in city can be considered later.,roads,0.740477054274574
+Plan to establish solar street lights installation in hospital area can be considered later.,roads,0.7067770197255906
+Plan to establish solar street lights installation in market area can be considered later.,roads,0.6837801242018936
+Plan to establish solar street lights installation in residential colony can be considered later.,roads,0.6542168770976252
+Plan to establish solar street lights installation in residential colony can be considered later.,roads,0.6542168770976252
+Plan to establish solar street lights installation in school zone can be considered later.,roads,0.6814850982014936
+Plan to establish solar street lights installation in town can be considered later.,roads,0.7212118196975643
+Plan to establish solar street lights installation in town can be considered later.,roads,0.7212118196975643
+Plan to establish sports ground request in bus stand can be considered later.,roads,0.6180667601190178
+Plan to establish sports ground request in hospital area can be considered later.,roads,0.5723910360249111
+Plan to establish sports ground request in residential colony can be considered later.,roads,0.510468167730603
+Plan to establish sports ground request in village can be considered later.,roads,0.6110872159270619
+Plan to establish sports ground request in village can be considered later.,roads,0.6110872159270619
+Plan to establish streetlight failure in hospital area can be considered later.,civil,0.4262071396078038
+Plan to establish streetlight failure in hospital area can be considered later.,civil,0.4262071396078038
+Plan to establish streetlight failure in market area can be considered later.,civil,0.4361379052500675
+Plan to establish streetlight failure in market area can be considered later.,civil,0.4361379052500675
+Plan to establish streetlight failure in market area can be considered later.,civil,0.4361379052500675
+Proposal to improve hospital medicine shortage in bus stand in future plans.,civil,0.4502036382311086
+Proposal to improve hospital medicine shortage in city in future plans.,roads,0.48471662439862745
+Proposal to improve hospital medicine shortage in hospital area in future plans.,roads,0.469250910514084
+Proposal to improve hospital medicine shortage in hospital area in future plans.,roads,0.469250910514084
+Proposal to improve hospital medicine shortage in residential colony in future plans.,roads,0.43082250705838465
+Proposal to improve hospital medicine shortage in town in future plans.,roads,0.4612138833138963
+Proposal to improve hospital medicine shortage in village in future plans.,roads,0.4544856528545356
+Proposal to improve hospital medicine shortage in village in future plans.,roads,0.4544856528545356
+Proposal to improve need new school in bus stand in future plans.,civil,0.6833289853811196
+Proposal to improve need new school in bus stand in future plans.,civil,0.6833289853811196
+Proposal to improve need new school in hospital area in future plans.,civil,0.5780492195833596
+Proposal to improve need new school in hospital area in future plans.,civil,0.5780492195833596
+Proposal to improve need new school in market area in future plans.,civil,0.5860712877823593
+Proposal to improve need new school in residential colony in future plans.,civil,0.599176000046935
+Proposal to improve need new school in town in future plans.,civil,0.5944303723753768
+Proposal to improve need new school in town in future plans.,civil,0.5944303723753768
+Proposal to improve need new school in village in future plans.,civil,0.5759557055758618
+Proposal to improve public toilet maintenance in bus stand in future plans.,civil,0.5797049954817352
+Proposal to improve public toilet maintenance in bus stand in future plans.,civil,0.5797049954817352
+Proposal to improve public toilet maintenance in city in future plans.,civil,0.47077304419681704
+Proposal to improve public toilet maintenance in city in future plans.,civil,0.47077304419681704
+Proposal to improve public toilet maintenance in hospital area in future plans.,civil,0.4962081961610771
+Proposal to improve public toilet maintenance in market area in future plans.,civil,0.5097644153867861
+Proposal to improve public toilet maintenance in market area in future plans.,civil,0.5097644153867861
+Proposal to improve public toilet maintenance in town in future plans.,civil,0.5046928281247942
+Proposal to improve public toilet maintenance in village in future plans.,civil,0.49365555185945625
+Proposal to improve solar street lights installation in hospital area in future plans.,roads,0.6985180409848896
+Proposal to improve solar street lights installation in market area in future plans.,roads,0.6731190308087239
+Proposal to improve sports ground request in bus stand in future plans.,roads,0.5216811883922929
+Proposal to improve sports ground request in city in future plans.,roads,0.5654965580739102
+Proposal to improve sports ground request in city in future plans.,roads,0.5654965580739102
+Proposal to improve sports ground request in hospital area in future plans.,roads,0.550866604595678
+Proposal to improve sports ground request in town in future plans.,roads,0.549265775062097
+Proposal to improve streetlight failure in hospital area in future plans.,roads,0.4732756056908775
+Proposal to improve streetlight failure in market area in future plans.,roads,0.4367536253986737
+Proposal to improve streetlight failure in school zone in future plans.,roads,0.4178318955543066
+Proposal to improve streetlight failure in school zone in future plans.,roads,0.4178318955543066
+Proposal to improve streetlight failure in village in future plans.,roads,0.4661031390021421
+Request for new project regarding bus stand crowding in bus stand.,civil,0.7501286188607287
+Request for new project regarding bus stand crowding in bus stand.,civil,0.7501286188607287
+Request for new project regarding bus stand crowding in bus stand.,civil,0.7501286188607287
+Request for new project regarding bus stand crowding in city.,civil,0.7380931853666038
+Request for new project regarding bus stand crowding in residential colony.,civil,0.8009648316456303
+Request for new project regarding bus stand crowding in residential colony.,civil,0.8009648316456303
+Request for new project regarding bus stand crowding in school zone.,civil,0.8052167349331928
+Request for new project regarding bus stand crowding in school zone.,civil,0.8052167349331928
+Request for new project regarding bus stand crowding in village.,civil,0.7669693429880576
+Request for new project regarding hospital medicine shortage in bus stand.,roads,0.5667422387477002
+Request for new project regarding hospital medicine shortage in bus stand.,roads,0.5667422387477002
+Request for new project regarding hospital medicine shortage in city.,roads,0.5940412751438789
+Request for new project regarding hospital medicine shortage in market area.,roads,0.48591733087514566
+Request for new project regarding hospital medicine shortage in school zone.,roads,0.49260113528214083
+Request for new project regarding hospital medicine shortage in school zone.,roads,0.49260113528214083
+Request for new project regarding hospital medicine shortage in village.,roads,0.5644397387997898
+Request for new project regarding hospital medicine shortage in village.,roads,0.5644397387997898
+Request for new project regarding hospital medicine shortage in village.,roads,0.5644397387997898
+Request for new project regarding need new school in city.,roads,0.45149094889324354
+Request for new project regarding need new school in hospital area.,civil,0.484733263872755
+Request for new project regarding need new school in hospital area.,civil,0.484733263872755
+Request for new project regarding need new school in hospital area.,civil,0.484733263872755
+Request for new project regarding need new school in market area.,civil,0.492124919332302
+Request for new project regarding need new school in market area.,civil,0.492124919332302
+Request for new project regarding need new school in town.,civil,0.45487186481466974
+Request for new project regarding need new school in village.,civil,0.4285251940519205
+Request for new project regarding public toilet maintenance in city.,roads,0.6061406907761153
+Request for new project regarding public toilet maintenance in hospital area.,roads,0.5105489205372423
+Request for new project regarding public toilet maintenance in residential colony.,roads,0.47565052916737177
+Request for new project regarding public toilet maintenance in residential colony.,roads,0.47565052916737177
+Request for new project regarding public toilet maintenance in town.,roads,0.5547117500067532
+Request for new project regarding public toilet maintenance in town.,roads,0.5547117500067532
+Request for new project regarding public toilet maintenance in village.,roads,0.5638113503161671
+Request for new project regarding public toilet maintenance in village.,roads,0.5638113503161671
+Request for new project regarding public toilet maintenance in village.,roads,0.5638113503161671
+Request for new project regarding public toilet maintenance in village.,roads,0.5638113503161671
+Request for new project regarding solar street lights installation in market area.,roads,0.7903305943248672
+Request for new project regarding solar street lights installation in town.,roads,0.8442446066016126
+Request for new project regarding sports ground request in bus stand.,roads,0.6800858798700057
+Request for new project regarding sports ground request in city.,roads,0.729788026868286
+Request for new project regarding sports ground request in market area.,roads,0.601664528112779
+Request for new project regarding sports ground request in residential colony.,roads,0.600626852158549
+Request for new project regarding sports ground request in residential colony.,roads,0.600626852158549
+Request for new project regarding sports ground request in school zone.,roads,0.6035970056206781
+Request for new project regarding sports ground request in school zone.,roads,0.6035970056206781
+Request for new project regarding sports ground request in school zone.,roads,0.6035970056206781
+Request for new project regarding sports ground request in school zone.,roads,0.6035970056206781
+Request for new project regarding sports ground request in town.,roads,0.6907534321860149
+Request for new project regarding sports ground request in village.,roads,0.693225380790866
+Request for new project regarding streetlight failure in hospital area.,roads,0.5766807334840912
+Request for new project regarding streetlight failure in hospital area.,roads,0.5766807334840912
+Request for new project regarding streetlight failure in market area.,roads,0.5387809978575872
+Request for new project regarding streetlight failure in market area.,roads,0.5387809978575872
+Request for new project regarding streetlight failure in residential colony.,roads,0.5403898174528309
+Citizens have requested better hospital medicine shortage in bus stand.,roads,0.4728445298846384
+Citizens have requested better hospital medicine shortage in bus stand.,roads,0.4728445298846384
+Citizens have requested better hospital medicine shortage in city.,roads,0.5101593954538105
+Citizens have requested better hospital medicine shortage in hospital area.,roads,0.42535037473206766
+Citizens have requested better hospital medicine shortage in market area.,civil,0.3826084696081113
+Citizens have requested better hospital medicine shortage in school zone.,civil,0.42008560742200224
+Citizens have requested better hospital medicine shortage in town.,roads,0.4676369943537173
+Citizens have requested better hospital medicine shortage in town.,roads,0.4676369943537173
+Citizens have requested better need new school in bus stand.,civil,0.5419777318090112
+Citizens have requested better need new school in city.,civil,0.4453454440725521
+Citizens have requested better need new school in residential colony.,civil,0.5782827688872986
+Citizens have requested better need new school in residential colony.,civil,0.5782827688872986
+Citizens have requested better public toilet maintenance in hospital area.,roads,0.461348637677271
+Citizens have requested better public toilet maintenance in residential colony.,civil,0.48102329692575824
+Citizens have requested better public toilet maintenance in town.,roads,0.5059015865758077
+Citizens have requested better public toilet maintenance in town.,roads,0.5059015865758077
+Citizens have requested better public toilet maintenance in village.,roads,0.5143924816422566
+Citizens have requested better public toilet maintenance in village.,roads,0.5143924816422566
+Citizens have requested better solar street lights installation in bus stand.,roads,0.7875104889131578
+Citizens have requested better solar street lights installation in bus stand.,roads,0.7875104889131578
+Citizens have requested better solar street lights installation in hospital area.,roads,0.7585823615931978
+Citizens have requested better solar street lights installation in market area.,roads,0.7363351327373077
+Citizens have requested better solar street lights installation in market area.,roads,0.7363351327373077
+Citizens have requested better solar street lights installation in residential colony.,roads,0.7333020078830742
+Citizens have requested better solar street lights installation in town.,roads,0.7933790474288352
+Citizens have requested better solar street lights installation in town.,roads,0.7933790474288352
+Citizens have requested better solar street lights installation in village.,roads,0.7960536706161836
+Citizens have requested better solar street lights installation in village.,roads,0.7960536706161836
+Citizens have requested better solar street lights installation in village.,roads,0.7960536706161836
+Citizens have requested better sports ground request in bus stand.,roads,0.6582118410708301
+Citizens have requested better sports ground request in bus stand.,roads,0.6582118410708301
+Citizens have requested better sports ground request in city.,roads,0.6898881331075449
+Citizens have requested better sports ground request in town.,roads,0.6607266764484121
+Citizens have requested better streetlight failure in bus stand.,roads,0.5042156787144032
+Citizens have requested better streetlight failure in city.,roads,0.5533679824276173
+Citizens have requested better streetlight failure in residential colony.,civil,0.42997523211101835
+Moderate issue observed: bus stand crowding at bus stand. Kindly check.,civil,0.8069106495461171
+Moderate issue observed: bus stand crowding at bus stand. Kindly check.,civil,0.8069106495461171
+Moderate issue observed: bus stand crowding at city. Kindly check.,civil,0.8073202521340713
+Moderate issue observed: bus stand crowding at hospital area. Kindly check.,civil,0.8230943584651927
+Moderate issue observed: bus stand crowding at market area. Kindly check.,civil,0.826301249445727
+Moderate issue observed: bus stand crowding at market area. Kindly check.,civil,0.826301249445727
+Moderate issue observed: bus stand crowding at residential colony. Kindly check.,civil,0.8051217180388305
+Moderate issue observed: bus stand crowding at village. Kindly check.,civil,0.7990535393850106
+Moderate issue observed: hospital medicine shortage at town. Kindly check.,civil,0.4798500413531295
+Moderate issue observed: need new school at bus stand. Kindly check.,civil,0.6012352466370987
+Moderate issue observed: need new school at hospital area. Kindly check.,civil,0.5809622720492752
+Moderate issue observed: need new school at hospital area. Kindly check.,civil,0.5809622720492752
+Moderate issue observed: need new school at residential colony. Kindly check.,civil,0.541770645563615
+Moderate issue observed: need new school at school zone. Kindly check.,civil,0.5625774658714984
+Moderate issue observed: need new school at town. Kindly check.,civil,0.6270857373534309
+Moderate issue observed: need new school at village. Kindly check.,civil,0.5396352973595994
+Moderate issue observed: need new school at village. Kindly check.,civil,0.5396352973595994
+Moderate issue observed: public toilet maintenance at bus stand. Kindly check.,civil,0.4866029309219002
+Moderate issue observed: public toilet maintenance at city. Kindly check.,roads,0.46457940068956133
+Moderate issue observed: public toilet maintenance at hospital area. Kindly check.,civil,0.48809950061664237
+Moderate issue observed: public toilet maintenance at hospital area. Kindly check.,civil,0.48809950061664237
+Moderate issue observed: public toilet maintenance at hospital area. Kindly check.,civil,0.48809950061664237
+Moderate issue observed: public toilet maintenance at market area. Kindly check.,civil,0.4953229223671678
+Moderate issue observed: public toilet maintenance at market area. Kindly check.,civil,0.4953229223671678
+Moderate issue observed: public toilet maintenance at residential colony. Kindly check.,civil,0.45866636812640543
+Moderate issue observed: public toilet maintenance at school zone. Kindly check.,civil,0.4900086500841918
+Moderate issue observed: public toilet maintenance at school zone. Kindly check.,civil,0.4900086500841918
+Moderate issue observed: public toilet maintenance at town. Kindly check.,civil,0.5252893264451572
+Moderate issue observed: public toilet maintenance at town. Kindly check.,civil,0.5252893264451572
+Moderate issue observed: public toilet maintenance at town. Kindly check.,civil,0.5252893264451572
+Moderate issue observed: public toilet maintenance at village. Kindly check.,roads,0.4932132384594874
+Moderate issue observed: solar street lights installation at bus stand. Kindly check.,roads,0.7216539761303699
+Moderate issue observed: solar street lights installation at market area. Kindly check.,roads,0.6882409466124332
+Moderate issue observed: solar street lights installation at market area. Kindly check.,roads,0.6882409466124332
+Moderate issue observed: solar street lights installation at school zone. Kindly check.,roads,0.694672174311628
+Moderate issue observed: solar street lights installation at town. Kindly check.,roads,0.6912329738080395
+Moderate issue observed: solar street lights installation at town. Kindly check.,roads,0.6912329738080395
+Moderate issue observed: solar street lights installation at town. Kindly check.,roads,0.6912329738080395
+Moderate issue observed: solar street lights installation at village. Kindly check.,roads,0.762826701573947
+Moderate issue observed: sports ground request at city. Kindly check.,roads,0.5675368568816787
+Moderate issue observed: sports ground request at city. Kindly check.,roads,0.5675368568816787
+Moderate issue observed: sports ground request at hospital area. Kindly check.,roads,0.5111215713856259
+Moderate issue observed: sports ground request at hospital area. Kindly check.,roads,0.5111215713856259
+Moderate issue observed: sports ground request at hospital area. Kindly check.,roads,0.5111215713856259
+Moderate issue observed: sports ground request at hospital area. Kindly check.,roads,0.5111215713856259
+Moderate issue observed: sports ground request at hospital area. Kindly check.,roads,0.5111215713856259
+Moderate issue observed: sports ground request at market area. Kindly check.,roads,0.4909198586939017
+Moderate issue observed: sports ground request at residential colony. Kindly check.,roads,0.5302650036195611
+Moderate issue observed: sports ground request at residential colony. Kindly check.,roads,0.5302650036195611
+Moderate issue observed: sports ground request at residential colony. Kindly check.,roads,0.5302650036195611
+Moderate issue observed: sports ground request at town. Kindly check.,roads,0.4948448717244646
+Moderate issue observed: streetlight failure at bus stand. Kindly check.,roads,0.44456674473968816
+Moderate issue observed: streetlight failure at hospital area. Kindly check.,roads,0.42343299426254694
+Moderate issue observed: streetlight failure at residential colony. Kindly check.,roads,0.4441369474057577
+Moderate issue observed: streetlight failure at school zone. Kindly check.,roads,0.4104511704541631
+Moderate issue observed: streetlight failure at town. Kindly check.,civil,0.4375585106206438
+Moderate issue observed: streetlight failure at town. Kindly check.,civil,0.4375585106206438
+Moderate issue observed: streetlight failure at town. Kindly check.,civil,0.4375585106206438
+Moderate issue observed: streetlight failure at village. Kindly check.,roads,0.5158741804418666
+Need improvement in hospital medicine shortage at bus stand.,civil,0.7137231011188508
+Need improvement in hospital medicine shortage at bus stand.,civil,0.7137231011188508
+Need improvement in hospital medicine shortage at city.,civil,0.5300684790083916
+Need improvement in hospital medicine shortage at market area.,civil,0.6337902062392317
+Need improvement in hospital medicine shortage at school zone.,civil,0.6250764610138103
+Need improvement in hospital medicine shortage at school zone.,civil,0.6250764610138103
+Need improvement in need new school at city.,civil,0.5064197196160318
+Need improvement in need new school at city.,civil,0.5064197196160318
+Need improvement in need new school at city.,civil,0.5064197196160318
+Need improvement in need new school at residential colony.,civil,0.6145381307693129
+Need improvement in need new school at school zone.,civil,0.593845123077856
+Need improvement in need new school at village.,civil,0.5410484870319067
+Need improvement in public toilet maintenance at hospital area.,civil,0.47948243007269403
+Need improvement in public toilet maintenance at market area.,civil,0.4870273694008536
+Need improvement in public toilet maintenance at town.,roads,0.481959911438213
+Need improvement in solar street lights installation at market area.,roads,0.7159333784492504
+Need improvement in solar street lights installation at market area.,roads,0.7159333784492504
+Need improvement in solar street lights installation at residential colony.,roads,0.7492663539908557
+Need improvement in solar street lights installation at town.,roads,0.7743447966949594
+Need improvement in sports ground request at city.,roads,0.6480298955068253
+Need improvement in sports ground request at market area.,roads,0.5018418105017882
+Need improvement in sports ground request at market area.,roads,0.5018418105017882
+Need improvement in sports ground request at market area.,roads,0.5018418105017882
+Need improvement in sports ground request at residential colony.,roads,0.5466581323816726
+Need improvement in sports ground request at residential colony.,roads,0.5466581323816726
+Need improvement in sports ground request at village.,roads,0.623061198208881
+Need improvement in streetlight failure at bus stand.,roads,0.49405467519393326
+Need improvement in streetlight failure at city.,roads,0.6000791840801644
+Need improvement in streetlight failure at market area.,roads,0.43362881059238334
+Need improvement in streetlight failure at residential colony.,roads,0.4843358422703175
+Request for hospital medicine shortage at city.,roads,0.5067483895436956
+Request for hospital medicine shortage at hospital area.,civil,0.45327592231171937
+Request for hospital medicine shortage at market area.,civil,0.48099176394644144
+Request for hospital medicine shortage at market area.,civil,0.48099176394644144
+Request for hospital medicine shortage at school zone.,civil,0.4465434273075773
+Request for hospital medicine shortage at school zone.,civil,0.4465434273075773
+Request for hospital medicine shortage at town.,civil,0.43036276457935746
+Request for hospital medicine shortage at town.,civil,0.43036276457935746
+Request for need new school at bus stand.,civil,0.6886133982886219
+Request for need new school at city.,civil,0.5263329861615337
+Request for need new school at market area.,civil,0.6694600748741193
+Request for need new school at school zone.,civil,0.6169351220352941
+Request for need new school at school zone.,civil,0.6169351220352941
+Request for need new school at town.,civil,0.6195807519372604
+Request for need new school at town.,civil,0.6195807519372604
+Request for need new school at village.,civil,0.5624358940006461
+Request for public toilet maintenance at market area.,civil,0.5187272590834625
+Request for public toilet maintenance at school zone.,civil,0.47777602632921634
+Request for public toilet maintenance at school zone.,civil,0.47777602632921634
+Request for public toilet maintenance at village.,roads,0.5401760601985751
+Request for solar street lights installation at bus stand.,roads,0.781222693333734
+Request for solar street lights installation at hospital area.,roads,0.7642724849367397
+Request for solar street lights installation at hospital area.,roads,0.7642724849367397
+Request for solar street lights installation at village.,roads,0.8327986472595478
+Request for sports ground request at bus stand.,roads,0.6150636007185682
+Request for sports ground request at bus stand.,roads,0.6150636007185682
+Request for sports ground request at hospital area.,roads,0.5867080176170053
+Request for sports ground request at hospital area.,roads,0.5867080176170053
+Request for sports ground request at market area.,roads,0.563550647758514
+Request for sports ground request at market area.,roads,0.563550647758514
+Request for sports ground request at town.,roads,0.6423729654223238
+Request for sports ground request at town.,roads,0.6423729654223238
+Request for streetlight failure at residential colony.,roads,0.5065312213667353
+Request for streetlight failure at school zone.,roads,0.5141910498706616
+Suggestion to resolve bus stand crowding in city.,civil,0.8243163075317962
+Suggestion to resolve hospital medicine shortage in bus stand.,roads,0.4699094382530545
+Suggestion to resolve hospital medicine shortage in market area.,civil,0.42316601222204464
+Suggestion to resolve hospital medicine shortage in residential colony.,civil,0.45162826733339073
+Suggestion to resolve hospital medicine shortage in school zone.,civil,0.4632488371660506
+Suggestion to resolve hospital medicine shortage in village.,roads,0.4778636317728478
+Suggestion to resolve need new school in city.,civil,0.5213962174166616
+Suggestion to resolve need new school in hospital area.,civil,0.6226389069415236
+Suggestion to resolve need new school in hospital area.,civil,0.6226389069415236
+Suggestion to resolve need new school in hospital area.,civil,0.6226389069415236
+Suggestion to resolve need new school in school zone.,civil,0.6490889247277524
+Suggestion to resolve need new school in school zone.,civil,0.6490889247277524
+Suggestion to resolve need new school in school zone.,civil,0.6490889247277524
+Suggestion to resolve need new school in town.,civil,0.5977025189501327
+Suggestion to resolve need new school in village.,civil,0.5694949890667892
+Suggestion to resolve public toilet maintenance in bus stand.,civil,0.4790664357165868
+Suggestion to resolve public toilet maintenance in bus stand.,civil,0.4790664357165868
+Suggestion to resolve public toilet maintenance in city.,roads,0.5341383442821996
+Suggestion to resolve public toilet maintenance in village.,roads,0.489445036437363
+Suggestion to resolve public toilet maintenance in village.,roads,0.489445036437363
+Suggestion to resolve solar street lights installation in bus stand.,roads,0.7806922139081669
+Suggestion to resolve solar street lights installation in city.,roads,0.814382464869734
+Suggestion to resolve solar street lights installation in hospital area.,roads,0.7521199331261891
+Suggestion to resolve solar street lights installation in market area.,roads,0.7291925590911573
+Suggestion to resolve solar street lights installation in school zone.,roads,0.728007592138365
+Suggestion to resolve solar street lights installation in school zone.,roads,0.728007592138365
+Suggestion to resolve solar street lights installation in town.,roads,0.7895066722442161
+Suggestion to resolve solar street lights installation in village.,roads,0.7930806533590219
+Suggestion to resolve sports ground request in bus stand.,roads,0.6496185877186104
+Suggestion to resolve sports ground request in bus stand.,roads,0.6496185877186104
+Suggestion to resolve sports ground request in city.,roads,0.6923766097692855
+Suggestion to resolve sports ground request in city.,roads,0.6923766097692855
+Suggestion to resolve sports ground request in hospital area.,roads,0.6096587823984208
+Suggestion to resolve sports ground request in market area.,roads,0.5763480329303546
+Suggestion to resolve sports ground request in market area.,roads,0.5763480329303546
+Suggestion to resolve sports ground request in village.,roads,0.6615085420936608
+Suggestion to resolve streetlight failure in city.,roads,0.6010809321044388
+Suggestion to resolve streetlight failure in city.,roads,0.6010809321044388
+Suggestion to resolve streetlight failure in hospital area.,roads,0.5033113631609417
+Suggestion to resolve streetlight failure in hospital area.,roads,0.5033113631609417
+Suggestion to resolve streetlight failure in hospital area.,roads,0.5033113631609417
+Suggestion to resolve streetlight failure in hospital area.,roads,0.5033113631609417
+Suggestion to resolve streetlight failure in hospital area.,roads,0.5033113631609417
+Suggestion to resolve streetlight failure in market area.,roads,0.46350583370808285
+Suggestion to resolve streetlight failure in village.,roads,0.5632674912285393
+bus stand crowding has created unsafe conditions in city. Needs urgent fix.,civil,0.8260264308938067
+bus stand crowding has created unsafe conditions in hospital area. Needs urgent fix.,civil,0.8414692436748857
+bus stand crowding has created unsafe conditions in hospital area. Needs urgent fix.,civil,0.8414692436748857
+bus stand crowding has created unsafe conditions in market area. Needs urgent fix.,civil,0.8380779072873593
+bus stand crowding has created unsafe conditions in market area. Needs urgent fix.,civil,0.8380779072873593
+bus stand crowding has created unsafe conditions in residential colony. Needs urgent fix.,civil,0.8276209689333598
+bus stand crowding has created unsafe conditions in residential colony. Needs urgent fix.,civil,0.8276209689333598
+bus stand crowding has created unsafe conditions in school zone. Needs urgent fix.,civil,0.8038782355937233
+bus stand crowding has created unsafe conditions in village. Needs urgent fix.,civil,0.8332735984514107
+bus stand crowding has created unsafe conditions in village. Needs urgent fix.,civil,0.8332735984514107
+hospital medicine shortage has created unsafe conditions in market area. Needs urgent fix.,civil,0.37289755637668404
+hospital medicine shortage has created unsafe conditions in school zone. Needs urgent fix.,roads,0.42860362556533405
+hospital medicine shortage has created unsafe conditions in town. Needs urgent fix.,civil,0.4216371303471605
+hospital medicine shortage has created unsafe conditions in village. Needs urgent fix.,civil,0.3815018368389996
+Immediate action required: bus stand crowding in bus stand.,civil,0.8048568494881603
+Immediate action required: bus stand crowding in city.,civil,0.7898072470038567
+Immediate action required: bus stand crowding in city.,civil,0.7898072470038567
+Immediate action required: bus stand crowding in residential colony.,civil,0.8393031536621117
+Immediate action required: bus stand crowding in school zone.,civil,0.8421276273916417
+Immediate action required: bus stand crowding in school zone.,civil,0.8421276273916417
+Immediate action required: bus stand crowding in village.,civil,0.8202002726622565
+Immediate action required: hospital medicine shortage in bus stand.,roads,0.5509106758750472
+Immediate action required: hospital medicine shortage in city.,roads,0.5962896318335997
+Immediate action required: hospital medicine shortage in city.,roads,0.5962896318335997
+Immediate action required: hospital medicine shortage in market area.,roads,0.45339480800756093
+Immediate action required: hospital medicine shortage in residential colony.,roads,0.4597145631894964
+Immediate action required: hospital medicine shortage in school zone.,roads,0.45918569693823663
+Immediate action required: hospital medicine shortage in school zone.,roads,0.45918569693823663
+Immediate action required: need new school in bus stand.,civil,0.5681872282364507
+Immediate action required: need new school in city.,civil,0.47582262489582217
+Immediate action required: need new school in hospital area.,civil,0.5766766181389013
+Immediate action required: need new school in market area.,civil,0.5881732263113844
+Immediate action required: need new school in town.,civil,0.5517068384044506
+Immediate action required: public toilet maintenance in bus stand.,roads,0.5131849565758849
+Immediate action required: public toilet maintenance in city.,roads,0.576889442625487
+Immediate action required: public toilet maintenance in hospital area.,roads,0.4782318150740353
+Immediate action required: public toilet maintenance in market area.,civil,0.46639054563774546
+Immediate action required: public toilet maintenance in school zone.,civil,0.48756413935998805
+Immediate action required: public toilet maintenance in school zone.,civil,0.48756413935998805
+Immediate action required: public toilet maintenance in school zone.,civil,0.48756413935998805
+Immediate action required: public toilet maintenance in village.,roads,0.5357686302203616
+Immediate action required: solar street lights installation in bus stand.,roads,0.7963354954428971
+Immediate action required: solar street lights installation in city.,roads,0.8323481334758522
+Immediate action required: solar street lights installation in market area.,roads,0.7462422746358395
+Immediate action required: solar street lights installation in market area.,roads,0.7462422746358395
+Immediate action required: solar street lights installation in residential colony.,roads,0.742201061839575
+Immediate action required: solar street lights installation in residential colony.,roads,0.742201061839575
+Immediate action required: solar street lights installation in residential colony.,roads,0.742201061839575
+Immediate action required: solar street lights installation in residential colony.,roads,0.742201061839575
+Immediate action required: solar street lights installation in school zone.,roads,0.7430108975517776
+Immediate action required: solar street lights installation in town.,roads,0.8119197995337712
+Immediate action required: solar street lights installation in town.,roads,0.8119197995337712
+Immediate action required: solar street lights installation in village.,roads,0.8157890867513852
+Immediate action required: solar street lights installation in village.,roads,0.8157890867513852
+Immediate action required: sports ground request in bus stand.,roads,0.6876865718353763
+Immediate action required: sports ground request in hospital area.,roads,0.6452068778171601
+Immediate action required: sports ground request in residential colony.,roads,0.6096772315529153
+Immediate action required: sports ground request in school zone.,roads,0.6096660950601711
+Immediate action required: sports ground request in school zone.,roads,0.6096660950601711
+Immediate action required: sports ground request in town.,roads,0.6966872723300767
+Immediate action required: streetlight failure in bus stand.,roads,0.5757800896418908
+Immediate action required: streetlight failure in hospital area.,roads,0.5284532842818737
+Immediate action required: streetlight failure in hospital area.,roads,0.5284532842818737
+Immediate action required: streetlight failure in market area.,roads,0.4877463663258578
+Immediate action required: streetlight failure in residential colony.,roads,0.4898976170267966
+Immediate action required: streetlight failure in residential colony.,roads,0.4898976170267966
+Immediate action required: streetlight failure in school zone.,roads,0.4898446077758023
+Immediate action required: streetlight failure in school zone.,roads,0.4898446077758023
+Immediate action required: streetlight failure in village.,roads,0.5885674923761264
+need new school has created unsafe conditions in bus stand. Needs urgent fix.,civil,0.7139693906014505
+need new school has created unsafe conditions in city. Needs urgent fix.,civil,0.6209606963866816
+need new school has created unsafe conditions in village. Needs urgent fix.,civil,0.6446031112174012
+Public facing severe issues due to bus stand crowding. Request urgent solution.,civil,0.7420721491847743
+Public facing severe issues due to bus stand crowding. Request urgent solution.,civil,0.7420721491847743
+Public facing severe issues due to bus stand crowding. Request urgent solution.,civil,0.7420721491847743
+Public facing severe issues due to bus stand crowding. Request urgent solution.,civil,0.7420721491847743
+Public facing severe issues due to bus stand crowding. Request urgent solution.,civil,0.7420721491847743
+Public facing severe issues due to bus stand crowding. Request urgent solution.,civil,0.7420721491847743
+Public facing severe issues due to bus stand crowding. Request urgent solution.,civil,0.7420721491847743
+Public facing severe issues due to bus stand crowding. Request urgent solution.,civil,0.7420721491847743
+Public facing severe issues due to bus stand crowding. Request urgent solution.,civil,0.7420721491847743
+Public facing severe issues due to bus stand crowding. Request urgent solution.,civil,0.7420721491847743
+Public facing severe issues due to bus stand crowding. Request urgent solution.,civil,0.7420721491847743
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,roads,0.6169738730023178
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,roads,0.6169738730023178
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,roads,0.6169738730023178
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,roads,0.6169738730023178
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,roads,0.6169738730023178
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,roads,0.6169738730023178
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,roads,0.6169738730023178
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,roads,0.6169738730023178
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,roads,0.6169738730023178
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,roads,0.6169738730023178
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,roads,0.6169738730023178
+Public facing severe issues due to need new school. Request urgent solution.,roads,0.43470723170481634
+Public facing severe issues due to need new school. Request urgent solution.,roads,0.43470723170481634
+Public facing severe issues due to need new school. Request urgent solution.,roads,0.43470723170481634
+Public facing severe issues due to need new school. Request urgent solution.,roads,0.43470723170481634
+Public facing severe issues due to need new school. Request urgent solution.,roads,0.43470723170481634
+Public facing severe issues due to need new school. Request urgent solution.,roads,0.43470723170481634
+Public facing severe issues due to need new school. Request urgent solution.,roads,0.43470723170481634
+Public facing severe issues due to need new school. Request urgent solution.,roads,0.43470723170481634
+Public facing severe issues due to need new school. Request urgent solution.,roads,0.43470723170481634
+Public facing severe issues due to need new school. Request urgent solution.,roads,0.43470723170481634
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,roads,0.5081202808151807
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to solar street lights installation. Request urgent solution.,roads,0.7768079337755697
+Public facing severe issues due to sports ground request. Request urgent solution.,roads,0.6260143091193556
+Public facing severe issues due to sports ground request. Request urgent solution.,roads,0.6260143091193556
+Public facing severe issues due to sports ground request. Request urgent solution.,roads,0.6260143091193556
+Public facing severe issues due to sports ground request. Request urgent solution.,roads,0.6260143091193556
+Public facing severe issues due to sports ground request. Request urgent solution.,roads,0.6260143091193556
+Public facing severe issues due to sports ground request. Request urgent solution.,roads,0.6260143091193556
+Public facing severe issues due to streetlight failure. Request urgent solution.,roads,0.5516241721595124
+Public facing severe issues due to streetlight failure. Request urgent solution.,roads,0.5516241721595124
+Public facing severe issues due to streetlight failure. Request urgent solution.,roads,0.5516241721595124
+Public facing severe issues due to streetlight failure. Request urgent solution.,roads,0.5516241721595124
+Public facing severe issues due to streetlight failure. Request urgent solution.,roads,0.5516241721595124
+Public facing severe issues due to streetlight failure. Request urgent solution.,roads,0.5516241721595124
+Public facing severe issues due to streetlight failure. Request urgent solution.,roads,0.5516241721595124
+Public facing severe issues due to streetlight failure. Request urgent solution.,roads,0.5516241721595124
+Public facing severe issues due to streetlight failure. Request urgent solution.,roads,0.5516241721595124
+public toilet maintenance has created unsafe conditions in bus stand. Needs urgent fix.,civil,0.6797822129452985
+public toilet maintenance has created unsafe conditions in city. Needs urgent fix.,civil,0.5904176160447722
+public toilet maintenance has created unsafe conditions in hospital area. Needs urgent fix.,civil,0.6172550536876579
+public toilet maintenance has created unsafe conditions in residential colony. Needs urgent fix.,civil,0.625946020891942
+public toilet maintenance has created unsafe conditions in school zone. Needs urgent fix.,civil,0.5832269702204155
+"Serious problem of hospital medicine shortage in city, kindly resolve immediately.",roads,0.4679246521110072
+"Serious problem of hospital medicine shortage in city, kindly resolve immediately.",roads,0.4679246521110072
+"Serious problem of hospital medicine shortage in residential colony, kindly resolve immediately.",civil,0.426401964928009
+"Serious problem of hospital medicine shortage in school zone, kindly resolve immediately.",civil,0.4756472550106409
+"Serious problem of hospital medicine shortage in school zone, kindly resolve immediately.",civil,0.4756472550106409
+"Serious problem of need new school in bus stand, kindly resolve immediately.",civil,0.6128014766848653
+"Serious problem of need new school in hospital area, kindly resolve immediately.",civil,0.6424208772299833
+"Serious problem of need new school in hospital area, kindly resolve immediately.",civil,0.6424208772299833
+"Serious problem of need new school in market area, kindly resolve immediately.",civil,0.6445975142591602
+"Serious problem of need new school in school zone, kindly resolve immediately.",civil,0.6729406778259119
+"Serious problem of need new school in school zone, kindly resolve immediately.",civil,0.6729406778259119
+"Serious problem of need new school in town, kindly resolve immediately.",civil,0.6845965618584309
+"Serious problem of need new school in village, kindly resolve immediately.",civil,0.6199730793228374
+"Serious problem of public toilet maintenance in bus stand, kindly resolve immediately.",civil,0.5039823361734047
+"Serious problem of public toilet maintenance in city, kindly resolve immediately.",civil,0.510649722343458
+"Serious problem of public toilet maintenance in hospital area, kindly resolve immediately.",civil,0.5352975664842012
+"Serious problem of public toilet maintenance in hospital area, kindly resolve immediately.",civil,0.5352975664842012
+"Serious problem of public toilet maintenance in market area, kindly resolve immediately.",civil,0.5497847460886843
+"Serious problem of public toilet maintenance in market area, kindly resolve immediately.",civil,0.5497847460886843
+"Serious problem of public toilet maintenance in town, kindly resolve immediately.",civil,0.5806489139903732
+"Serious problem of public toilet maintenance in town, kindly resolve immediately.",civil,0.5806489139903732
+"Serious problem of solar street lights installation in bus stand, kindly resolve immediately.",roads,0.7168602395356088
+"Serious problem of solar street lights installation in bus stand, kindly resolve immediately.",roads,0.7168602395356088
+"Serious problem of solar street lights installation in market area, kindly resolve immediately.",roads,0.6714790087721854
+"Serious problem of solar street lights installation in market area, kindly resolve immediately.",roads,0.6714790087721854
+"Serious problem of solar street lights installation in market area, kindly resolve immediately.",roads,0.6714790087721854
+"Serious problem of solar street lights installation in residential colony, kindly resolve immediately.",roads,0.6641375001423081
+"Serious problem of solar street lights installation in residential colony, kindly resolve immediately.",roads,0.6641375001423081
+"Serious problem of sports ground request in city, kindly resolve immediately.",roads,0.5507885922486583
+"Serious problem of sports ground request in hospital area, kindly resolve immediately.",roads,0.5372858998828066
+"Serious problem of sports ground request in hospital area, kindly resolve immediately.",roads,0.5372858998828066
+"Serious problem of sports ground request in market area, kindly resolve immediately.",roads,0.5042249245539313
+"Serious problem of sports ground request in school zone, kindly resolve immediately.",roads,0.46518883490815216
+"Serious problem of sports ground request in town, kindly resolve immediately.",roads,0.5036926761883841
+"Serious problem of sports ground request in town, kindly resolve immediately.",roads,0.5036926761883841
+"Serious problem of sports ground request in town, kindly resolve immediately.",roads,0.5036926761883841
+"Serious problem of sports ground request in town, kindly resolve immediately.",roads,0.5036926761883841
+"Serious problem of streetlight failure in city, kindly resolve immediately.",roads,0.45806791910771755
+"Serious problem of streetlight failure in hospital area, kindly resolve immediately.",civil,0.4455872061610206
+"Serious problem of streetlight failure in residential colony, kindly resolve immediately.",civil,0.4581583176497221
+"Serious problem of streetlight failure in school zone, kindly resolve immediately.",civil,0.5073128006919321
+solar street lights installation has created unsafe conditions in bus stand. Needs urgent fix.,roads,0.5941162950679831
+solar street lights installation has created unsafe conditions in bus stand. Needs urgent fix.,roads,0.5941162950679831
+solar street lights installation has created unsafe conditions in city. Needs urgent fix.,roads,0.636721408541726
+solar street lights installation has created unsafe conditions in market area. Needs urgent fix.,roads,0.5952131598472459
+solar street lights installation has created unsafe conditions in residential colony. Needs urgent fix.,roads,0.5920610881683441
+solar street lights installation has created unsafe conditions in residential colony. Needs urgent fix.,roads,0.5920610881683441
+solar street lights installation has created unsafe conditions in residential colony. Needs urgent fix.,roads,0.5920610881683441
+solar street lights installation has created unsafe conditions in residential colony. Needs urgent fix.,roads,0.5920610881683441
+solar street lights installation has created unsafe conditions in residential colony. Needs urgent fix.,roads,0.5920610881683441
+solar street lights installation has created unsafe conditions in school zone. Needs urgent fix.,roads,0.6270295017119932
+solar street lights installation has created unsafe conditions in school zone. Needs urgent fix.,roads,0.6270295017119932
+solar street lights installation has created unsafe conditions in school zone. Needs urgent fix.,roads,0.6270295017119932
+sports ground request has created unsafe conditions in market area. Needs urgent fix.,roads,0.41506312204915
+sports ground request has created unsafe conditions in market area. Needs urgent fix.,roads,0.41506312204915
+sports ground request has created unsafe conditions in market area. Needs urgent fix.,roads,0.41506312204915
+sports ground request has created unsafe conditions in residential colony. Needs urgent fix.,roads,0.43868803330473644
+sports ground request has created unsafe conditions in school zone. Needs urgent fix.,roads,0.4835957933030915
+streetlight failure has created unsafe conditions in hospital area. Needs urgent fix.,civil,0.477473044841376
+streetlight failure has created unsafe conditions in town. Needs urgent fix.,civil,0.5260510815651411
+Urgent complaint regarding bus stand crowding. Needs quick attention at city.,civil,0.7488945696589896
+Urgent complaint regarding bus stand crowding. Needs quick attention at hospital area.,civil,0.8024694289507579
+Urgent complaint regarding bus stand crowding. Needs quick attention at hospital area.,civil,0.8024694289507579
+Urgent complaint regarding bus stand crowding. Needs quick attention at hospital area.,civil,0.8024694289507579
+Urgent complaint regarding bus stand crowding. Needs quick attention at school zone.,civil,0.7883132808960878
+Urgent complaint regarding bus stand crowding. Needs quick attention at town.,civil,0.8000430687097245
+Urgent complaint regarding bus stand crowding. Needs quick attention at town.,civil,0.8000430687097245
+Urgent complaint regarding bus stand crowding. Needs quick attention at town.,civil,0.8000430687097245
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at bus stand.,roads,0.45065281201533053
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at city.,roads,0.5350282553181939
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at hospital area.,roads,0.42617197835413223
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at residential colony.,roads,0.44312903524508007
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at town.,roads,0.4728950746944974
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at town.,roads,0.4728950746944974
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at town.,roads,0.4728950746944974
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at town.,roads,0.4728950746944974
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at village.,roads,0.5149050894613089
+Urgent complaint regarding need new school. Needs quick attention at bus stand.,civil,0.6671085476008675
+Urgent complaint regarding need new school. Needs quick attention at hospital area.,civil,0.6291259638079411
+Urgent complaint regarding need new school. Needs quick attention at hospital area.,civil,0.6291259638079411
+Urgent complaint regarding need new school. Needs quick attention at hospital area.,civil,0.6291259638079411
+Urgent complaint regarding need new school. Needs quick attention at hospital area.,civil,0.6291259638079411
+Urgent complaint regarding need new school. Needs quick attention at school zone.,civil,0.5997246514681941
+Urgent complaint regarding need new school. Needs quick attention at town.,civil,0.6012746356638395
+Urgent complaint regarding need new school. Needs quick attention at town.,civil,0.6012746356638395
+Urgent complaint regarding public toilet maintenance. Needs quick attention at bus stand.,civil,0.5789897080013797
+Urgent complaint regarding public toilet maintenance. Needs quick attention at bus stand.,civil,0.5789897080013797
+Urgent complaint regarding public toilet maintenance. Needs quick attention at school zone.,civil,0.537136973267265
+Urgent complaint regarding public toilet maintenance. Needs quick attention at town.,civil,0.5180114468316545
+Urgent complaint regarding public toilet maintenance. Needs quick attention at town.,civil,0.5180114468316545
+Urgent complaint regarding public toilet maintenance. Needs quick attention at village.,civil,0.46965122115560504
+Urgent complaint regarding public toilet maintenance. Needs quick attention at village.,civil,0.46965122115560504
+Urgent complaint regarding solar street lights installation. Needs quick attention at bus stand.,roads,0.7373040521079877
+Urgent complaint regarding solar street lights installation. Needs quick attention at hospital area.,roads,0.7185193769566304
+Urgent complaint regarding solar street lights installation. Needs quick attention at hospital area.,roads,0.7185193769566304
+Urgent complaint regarding solar street lights installation. Needs quick attention at market area.,roads,0.7015598547964291
+Urgent complaint regarding solar street lights installation. Needs quick attention at market area.,roads,0.7015598547964291
+Urgent complaint regarding solar street lights installation. Needs quick attention at village.,roads,0.7929059566685083
+Urgent complaint regarding sports ground request. Needs quick attention at bus stand.,roads,0.46631867628339024
+Urgent complaint regarding sports ground request. Needs quick attention at city.,roads,0.5796656106120682
+Urgent complaint regarding sports ground request. Needs quick attention at hospital area.,roads,0.4385703176811118
+Urgent complaint regarding sports ground request. Needs quick attention at school zone.,roads,0.4695393666910177
+Urgent complaint regarding sports ground request. Needs quick attention at school zone.,roads,0.4695393666910177
+Urgent complaint regarding sports ground request. Needs quick attention at school zone.,roads,0.4695393666910177
+Urgent complaint regarding sports ground request. Needs quick attention at town.,roads,0.503818072226144
+Urgent complaint regarding sports ground request. Needs quick attention at town.,roads,0.503818072226144
+Urgent complaint regarding streetlight failure. Needs quick attention at bus stand.,roads,0.4867217200764164
+Urgent complaint regarding streetlight failure. Needs quick attention at city.,roads,0.5786081456401527
+Urgent complaint regarding streetlight failure. Needs quick attention at city.,roads,0.5786081456401527
+Urgent complaint regarding streetlight failure. Needs quick attention at hospital area.,roads,0.45777362935078253
+Urgent complaint regarding streetlight failure. Needs quick attention at hospital area.,roads,0.45777362935078253
+Urgent complaint regarding streetlight failure. Needs quick attention at market area.,roads,0.43597910980098725
+Urgent complaint regarding streetlight failure. Needs quick attention at market area.,roads,0.43597910980098725
+Urgent complaint regarding streetlight failure. Needs quick attention at residential colony.,roads,0.4783078157049059
+Urgent complaint regarding streetlight failure. Needs quick attention at residential colony.,roads,0.4783078157049059
+Urgent complaint regarding streetlight failure. Needs quick attention at residential colony.,roads,0.4783078157049059
+Urgent complaint regarding streetlight failure. Needs quick attention at school zone.,roads,0.4856127402154395
+Urgent complaint regarding streetlight failure. Needs quick attention at village.,roads,0.560102559751042
+Urgent complaint regarding streetlight failure. Needs quick attention at village.,roads,0.560102559751042
+Urgent complaint regarding streetlight failure. Needs quick attention at village.,roads,0.560102559751042

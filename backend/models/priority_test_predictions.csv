@@ -1,0 +1,402 @@
+text,true,pred,prob_later,prob_neutral,prob_urgent
+moderate issue observed need overhead water tank at school zone kindly check,neutral,neutral,0.0027096728428914734,0.9934315780579515,0.0038587490991569594
+plan to establish need new school in town can be considered later,later,later,0.9988280807267977,0.000680006532491901,0.0004919127407102684
+urgent complaint regarding streetlight failure needs quick attention at residential colony,urgent,urgent,4.92127835671537e-06,4.468724971103566e-06,0.9999906099966722
+moderate issue observed streetlight failure at main road kindly check,neutral,neutral,0.0029142842998930146,0.9917539262904567,0.005331789409650279
+immediate action required solar street lights installation in city,urgent,urgent,0.0021799970246047795,0.001276168203853689,0.9965438347715416
+public facing severe issues due to sports ground request request urgent solution,urgent,urgent,0.0015199104609210322,0.0016425130218597076,0.996837576517219
+immediate action required streetlight failure in village,urgent,urgent,2.528749383060786e-06,2.1135898148722467e-06,0.999995357660802
+need improvement in construction of bus stand at town,neutral,neutral,0.0019818946299253763,0.9954300892544398,0.0025880161156348175
+citizens have requested better sewage overflow in bus stand,neutral,neutral,0.0029246536912068046,0.9943353853094187,0.002739960999374754
+future requirement for building public library in main road,later,later,0.997264003557615,0.0011731023692225597,0.0015628940731624906
+urgent complaint regarding garbage pileup needs quick attention at market area,urgent,urgent,2.951159715045197e-06,2.659702523788022e-06,0.9999943891377612
+urgent complaint regarding school building damage needs quick attention at hospital area,urgent,urgent,4.13374266841656e-06,4.136558951844622e-06,0.9999917296983797
+request for construction of bus stand at market area,neutral,neutral,0.0031975151614770637,0.9945522199211198,0.002250264917403047
+suggestion to resolve need overhead water tank in hospital area,neutral,neutral,0.002407896417845151,0.9948573410870303,0.0027347624951246222
+construction of bus stand has created unsafe conditions in highway needs urgent fix,urgent,urgent,6.204524949415355e-06,5.09415480334965e-06,0.9999887013202472
+urgent complaint regarding sports ground request needs quick attention at city,urgent,urgent,0.0012884112510145465,0.0009295715545854703,0.9977820171944001
+future requirement for need new school in market area,later,later,0.9988043176622888,0.0008881392029770467,0.0003075431347341243
+proposal to improve need overhead water tank in city in future plans,later,later,0.9974317806251657,0.0011314198389281618,0.0014367995359062318
+moderate issue observed solar street lights installation at school zone kindly check,neutral,neutral,0.0035752610505417294,0.9902990374536591,0.006125701495799341
+moderate issue observed need new school at village kindly check,neutral,neutral,0.00202926148638749,0.9963687749752116,0.0016019635384008448
+future requirement for electricity outage in main road,later,later,0.9975011468912413,0.0011585571929929907,0.0013402959157657456
+urgent complaint regarding broken road needs quick attention at school zone,urgent,urgent,2.436996746485882e-06,2.3637590961279926e-06,0.9999951992441574
+citizens have requested better solar street lights installation in highway,neutral,neutral,0.004931650452294746,0.9902530657155518,0.004815283832153368
+need improvement in water supply shortage at main road,neutral,neutral,0.003371398383505307,0.9926539327159475,0.003974668900547544
+moderate issue observed solar street lights installation at highway kindly check,neutral,neutral,0.003824067370666152,0.9899075001014923,0.006268432527841456
+construction of bus stand has created unsafe conditions in bus stand needs urgent fix,urgent,urgent,0.0024892249569516338,0.0021530186936091593,0.995357756349439
+request for new project regarding streetlight failure in hospital area,later,later,0.9975583206864505,0.001301064096122633,0.0011406152174269725
+future requirement for bus stand crowding in market area,later,later,0.9982096532606043,0.0011269016279085887,0.0006634451114869597
+suggestion to resolve need overhead water tank in town,neutral,neutral,0.003021096694938174,0.9937252461708549,0.003253657134206988
+plan to establish solar street lights installation in residential colony can be considered later,later,later,0.9949187768452681,0.002341742528923142,0.002739480625808699
+immediate action required construction of bus stand in town,urgent,urgent,3.1169559589539227e-06,2.5717679888972383e-06,0.9999943112760521
+long term development needed water supply shortage at main road,later,later,0.9978630602627361,0.0009926787042247272,0.0011442610330391265
+immediate action required solar street lights installation in school zone,urgent,urgent,0.0020465049432428317,0.0020415626503304247,0.995911932406427
+need improvement in need overhead water tank at school zone,neutral,neutral,0.0039678627295452054,0.9917315663202738,0.0043005709501808854
+future requirement for solar street lights installation in residential colony,later,later,0.9930663445025775,0.00399435060662929,0.0029393048907932063
+immediate action required sports ground request in residential colony,urgent,urgent,0.0016440879425057414,0.0013212557267682833,0.9970346563307259
+long term development needed need new school at highway,later,later,0.9991922677846204,0.0005601676939017954,0.00024756452147781506
+suggestion to resolve bus stand crowding in residential colony,neutral,neutral,0.0029621714957131237,0.9939763066050984,0.0030615218991885793
+immediate action required public toilet maintenance in main road,urgent,urgent,3.821539330926954e-06,3.0153578870107274e-06,0.9999931631027821
+suggestion to resolve need new school in main road,neutral,neutral,0.0027832709817934872,0.9956956819702664,0.0015210470479402524
+future requirement for solar street lights installation in main road,later,later,0.9939013942492472,0.0036048108978760313,0.0024937948528768648
+moderate issue observed streetlight failure at bus stand kindly check,neutral,neutral,0.001987753523779572,0.9945580552579616,0.00345419121825874
+suggestion to resolve streetlight failure in hospital area,neutral,neutral,0.0018258955043027115,0.9950866308467408,0.0030874736489566366
+urgent complaint regarding streetlight failure needs quick attention at village,urgent,urgent,3.7858062269345486e-06,3.580609824749894e-06,0.9999926335839484
+citizens have requested better school building damage in town,neutral,neutral,0.0027168264271561107,0.9940302592925179,0.00325291428032602
+plan to establish sewage overflow in village can be considered later,later,later,0.9980960047000597,0.0007590010459571925,0.001144994253982825
+sewage overflow has created unsafe conditions in town needs urgent fix,urgent,urgent,2.9786096120304338e-06,2.232509897708833e-06,0.9999947888804903
+immediate action required building public library in hospital area,urgent,urgent,1.7907389026333991e-06,1.4958448349249586e-06,0.9999967134162625
+future requirement for sewage overflow in city,later,later,0.9986693669109151,0.0004630093455722553,0.0008676237435125638
+moderate issue observed public toilet maintenance at market area kindly check,neutral,neutral,0.0025507017791467743,0.9924558289094293,0.004993469311423917
+request for new project regarding school building damage in highway,later,later,0.9981177699479602,0.0010594812290247969,0.0008227488230149347
+plan to establish streetlight failure in market area can be considered later,later,later,0.9970390704479914,0.0011591946454679572,0.001801734906540555
+need improvement in building public library at town,neutral,neutral,0.0020904487930434425,0.9949047848214797,0.003004766385476884
+citizens have requested better need new school in city,neutral,neutral,0.003264808970228292,0.9952388638751357,0.001496327154636086
+plan to establish electricity outage in main road can be considered later,later,later,0.9972772952306066,0.0009774150215726132,0.001745289747821004
+citizens have requested better electricity outage in market area,neutral,neutral,0.003242192712709951,0.9931158110418415,0.003641996245448469
+public facing severe issues due to garbage pileup request urgent solution,urgent,urgent,2.931383173377132e-06,3.2474131051241856e-06,0.9999938212037215
+long term development needed water supply shortage at residential colony,later,later,0.9975185279345451,0.001117451939294183,0.0013640201261606822
+suggestion to resolve broken road in market area,neutral,neutral,0.0013873747405961751,0.9964906298124484,0.0021219954469551537
+plan to establish public toilet maintenance in bus stand can be considered later,later,later,0.9974239075996926,0.0011900151400663617,0.0013860772602410714
+long term development needed solar street lights installation at market area,later,later,0.9953986522798536,0.0026809900796829814,0.0019203576404633635
+serious problem of electricity outage in town kindly resolve immediately,urgent,urgent,1.8067324467714045e-06,2.0474483178683747e-06,0.9999961458192353
+urgent complaint regarding building public library needs quick attention at bus stand,urgent,urgent,3.4688999695553124e-06,3.239072429960521e-06,0.9999932920276005
+suggestion to resolve need overhead water tank in school zone,neutral,neutral,0.002984243658067843,0.9935792597672042,0.003436496574728001
+future requirement for garbage pileup in main road,later,later,0.9976914320758457,0.0009910090127606343,0.001317558911393701
+suggestion to resolve school building damage in hospital area,neutral,neutral,0.0015645523962720172,0.995538559026644,0.002896888577083887
+moderate issue observed building public library at main road kindly check,neutral,neutral,0.0031013032479162345,0.9911684490770755,0.005730247675008259
+request for water supply shortage at village,neutral,neutral,0.002785945953162675,0.9952878453770885,0.0019262086697489835
+future requirement for public toilet maintenance in hospital area,later,later,0.9970016952393324,0.0016341986843157275,0.0013641060763519134
+plan to establish sports ground request in residential colony can be considered later,later,later,0.996572317645455,0.0018003171120069318,0.0016273652425380048
+future requirement for school building damage in hospital area,later,later,0.9969073894849982,0.0020488415469779417,0.0010437689680239432
+citizens have requested better need overhead water tank in bus stand,neutral,neutral,0.0029733293646166674,0.994866124155177,0.002160546480206143
+immediate action required broken road in main road,urgent,urgent,0.001469950819716584,0.0010638875564638701,0.9974661616238196
+need overhead water tank has created unsafe conditions in market area needs urgent fix,urgent,urgent,0.0019957663387813606,0.001883331866300172,0.9961209017949186
+request for public toilet maintenance at school zone,neutral,neutral,0.0036742483101142925,0.9935736087822148,0.002752142907670835
+citizens have requested better sports ground request in town,neutral,neutral,0.002532819290122568,0.9950218384383269,0.0024453422715505664
+public facing severe issues due to need new school request urgent solution,urgent,urgent,0.0016386688565185597,0.0013976856028090328,0.9969636455406725
+request for need new school at highway,neutral,neutral,0.002109399291061648,0.9974366947700627,0.0004539059388755981
+plan to establish bus stand crowding in market area can be considered later,later,later,0.9978657447894138,0.0010644783687617145,0.0010697768418244853
+public facing severe issues due to construction of bus stand request urgent solution,urgent,urgent,0.0010089292188561816,0.0011788688333931982,0.9978122019477508
+moderate issue observed need new school at bus stand kindly check,neutral,neutral,0.0019699886804026745,0.9965768111428438,0.0014532001767531139
+immediate action required solar street lights installation in residential colony,urgent,urgent,0.0026678176076806105,0.0021441750290130722,0.9951880073633061
+future requirement for school building damage in main road,later,later,0.9970121921611118,0.0017688247351356258,0.001218983103752594
+serious problem of construction of bus stand in hospital area kindly resolve immediately,urgent,urgent,0.001245412804275215,0.0017139163533502698,0.9970406708423745
+immediate action required sewage overflow in main road,urgent,urgent,2.430443431469503e-06,1.812339187057415e-06,0.9999957572173815
+citizens have requested better school building damage in hospital area,neutral,neutral,0.002205806704335308,0.9950322306894215,0.0027619626062430143
+serious problem of sewage overflow in residential colony kindly resolve immediately,urgent,urgent,3.0417464390724815e-06,3.4010176014039406e-06,0.9999935572359595
+suggestion to resolve broken road in city,neutral,neutral,0.001594768260880635,0.9959554458408948,0.002449785898224461
+citizens have requested better sewage overflow in town,neutral,neutral,0.0036077375178402643,0.9925969005504189,0.003795361931740887
+citizens have requested better water supply shortage in town,neutral,neutral,0.003914862970793743,0.9921904429655528,0.003894694063653429
+long term development needed sewage overflow at bus stand,later,later,0.9985299330094702,0.0007551760941257,0.0007148908964039807
+plan to establish water supply shortage in main road can be considered later,later,later,0.9973527083818337,0.0009869786419094036,0.0016603129762567687
+immediate action required school building damage in highway,urgent,urgent,2.384742459545812e-06,2.008159498116304e-06,0.9999956070980424
+serious problem of hospital medicine shortage in school zone kindly resolve immediately,urgent,urgent,3.889159352267744e-06,4.438921271916993e-06,0.9999916719193758
+plan to establish streetlight failure in hospital area can be considered later,later,later,0.9970314019930769,0.0012842648414987904,0.0016843331654242768
+long term development needed construction of bus stand at market area,later,later,0.9970863845179893,0.0016238495543516806,0.0012897659276592346
+urgent complaint regarding garbage pileup needs quick attention at school zone,urgent,urgent,2.6466478541120565e-06,2.398684204301375e-06,0.9999949546679416
+citizens have requested better broken road in school zone,neutral,neutral,0.0021157267801965606,0.9955510243529011,0.002333248866902414
+proposal to improve sports ground request in city in future plans,later,later,0.9979048552467589,0.0010156037250111983,0.0010795410282298204
+request for new project regarding hospital medicine shortage in bus stand,later,later,0.9981858246723797,0.001150562680733417,0.0006636126468868724
+public facing severe issues due to need new school request urgent solution,urgent,urgent,0.0016386688565185597,0.0013976856028090328,0.9969636455406725
+request for building public library at bus stand,neutral,neutral,0.0024471287492593046,0.9959864054573145,0.0015664657934261412
+future requirement for electricity outage in town,later,later,0.9983229189754553,0.0007502196045277705,0.000926861420016745
+public toilet maintenance has created unsafe conditions in hospital area needs urgent fix,urgent,urgent,4.9878255080113965e-06,4.196329167095182e-06,0.9999908158453249
+long term development needed electricity outage at residential colony,later,later,0.9974837716770442,0.001092338881739458,0.0014238894412165097
+need overhead water tank has created unsafe conditions in city needs urgent fix,urgent,urgent,0.0019669179968073375,0.0012970965034846981,0.9967359854997082
+serious problem of building public library in market area kindly resolve immediately,urgent,urgent,2.3882264491684062e-06,2.7126157647718284e-06,0.999994899157786
+school building damage has created unsafe conditions in school zone needs urgent fix,urgent,urgent,0.001640514608104132,0.0013709447035968668,0.9969885406882991
+proposal to improve broken road in hospital area in future plans,later,later,0.9979118172484276,0.0010551774846797588,0.0010330052668925892
+broken road has created unsafe conditions in school zone needs urgent fix,urgent,urgent,3.6063831718211565e-06,3.0679246562052187e-06,0.9999933256921719
+proposal to improve broken road in residential colony in future plans,later,later,0.9975816919475254,0.0010210993334876005,0.0013972087189871997
+request for new project regarding public toilet maintenance in town,later,later,0.9981188368727363,0.0008306733175861411,0.0010504898096776012
+need improvement in solar street lights installation at town,neutral,neutral,0.0038745591245677538,0.9914443766670651,0.0046810642083673585
+long term development needed water supply shortage at town,later,later,0.9984084885445447,0.0007169301908478567,0.0008745812646075982
+immediate action required garbage pileup in market area,urgent,urgent,1.9244686955680923e-06,1.5109127211891622e-06,0.9999965646185832
+future requirement for broken road in highway,later,later,0.9987585471752323,0.000705237948055648,0.0005362148767121496
+serious problem of need new school in school zone kindly resolve immediately,urgent,urgent,0.0017417187269052363,0.001870763422248377,0.9963875178508463
+request for new project regarding construction of bus stand in highway,later,later,0.9977531892989289,0.0012043250333839731,0.0010424856676871615
+urgent complaint regarding need new school needs quick attention at town,urgent,urgent,0.0017708706313224023,0.0011424187473866145,0.997086710621291
+moderate issue observed bus stand crowding at city kindly check,neutral,neutral,0.0025804829298093526,0.9938640513243238,0.0035554657458669687
+serious problem of streetlight failure in hospital area kindly resolve immediately,urgent,urgent,2.6158992079078745e-06,3.0098004878310716e-06,0.9999943743003042
+plan to establish public toilet maintenance in town can be considered later,later,later,0.9975323674877888,0.0008689375056342893,0.0015986950065770816
+serious problem of water supply shortage in main road kindly resolve immediately,urgent,urgent,0.0009991019677953624,0.000818184527251987,0.9981827135049527
+long term development needed broken road at residential colony,later,later,0.9979304357600226,0.001095790834133691,0.000973773405843578
+citizens have requested better streetlight failure in bus stand,neutral,neutral,0.002614317134964014,0.994811407811866,0.0025742750531698583
+solar street lights installation has created unsafe conditions in school zone needs urgent fix,urgent,urgent,0.0021820147013627373,0.002059102691383002,0.9957588826072544
+moderate issue observed need new school at village kindly check,neutral,neutral,0.00202926148638749,0.9963687749752116,0.0016019635384008448
+proposal to improve sewage overflow in highway in future plans,later,later,0.9982306781391415,0.0005149901965278132,0.0012543316643306174
+immediate action required construction of bus stand in main road,urgent,urgent,6.1913092621004135e-06,5.1362400309716525e-06,0.999988672450707
+public facing severe issues due to need overhead water tank request urgent solution,urgent,urgent,0.0014315999323218443,0.0018670842969848807,0.9967013157706934
+immediate action required bus stand crowding in bus stand,urgent,urgent,0.0025714750667618427,0.0018724046202913674,0.9955561203129466
+moderate issue observed school building damage at town kindly check,neutral,neutral,0.0020592821220114382,0.9934913560630876,0.004449361814901098
+suggestion to resolve school building damage in city,neutral,neutral,0.0024153024656865555,0.9932410803667594,0.0043436171675539925
+plan to establish garbage pileup in city can be considered later,later,later,0.9979751453545638,0.0005594732359486551,0.001465381409487412
+moderate issue observed sports ground request at town kindly check,neutral,neutral,0.0020047013264367763,0.9945737001700118,0.003421598503551458
+plan to establish sewage overflow in highway can be considered later,later,later,0.9980076603812646,0.0006167921628458372,0.001375547455889323
+proposal to improve construction of bus stand in bus stand in future plans,later,later,0.9948235159616688,0.0026337139894807506,0.002542770048850407
+public facing severe issues due to school building damage request urgent solution,urgent,urgent,4.579248158913836e-06,5.19556740622862e-06,0.9999902251844349
+serious problem of construction of bus stand in town kindly resolve immediately,urgent,urgent,0.0012240255853096101,0.0012776814032985377,0.997498293011392
+moderate issue observed streetlight failure at town kindly check,neutral,neutral,0.002362180987712205,0.9930100166251722,0.004627802387115496
+citizens have requested better hospital medicine shortage in market area,neutral,neutral,0.0033368431373526648,0.993451469678895,0.003211687183752763
+citizens have requested better need overhead water tank in market area,neutral,neutral,0.003609117783777129,0.9934030937230783,0.0029877884931442415
+urgent complaint regarding bus stand crowding needs quick attention at town,urgent,urgent,4.128207159823175e-06,3.745638501496424e-06,0.9999921261543387
+request for solar street lights installation at hospital area,neutral,neutral,0.004758004496081179,0.9918368128261924,0.0034051826777264324
+proposal to improve need new school in main road in future plans,later,later,0.998716323964378,0.0007642365929970064,0.0005194394426250388
+urgent complaint regarding sports ground request needs quick attention at town,urgent,urgent,5.9482413705777375e-06,5.759791660871688e-06,0.9999882919669686
+future requirement for bus stand crowding in market area,later,later,0.9982096532606043,0.0011269016279085887,0.0006634451114869597
+moderate issue observed bus stand crowding at highway kindly check,neutral,neutral,0.0021842635819997536,0.9948859961097624,0.002929740308237602
+public facing severe issues due to solar street lights installation request urgent solution,urgent,urgent,0.0017808949956093023,0.0020077060191848817,0.9962113989852058
+proposal to improve need overhead water tank in market area in future plans,later,later,0.9964859406042084,0.0018120487378368718,0.001702010657954713
+immediate action required school building damage in town,urgent,urgent,2.2179342787804456e-06,1.8629364219214243e-06,0.9999959191292992
+solar street lights installation has created unsafe conditions in residential colony needs urgent fix,urgent,urgent,0.002680484904196832,0.0021131817763779476,0.995206333319425
+proposal to improve sewage overflow in highway in future plans,later,later,0.9982306781391415,0.0005149901965278132,0.0012543316643306174
+moderate issue observed public toilet maintenance at hospital area kindly check,neutral,neutral,0.0020713195173383027,0.9937220586583482,0.004206621824313379
+request for need overhead water tank at village,neutral,neutral,0.0029797457691425762,0.9955180633873374,0.001502190843519915
+serious problem of need new school in village kindly resolve immediately,urgent,urgent,0.001542907505326077,0.0010990704296309757,0.997358022065043
+suggestion to resolve sewage overflow in market area,neutral,neutral,0.0026603553876816204,0.9932269353823984,0.004112709229920187
+urgent complaint regarding bus stand crowding needs quick attention at town,urgent,urgent,4.128207159823175e-06,3.745638501496424e-06,0.9999921261543387
+citizens have requested better broken road in bus stand,neutral,neutral,0.0016913781983751944,0.9967548755886382,0.0015537462129865882
+serious problem of electricity outage in town kindly resolve immediately,urgent,urgent,1.8067324467714045e-06,2.0474483178683747e-06,0.9999961458192353
+plan to establish streetlight failure in market area can be considered later,later,later,0.9970390704479914,0.0011591946454679572,0.001801734906540555
+long term development needed need overhead water tank at market area,later,later,0.9967735634285564,0.001970939370014764,0.0012554972014289215
+request for new project regarding need overhead water tank in city,later,later,0.9976630323082077,0.001274727076226497,0.0010622406155655758
+serious problem of sports ground request in town kindly resolve immediately,urgent,urgent,0.0009327901616745447,0.0008668616931876115,0.9982003481451381
+citizens have requested better streetlight failure in residential colony,neutral,neutral,0.004167396924323072,0.9912325850406374,0.00460001803503969
+long term development needed need overhead water tank at main road,later,later,0.9968603563271472,0.0018609572259356917,0.0012786864469171006
+moderate issue observed sports ground request at city kindly check,neutral,neutral,0.002375459777237558,0.9934983523440526,0.004126187878709802
+long term development needed need overhead water tank at bus stand,later,later,0.9972037357579125,0.0019216680117914431,0.0008745962302962017
+future requirement for need overhead water tank in residential colony,later,later,0.9953011935065027,0.0028186519276575954,0.0018801545658398626
+request for new project regarding electricity outage in city,later,later,0.9985099249121917,0.0005728768991011225,0.0009171981887070785
+public facing severe issues due to electricity outage request urgent solution,urgent,urgent,3.110849857567595e-06,3.4724496706995615e-06,0.9999934167004718
+solar street lights installation has created unsafe conditions in city needs urgent fix,urgent,urgent,0.002355254309124145,0.0014267038805163641,0.9962180418103592
+suggestion to resolve water supply shortage in bus stand,neutral,neutral,0.0024326163236678077,0.9945940607112458,0.0029733229650862713
+request for new project regarding electricity outage in highway,later,later,0.9984078317673541,0.000698113116907132,0.0008940551157386812
+immediate action required sewage overflow in hospital area,urgent,urgent,1.5250747621632823e-06,1.231267376802745e-06,0.999997243657861
+streetlight failure has created unsafe conditions in hospital area needs urgent fix,urgent,urgent,4.566155411054396e-06,3.861343052684971e-06,0.9999915725015361
+citizens have requested better public toilet maintenance in hospital area,neutral,neutral,0.002813203403640778,0.9939255072275845,0.0032612893687747045
+long term development needed bus stand crowding at main road,later,later,0.9983854933962105,0.0009395670703792247,0.0006749395334104194
+future requirement for electricity outage in residential colony,later,later,0.9969783365406387,0.001353060014944339,0.0016686034444170744
+moderate issue observed sports ground request at hospital area kindly check,neutral,neutral,0.0016269272118990437,0.995483216654945,0.0028898561331561178
+citizens have requested better need new school in residential colony,neutral,neutral,0.003712530031735715,0.9945205807648461,0.001766889203418374
+plan to establish electricity outage in town can be considered later,later,later,0.9978038273192056,0.0007520195336879209,0.0014441531471064974
+citizens have requested better public toilet maintenance in town,neutral,neutral,0.003487184929659982,0.9926523604163343,0.003860454654005913
+request for new project regarding broken road in bus stand,later,later,0.9986071308152337,0.0009244289663005009,0.0004684402184659022
+request for new project regarding water supply shortage in hospital area,later,later,0.9977951784676579,0.0011762585330728306,0.0010285629992692802
+long term development needed solar street lights installation at market area,later,later,0.9953986522798536,0.0026809900796829814,0.0019203576404633635
+serious problem of streetlight failure in residential colony kindly resolve immediately,urgent,urgent,3.826901658250569e-06,4.3283180770714345e-06,0.9999918447802646
+suggestion to resolve need overhead water tank in city,neutral,neutral,0.0036648925622331644,0.9923127233416005,0.004022384096165852
+citizens have requested better school building damage in main road,neutral,neutral,0.003341935953208211,0.9928370353359257,0.0038210287108662263
+proposal to improve sports ground request in town in future plans,later,later,0.9977545834419368,0.001191315568298974,0.001054100989764314
+need improvement in need new school at city,neutral,neutral,0.0032557473663567755,0.9949594947621463,0.0017847578714970326
+long term development needed solar street lights installation at hospital area,later,later,0.9952477303317865,0.002960066317937316,0.0017922033502762327
+request for new project regarding water supply shortage in residential colony,later,later,0.9974066538044749,0.0011664223678643666,0.0014269238276608147
+plan to establish bus stand crowding in highway can be considered later,later,later,0.9983310356176447,0.0007890377855503704,0.000879926596804817
+public facing severe issues due to solar street lights installation request urgent solution,urgent,urgent,0.0017808949956093023,0.0020077060191848817,0.9962113989852058
+public facing severe issues due to sewage overflow request urgent solution,urgent,urgent,2.7473019187487177e-06,3.0326415635948718e-06,0.9999942200565176
+serious problem of sports ground request in main road kindly resolve immediately,urgent,urgent,0.0011928551275953551,0.001206405945151028,0.9976007389272536
+proposal to improve need new school in town in future plans,later,later,0.9990729880777988,0.0005449116705230671,0.0003821002516781327
+proposal to improve need new school in market area in future plans,later,later,0.9986980395428613,0.0008014966293996528,0.0005004638277390467
+long term development needed solar street lights installation at highway,later,later,0.9963732947847525,0.0020340401450553132,0.0015926650701921145
+citizens have requested better need overhead water tank in market area,neutral,neutral,0.003609117783777129,0.9934030937230783,0.0029877884931442415
+urgent complaint regarding school building damage needs quick attention at village,urgent,urgent,4.963262520356361e-06,4.895729856657037e-06,0.9999901410076231
+public facing severe issues due to public toilet maintenance request urgent solution,urgent,urgent,0.0011814161937390955,0.0012239365214998445,0.9975946472847612
+suggestion to resolve broken road in village,neutral,neutral,3.973206105740674e-06,0.9987192440449079,0.0012767827489863748
+serious problem of sports ground request in town kindly resolve immediately,urgent,urgent,0.0009327901616745447,0.0008668616931876115,0.9982003481451381
+school building damage has created unsafe conditions in town needs urgent fix,urgent,urgent,4.824728990008603e-06,4.008020403108132e-06,0.9999911672506069
+request for new project regarding construction of bus stand in town,later,later,0.9977902382555907,0.0011696810835719555,0.001040080660837314
+request for need new school at village,neutral,neutral,2.8216533547664276e-06,0.9996529188971083,0.00034425944953709356
+request for new project regarding electricity outage in highway,later,later,0.9984078317673541,0.000698113116907132,0.0008940551157386812
+future requirement for school building damage in city,later,later,0.9981326822450015,0.001001188646439586,0.0008661291085587706
+proposal to improve building public library in town in future plans,later,later,0.9978461837050009,0.0006465272547450457,0.0015072890402540544
+suggestion to resolve water supply shortage in town,neutral,neutral,0.0030122941913836845,0.9927484889921631,0.00423921681645307
+need improvement in hospital medicine shortage at main road,neutral,neutral,0.0027870439397341155,0.9941322894451301,0.003080666615135577
+need improvement in building public library at residential colony,neutral,neutral,0.0031996156636371524,0.9922549757622487,0.004545408574113867
+proposal to improve water supply shortage in market area in future plans,later,later,0.9974656488461912,0.0009588945278086667,0.0015754566260003083
+plan to establish need overhead water tank in highway can be considered later,later,later,0.9970971741671169,0.001433255803695632,0.001469570029187654
+immediate action required water supply shortage in school zone,urgent,urgent,3.1737201662891054e-06,2.5320467036636547e-06,0.99999429423313
+serious problem of sports ground request in town kindly resolve immediately,urgent,urgent,0.0009327901616745447,0.0008668616931876115,0.9982003481451381
+urgent complaint regarding need new school needs quick attention at hospital area,urgent,urgent,0.0017609726295588746,0.0015750776271278852,0.9966639497433131
+school building damage has created unsafe conditions in main road needs urgent fix,urgent,urgent,0.0015836603972034906,0.0010429881931583542,0.9973733514096382
+proposal to improve sewage overflow in market area in future plans,later,later,0.9976977809557099,0.0007381582366849076,0.0015640608076051797
+urgent complaint regarding need new school needs quick attention at town,urgent,urgent,0.0017708706313224023,0.0011424187473866145,0.997086710621291
+public facing severe issues due to hospital medicine shortage request urgent solution,urgent,urgent,0.001019042891793318,0.0009808542897835372,0.9980001028184231
+immediate action required bus stand crowding in village,urgent,urgent,4.206761443426981e-06,3.51916638686569e-06,0.9999922740721698
+moderate issue observed solar street lights installation at town kindly check,neutral,neutral,0.0038042466879629725,0.989911534732019,0.006284218580018017
+immediate action required sports ground request in school zone,urgent,urgent,5.840277978954116e-06,5.276359904430934e-06,0.9999888833621166
+request for new project regarding sports ground request in school zone,later,later,0.9955784323583852,0.0028005942983723216,0.0016209733432424856
+proposal to improve public toilet maintenance in hospital area in future plans,later,later,0.9970805401314969,0.0012183149388190785,0.0017011449296840356
+urgent complaint regarding solar street lights installation needs quick attention at hospital area,urgent,urgent,0.001904639356186778,0.0022346635198816126,0.9958606971239318
+need improvement in construction of bus stand at main road,neutral,neutral,0.002695696215619804,0.9939685209486979,0.003335782835682316
+public facing severe issues due to streetlight failure request urgent solution,urgent,urgent,3.5160917407929027e-06,3.936362262070927e-06,0.9999925475459972
+public facing severe issues due to construction of bus stand request urgent solution,urgent,urgent,0.0010089292188561816,0.0011788688333931982,0.9978122019477508
+hospital medicine shortage has created unsafe conditions in village needs urgent fix,urgent,urgent,0.0016564791162468999,0.0010201524999344544,0.9973233683838186
+plan to establish need overhead water tank in hospital area can be considered later,later,later,0.9963136074446757,0.0020545354261171877,0.0016318571292070635
+urgent complaint regarding need overhead water tank needs quick attention at town,urgent,urgent,0.0015423010469264558,0.0015187978577437381,0.99693890109533
+serious problem of solar street lights installation in market area kindly resolve immediately,urgent,urgent,0.0015298430734847312,0.0018398052064392163,0.996630351720076
+request for new project regarding bus stand crowding in main road,later,later,0.9983888614803131,0.000943255272102376,0.0006678832475846373
+future requirement for sewage overflow in school zone,later,later,0.9975660221722458,0.000992180426386545,0.001441797401367844
+moderate issue observed garbage pileup at bus stand kindly check,neutral,neutral,0.002192554658524191,0.9939995110220043,0.003807934319471356
+long term development needed sports ground request at school zone,later,later,0.9969882917393591,0.0019367574274097433,0.0010749508332311716
+moderate issue observed public toilet maintenance at school zone kindly check,neutral,neutral,0.0024688827973236554,0.9925505926405781,0.004980524562098341
+bus stand crowding has created unsafe conditions in main road needs urgent fix,urgent,urgent,0.0018147528624811915,0.001148699055095602,0.9970365480824233
+suggestion to resolve hospital medicine shortage in village,neutral,neutral,0.0020807680698797727,0.9953250291082983,0.0025942028218220964
+serious problem of building public library in highway kindly resolve immediately,urgent,urgent,1.821446102948044e-06,2.0582620650379003e-06,0.999996120291832
+serious problem of construction of bus stand in main road kindly resolve immediately,urgent,urgent,0.0015020361666742968,0.0016833183002409732,0.9968146455330846
+serious problem of garbage pileup in residential colony kindly resolve immediately,urgent,urgent,3.2272568666220445e-06,3.6188487259174354e-06,0.9999931538944076
+long term development needed public toilet maintenance at market area,later,later,0.9974796512119488,0.0012018778322294952,0.0013184709558218073
+public facing severe issues due to building public library request urgent solution,urgent,urgent,0.0010448964851864494,0.0010895344327439375,0.9978655690820696
+future requirement for water supply shortage in town,later,later,0.9982884265877506,0.000802474474528992,0.0009090989377203092
+suggestion to resolve solar street lights installation in city,neutral,neutral,0.005426985323195547,0.9871438502646124,0.007429164412192156
+future requirement for public toilet maintenance in village,later,later,0.9978749700137969,0.0012467877014725327,0.0008782422847305791
+moderate issue observed building public library at bus stand kindly check,neutral,neutral,0.002116719193733359,0.994163990585264,0.003719290221002549
+citizens have requested better school building damage in bus stand,neutral,neutral,0.002190290200900995,0.9954662725178225,0.002343437281276384
+proposal to improve sports ground request in city in future plans,later,later,0.9979048552467589,0.0010156037250111983,0.0010795410282298204
+future requirement for need new school in city,later,later,0.9993509552533514,0.0004437781156230179,0.00020526663102575632
+future requirement for solar street lights installation in bus stand,later,later,0.9945592938558878,0.0037542054666297236,0.001686500677482495
+urgent complaint regarding solar street lights installation needs quick attention at hospital area,urgent,urgent,0.001904639356186778,0.0022346635198816126,0.9958606971239318
+serious problem of hospital medicine shortage in highway kindly resolve immediately,urgent,urgent,3.392752359768411e-06,3.850328157819169e-06,0.9999927569194824
+plan to establish sports ground request in village can be considered later,later,later,0.997356372957819,0.001630163018005686,0.0010134640241753073
+request for new project regarding electricity outage in highway,later,later,0.9984078317673541,0.000698113116907132,0.0008940551157386812
+request for hospital medicine shortage at town,neutral,neutral,0.002977602942447298,0.9952002947781526,0.001822102279400037
+long term development needed public toilet maintenance at highway,later,later,0.9981028076353609,0.0008533798422018123,0.0010438125224371637
+proposal to improve electricity outage in highway in future plans,later,later,0.9980103409756617,0.0006627714248931903,0.0013268875994450404
+moderate issue observed water supply shortage at market area kindly check,neutral,neutral,0.002919230525651745,0.9919253065615284,0.005155462912819724
+request for need overhead water tank at market area,neutral,neutral,0.004078881774544024,0.9938825075003114,0.00203861072514465
+request for new project regarding electricity outage in hospital area,later,later,0.9978061853095316,0.0011323583608121354,0.0010614563296562508
+suggestion to resolve electricity outage in school zone,neutral,neutral,0.002309200776748092,0.9937498722350016,0.003940926988250312
+request for garbage pileup at main road,neutral,neutral,0.00468982166644443,0.9921232998147476,0.003186878518808267
+serious problem of streetlight failure in school zone kindly resolve immediately,urgent,urgent,2.5749280299232223e-06,2.941460188066478e-06,0.999994483611782
+proposal to improve garbage pileup in bus stand in future plans,later,later,0.9980930784488736,0.0007921961954178359,0.0011147253557084015
+long term development needed sports ground request at school zone,later,later,0.9969882917393591,0.0019367574274097433,0.0010749508332311716
+need improvement in need overhead water tank at town,neutral,neutral,0.004020142641135009,0.9918939854491252,0.004085871909739803
+future requirement for water supply shortage in market area,later,later,0.9974874346953366,0.0012667115956925758,0.0012458537089708947
+request for need new school at city,neutral,neutral,0.0026467697958219983,0.9967562861299675,0.0005969440742106624
+citizens have requested better sewage overflow in bus stand,neutral,neutral,0.0029246536912068046,0.9943353853094187,0.002739960999374754
+garbage pileup has created unsafe conditions in main road needs urgent fix,urgent,urgent,5.112488823762119e-06,3.911982625463896e-06,0.9999909755285508
+need improvement in school building damage at residential colony,neutral,neutral,0.0024743781885897356,0.9937526154028079,0.003773006408602242
+public facing severe issues due to bus stand crowding request urgent solution,urgent,urgent,0.001035935672232558,0.0009991593391889273,0.9979649049885785
+serious problem of solar street lights installation in market area kindly resolve immediately,urgent,urgent,0.0015298430734847312,0.0018398052064392163,0.996630351720076
+need improvement in need overhead water tank at village,neutral,neutral,0.0033031656725076687,0.9934639971509494,0.0032328371765428577
+future requirement for need overhead water tank in main road,later,later,0.9959452247309925,0.0024975331026728122,0.0015572421663345502
+request for garbage pileup at school zone,neutral,neutral,0.003606613370962532,0.9937339838637617,0.0026594027652758743
+immediate action required electricity outage in town,urgent,urgent,1.3301110044779516e-06,1.0291321242764225e-06,0.9999976407568713
+request for new project regarding construction of bus stand in school zone,later,later,0.9965842982984454,0.00183427658137306,0.001581425120181501
+future requirement for streetlight failure in highway,later,later,0.9980605058576917,0.0009195102607592151,0.0010199838815490982
+moderate issue observed sewage overflow at residential colony kindly check,neutral,neutral,0.0034458723991127676,0.9903009727209405,0.006253154879946796
+long term development needed construction of bus stand at main road,later,later,0.997145326812312,0.0015357263522530566,0.0013189468354348763
+long term development needed public toilet maintenance at hospital area,later,later,0.9974739067509015,0.0013220393174421688,0.0012040539316563726
+future requirement for construction of bus stand in market area,later,later,0.9963874503665303,0.0021004234915555525,0.0015121261419143261
+request for broken road at village,neutral,neutral,2.8165995022848114e-06,0.9992985182525086,0.0006986651479890816
+suggestion to resolve water supply shortage in village,neutral,neutral,0.002522878635385966,0.9941095517751963,0.0033675695894176687
+citizens have requested better solar street lights installation in market area,neutral,neutral,0.00480475364401569,0.9903858755684356,0.004809370787548609
+public facing severe issues due to need new school request urgent solution,urgent,urgent,0.0016386688565185597,0.0013976856028090328,0.9969636455406725
+need improvement in streetlight failure at highway,neutral,neutral,0.0019410985650483246,0.9953473730218356,0.00271152841311619
+citizens have requested better school building damage in school zone,neutral,neutral,0.0038050915321089377,0.9912412864413437,0.0049536220265475606
+sewage overflow has created unsafe conditions in city needs urgent fix,urgent,urgent,2.982390461399797e-06,2.1617981886712876e-06,0.9999948558113498
+need improvement in electricity outage at highway,neutral,neutral,0.001918361562956618,0.9954055247598066,0.002676113677236755
+citizens have requested better need new school in residential colony,neutral,neutral,0.003712530031735715,0.9945205807648461,0.001766889203418374
+citizens have requested better solar street lights installation in market area,neutral,neutral,0.00480475364401569,0.9903858755684356,0.004809370787548609
+urgent complaint regarding garbage pileup needs quick attention at main road,urgent,urgent,3.850345210740481e-06,3.3673658528365708e-06,0.9999927822889364
+moderate issue observed sports ground request at residential colony kindly check,neutral,neutral,0.0026074958446638805,0.9930550252594822,0.004337478895854036
+long term development needed electricity outage at city,later,later,0.9984841720517086,0.0005873332660028009,0.0009284946822885358
+proposal to improve public toilet maintenance in city in future plans,later,later,0.9978026039449793,0.0006486062645254246,0.0015487897904951937
+building public library has created unsafe conditions in village needs urgent fix,urgent,urgent,4.578989702859965e-06,3.7054698468037733e-06,0.9999917155404504
+public facing severe issues due to sports ground request request urgent solution,urgent,urgent,0.0015199104609210322,0.0016425130218597076,0.996837576517219
+citizens have requested better sewage overflow in main road,neutral,neutral,0.004427143306482802,0.9910997561167338,0.004473100576783095
+future requirement for sewage overflow in school zone,later,later,0.9975660221722458,0.000992180426386545,0.001441797401367844
+request for sewage overflow at market area,neutral,neutral,0.0035459649613191666,0.9940471127757914,0.0024069222628893766
+request for hospital medicine shortage at town,neutral,neutral,0.002977602942447298,0.9952002947781526,0.001822102279400037
+citizens have requested better construction of bus stand in market area,neutral,neutral,0.0031457674365856178,0.9935181095074391,0.003336123055975495
+suggestion to resolve garbage pileup in highway,neutral,neutral,0.002573429337620261,0.9933452175077603,0.004081353154619422
+future requirement for hospital medicine shortage in residential colony,later,later,0.9969593510227017,0.0016022438694050082,0.0014384051078931534
+public facing severe issues due to public toilet maintenance request urgent solution,urgent,urgent,0.0011814161937390955,0.0012239365214998445,0.9975946472847612
+suggestion to resolve electricity outage in main road,neutral,neutral,0.0031332143020806236,0.992161875764549,0.004704909933370576
+immediate action required school building damage in town,urgent,urgent,2.2179342787804456e-06,1.8629364219214243e-06,0.9999959191292992
+request for new project regarding garbage pileup in village,later,later,0.9985545168009701,0.0007511448174149397,0.0006943383816150505
+solar street lights installation has created unsafe conditions in main road needs urgent fix,urgent,urgent,0.0026915079813437134,0.0020236205820532206,0.9952848714366029
+plan to establish broken road in hospital area can be considered later,later,later,0.9976094202379173,0.001207346348619181,0.0011832334134634337
+suggestion to resolve sewage overflow in bus stand,neutral,neutral,0.0020569271800189664,0.995241888216532,0.002701184603449098
+streetlight failure has created unsafe conditions in main road needs urgent fix,urgent,urgent,5.954748010615668e-06,4.729365676825248e-06,0.9999893158863126
+suggestion to resolve garbage pileup in hospital area,neutral,neutral,0.0020143749484256078,0.994584519182163,0.003401105869411544
+urgent complaint regarding school building damage needs quick attention at city,urgent,urgent,3.416345791959625e-06,3.1450323693983934e-06,0.9999934386218385
+proposal to improve streetlight failure in hospital area in future plans,later,later,0.9972321165958785,0.0011756253199173027,0.001592258084204179
+citizens have requested better solar street lights installation in village,neutral,neutral,0.004164513513191552,0.9918816331171117,0.003953853369696675
+serious problem of sewage overflow in market area kindly resolve immediately,urgent,urgent,2.1930926687415044e-06,2.4782756797046264e-06,0.9999953286316515
+request for new project regarding sports ground request in school zone,later,later,0.9955784323583852,0.0028005942983723216,0.0016209733432424856
+request for new project regarding construction of bus stand in village,later,later,0.9976638799317099,0.001497798096060288,0.0008383219722297255
+garbage pileup has created unsafe conditions in market area needs urgent fix,urgent,urgent,4.1151231196643494e-06,3.2402811503732435e-06,0.99999264459573
+serious problem of need overhead water tank in market area kindly resolve immediately,urgent,urgent,0.0012325102426310483,0.0017199293266811804,0.9970475604306879
+proposal to improve need overhead water tank in school zone in future plans,later,later,0.9961363102498643,0.001920700575703163,0.0019429891744325932
+plan to establish solar street lights installation in school zone can be considered later,later,later,0.9948372527176864,0.0024454927317000543,0.0027172545506137136
+moderate issue observed school building damage at city kindly check,neutral,neutral,0.0024462653096010666,0.9921746120263555,0.005379122664043494
+long term development needed hospital medicine shortage at highway,later,later,0.9983733216327626,0.0008397669334580087,0.0007869114337792164
+future requirement for water supply shortage in residential colony,later,later,0.9969914021824969,0.0014067172218621066,0.0016018805956408875
+future requirement for building public library in residential colony,later,later,0.9966992228460424,0.0013667544051805692,0.0019340227487771255
+public facing severe issues due to need new school request urgent solution,urgent,urgent,0.0016386688565185597,0.0013976856028090328,0.9969636455406725
+public facing severe issues due to building public library request urgent solution,urgent,urgent,0.0010448964851864494,0.0010895344327439375,0.9978655690820696
+water supply shortage has created unsafe conditions in village needs urgent fix,urgent,urgent,0.0016297898947841667,0.0008919271804801171,0.9974782829247358
+immediate action required hospital medicine shortage in school zone,urgent,urgent,3.640775211887962e-06,3.011265486245143e-06,0.9999933479593018
+citizens have requested better building public library in main road,neutral,neutral,0.004226224701470193,0.99123665958454,0.0045371157139900975
+public facing severe issues due to sewage overflow request urgent solution,urgent,urgent,2.7473019187487177e-06,3.0326415635948718e-06,0.9999942200565176
+long term development needed construction of bus stand at market area,later,later,0.9970863845179893,0.0016238495543516806,0.0012897659276592346
+immediate action required hospital medicine shortage in city,urgent,urgent,2.7330924112434235e-06,2.0599078788487316e-06,0.9999952069997099
+bus stand crowding has created unsafe conditions in city needs urgent fix,urgent,urgent,5.915704943346734e-06,4.507875187839309e-06,0.9999895764198687
+suggestion to resolve sports ground request in bus stand,neutral,neutral,0.0015072466002759022,0.996723987246225,0.0017687661534989208
+public facing severe issues due to electricity outage request urgent solution,urgent,urgent,3.110849857567595e-06,3.4724496706995615e-06,0.9999934167004718
+serious problem of sports ground request in city kindly resolve immediately,urgent,urgent,0.0009629492468148293,0.0007541242650911407,0.998282926488094
+request for new project regarding public toilet maintenance in town,later,later,0.9981188368727363,0.0008306733175861411,0.0010504898096776012
+public facing severe issues due to hospital medicine shortage request urgent solution,urgent,urgent,0.001019042891793318,0.0009808542897835372,0.9980001028184231
+urgent complaint regarding sports ground request needs quick attention at school zone,urgent,urgent,0.0012133907895198871,0.0014546183833274687,0.9973319908271528
+request for water supply shortage at highway,neutral,neutral,0.003755383481352841,0.993783784646924,0.002460831871723256
+public facing severe issues due to public toilet maintenance request urgent solution,urgent,urgent,0.0011814161937390955,0.0012239365214998445,0.9975946472847612
+request for sports ground request at highway,neutral,neutral,0.00338519375291649,0.9941372651452604,0.002477541101823088
+suggestion to resolve streetlight failure in hospital area,neutral,neutral,0.0018258955043027115,0.9950866308467408,0.0030874736489566366
+suggestion to resolve solar street lights installation in highway,neutral,neutral,0.004568525894015946,0.9893374916463971,0.006093982459587097
+request for water supply shortage at residential colony,neutral,neutral,0.005925408572577947,0.9902225869704676,0.003852004456954355
+public facing severe issues due to sports ground request request urgent solution,urgent,urgent,0.0015199104609210322,0.0016425130218597076,0.996837576517219
+proposal to improve need new school in village in future plans,later,later,0.9989869074196821,0.0006958705434818575,0.0003172220368359794
+garbage pileup has created unsafe conditions in highway needs urgent fix,urgent,urgent,3.3326068312086864e-06,2.5369371363522054e-06,0.9999941304560325
+immediate action required sewage overflow in village,urgent,urgent,1.8256126072279214e-06,1.4315218750929428e-06,0.9999967428655177
+citizens have requested better hospital medicine shortage in bus stand,neutral,neutral,0.0026983456495850203,0.9950317050782607,0.0022699492721541883
+bus stand crowding has created unsafe conditions in hospital area needs urgent fix,urgent,urgent,0.0014565890435632133,0.0011757258199531205,0.9973676851364838
+suggestion to resolve streetlight failure in city,neutral,neutral,0.002834231148034741,0.9925166143839831,0.004649154467982092
+proposal to improve need overhead water tank in bus stand in future plans,later,later,0.9969998209107215,0.0017890093350681252,0.0012111697542102739
+long term development needed need new school at village,later,later,0.9991026680131759,0.0006962298706494797,0.0002011021161746621
+long term development needed hospital medicine shortage at school zone,later,later,0.997559460653031,0.0012680343449081603,0.0011725050020608362
+request for garbage pileup at school zone,neutral,neutral,0.003606613370962532,0.9937339838637617,0.0026594027652758743
+moderate issue observed construction of bus stand at bus stand kindly check,neutral,neutral,0.0036557900130174833,0.9902429644783111,0.006101245508671207
+immediate action required water supply shortage in school zone,urgent,urgent,3.1737201662891054e-06,2.5320467036636547e-06,0.99999429423313
+public facing severe issues due to bus stand crowding request urgent solution,urgent,urgent,0.001035935672232558,0.0009991593391889273,0.9979649049885785
+citizens have requested better solar street lights installation in hospital area,neutral,neutral,0.003998806974675469,0.991900191398984,0.0041010016263405905
+suggestion to resolve need new school in school zone,neutral,neutral,0.003555608124731123,0.9940375076206022,0.0024068842546669223
+need improvement in water supply shortage at market area,neutral,neutral,0.002607505126720081,0.9940846420840553,0.0033078527892246396
+suggestion to resolve building public library in hospital area,neutral,neutral,0.0019597078261115587,0.9946640144320116,0.0033762777418766864
+urgent complaint regarding solar street lights installation needs quick attention at main road,urgent,urgent,0.0023820581055811825,0.002207843956831448,0.9954100979375874
+solar street lights installation has created unsafe conditions in residential colony needs urgent fix,urgent,urgent,0.002680484904196832,0.0021131817763779476,0.995206333319425
+proposal to improve sewage overflow in town in future plans,later,later,0.998246012653196,0.0004997239440374299,0.0012542634027663928
+proposal to improve solar street lights installation in market area in future plans,later,later,0.9950803731095149,0.0023878458242022078,0.0025317810662826633
+immediate action required sports ground request in school zone,urgent,urgent,5.840277978954116e-06,5.276359904430934e-06,0.9999888833621166
+public toilet maintenance has created unsafe conditions in city needs urgent fix,urgent,urgent,4.045663697215108e-06,3.0734730983481415e-06,0.9999928808632045
+public facing severe issues due to bus stand crowding request urgent solution,urgent,urgent,0.001035935672232558,0.0009991593391889273,0.9979649049885785
+serious problem of bus stand crowding in highway kindly resolve immediately,urgent,urgent,3.4887284937733797e-06,3.973428997813696e-06,0.9999925378425084
+urgent complaint regarding solar street lights installation needs quick attention at bus stand,urgent,urgent,0.0022345073860479806,0.0023092107318877686,0.9954562818820639
+citizens have requested better hospital medicine shortage in school zone,neutral,neutral,0.003282633742877598,0.9934276965648832,0.003289669692239148
+suggestion to resolve garbage pileup in market area,neutral,neutral,0.0026508496537037524,0.9930438467651548,0.004305303581141182
+school building damage has created unsafe conditions in market area needs urgent fix,urgent,urgent,6.156095555073795e-06,5.283037067821565e-06,0.9999885608673771
+request for new project regarding construction of bus stand in school zone,later,later,0.9965842982984454,0.00183427658137306,0.001581425120181501
+request for broken road at market area,neutral,neutral,6.758593403611199e-06,0.9989223927777922,0.0010708486288042297
+proposal to improve school building damage in hospital area in future plans,later,later,0.9971014256074037,0.001493352947967171,0.001405221444629069
+urgent complaint regarding hospital medicine shortage needs quick attention at village,urgent,urgent,0.0012817963632123742,0.0009556820697578173,0.99776252156703
+public facing severe issues due to water supply shortage request urgent solution,urgent,urgent,0.0009973739196093637,0.0008551020441891257,0.9981475240362014
+request for new project regarding school building damage in city,later,later,0.9982858776252722,0.0008724246921011618,0.0008416976826266267
+electricity outage has created unsafe conditions in village needs urgent fix,urgent,urgent,4.859001177585077e-06,3.968107796113298e-06,0.9999911728910263
+request for new project regarding need new school in city,later,later,0.9985287238514147,0.0009188017389971106,0.0005524744095881521
+proposal to improve public toilet maintenance in city in future plans,later,later,0.9978026039449793,0.0006486062645254246,0.0015487897904951937
+request for new project regarding school building damage in residential colony,later,later,0.9969821813994441,0.00165659687093367,0.0013612217296222865
+citizens have requested better sewage overflow in town,neutral,neutral,0.0036077375178402643,0.9925969005504189,0.003795361931740887
+citizens have requested better sewage overflow in market area,neutral,neutral,0.0036021120585801305,0.9925263687271659,0.003871519214253548
+future requirement for broken road in main road,later,later,0.9961601314814507,0.0021054995927555814,0.0017343689257936325
+suggestion to resolve public toilet maintenance in main road,neutral,neutral,0.0034581487173483147,0.991347221313307,0.005194629969344621
+public facing severe issues due to school building damage request urgent solution,urgent,urgent,4.579248158913836e-06,5.19556740622862e-06,0.9999902251844349

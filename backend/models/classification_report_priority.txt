@@ -1,0 +1,11 @@
+Accuracy: 1.0000
+
+              precision    recall  f1-score   support
+
+       later     1.0000    1.0000    1.0000       133
+     neutral     1.0000    1.0000    1.0000       130
+      urgent     1.0000    1.0000    1.0000       138
+
+    accuracy                         1.0000       401
+   macro avg     1.0000    1.0000    1.0000       401
+weighted avg     1.0000    1.0000    1.0000       401

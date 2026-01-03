@@ -1,0 +1,2002 @@
+text,label,department
+Dam for the village,Later,roads
+Future requirement for broken road in highway.,Later,roads
+Future requirement for broken road in highway.,Later,roads
+Future requirement for broken road in main road.,Later,roads
+Future requirement for broken road in main road.,Later,roads
+Future requirement for broken road in market area.,Later,roads
+Future requirement for broken road in residential colony.,Later,roads
+Future requirement for broken road in town.,Later,roads
+Future requirement for broken road in village.,Later,roads
+Future requirement for broken road in village.,Later,roads
+Future requirement for building public library in bus stand.,Later,civil
+Future requirement for building public library in highway.,Later,civil
+Future requirement for building public library in highway.,Later,civil
+Future requirement for building public library in main road.,Later,roads
+Future requirement for building public library in residential colony.,Later,civil
+Future requirement for building public library in residential colony.,Later,civil
+Future requirement for building public library in residential colony.,Later,civil
+Future requirement for bus stand crowding in city.,Later,civil
+Future requirement for bus stand crowding in city.,Later,civil
+Future requirement for bus stand crowding in market area.,Later,civil
+Future requirement for bus stand crowding in market area.,Later,civil
+Future requirement for bus stand crowding in market area.,Later,civil
+Future requirement for bus stand crowding in residential colony.,Later,civil
+Future requirement for bus stand crowding in residential colony.,Later,civil
+Future requirement for construction of bus stand in city.,Later,civil
+Future requirement for construction of bus stand in hospital area.,Later,civil
+Future requirement for construction of bus stand in market area.,Later,civil
+Future requirement for construction of bus stand in market area.,Later,civil
+Future requirement for construction of bus stand in residential colony.,Later,civil
+Future requirement for electricity outage in bus stand.,Later,electricity
+Future requirement for electricity outage in city.,Later,electricity
+Future requirement for electricity outage in hospital area.,Later,electricity
+Future requirement for electricity outage in main road.,Later,electricity
+Future requirement for electricity outage in market area.,Later,electricity
+Future requirement for electricity outage in residential colony.,Later,electricity
+Future requirement for electricity outage in town.,Later,electricity
+Future requirement for electricity outage in town.,Later,electricity
+Future requirement for electricity outage in village.,Later,electricity
+Future requirement for garbage pileup in city.,Later,sanitation
+Future requirement for garbage pileup in hospital area.,Later,sanitation
+Future requirement for garbage pileup in main road.,Later,roads
+Future requirement for garbage pileup in residential colony.,Later,sanitation
+Future requirement for hospital medicine shortage in highway.,Later,roads
+Future requirement for hospital medicine shortage in hospital area.,Later,roads
+Future requirement for hospital medicine shortage in hospital area.,Later,roads
+Future requirement for hospital medicine shortage in main road.,Later,roads
+Future requirement for hospital medicine shortage in main road.,Later,roads
+Future requirement for hospital medicine shortage in residential colony.,Later,roads
+Future requirement for hospital medicine shortage in school zone.,Later,roads
+Future requirement for hospital medicine shortage in town.,Later,roads
+Future requirement for hospital medicine shortage in village.,Later,roads
+Future requirement for hospital medicine shortage in village.,Later,roads
+Future requirement for need new school in city.,Later,civil
+Future requirement for need new school in highway.,Later,civil
+Future requirement for need new school in hospital area.,Later,civil
+Future requirement for need new school in hospital area.,Later,civil
+Future requirement for need new school in market area.,Later,civil
+Future requirement for need new school in market area.,Later,civil
+Future requirement for need new school in market area.,Later,civil
+Future requirement for need new school in residential colony.,Later,water
+Future requirement for need new school in school zone.,Later,water
+Future requirement for need overhead water tank in city.,Later,water
+Future requirement for need overhead water tank in main road.,Later,water
+Future requirement for need overhead water tank in main road.,Later,water
+Future requirement for need overhead water tank in residential colony.,Later,water
+Future requirement for need overhead water tank in residential colony.,Later,water
+Future requirement for need overhead water tank in school zone.,Later,water
+Future requirement for need overhead water tank in town.,Later,water
+Future requirement for need overhead water tank in town.,Later,water
+Future requirement for need overhead water tank in village.,Later,water
+Future requirement for public toilet maintenance in city.,Later,sanitation
+Future requirement for public toilet maintenance in hospital area.,Later,sanitation
+Future requirement for public toilet maintenance in hospital area.,Later,sanitation
+Future requirement for public toilet maintenance in hospital area.,Later,sanitation
+Future requirement for public toilet maintenance in hospital area.,Later,sanitation
+Future requirement for public toilet maintenance in main road.,Later,sanitation
+Future requirement for public toilet maintenance in residential colony.,Later,sanitation
+Future requirement for public toilet maintenance in school zone.,Later,sanitation
+Future requirement for public toilet maintenance in school zone.,Later,sanitation
+Future requirement for public toilet maintenance in town.,Later,sanitation
+Future requirement for public toilet maintenance in village.,Later,sanitation
+Future requirement for public toilet maintenance in village.,Later,sanitation
+Future requirement for public toilet maintenance in village.,Later,sanitation
+Future requirement for school building damage in bus stand.,Later,civil
+Future requirement for school building damage in city.,Later,civil
+Future requirement for school building damage in city.,Later,civil
+Future requirement for school building damage in highway.,Later,civil
+Future requirement for school building damage in hospital area.,Later,civil
+Future requirement for school building damage in hospital area.,Later,civil
+Future requirement for school building damage in hospital area.,Later,civil
+Future requirement for school building damage in hospital area.,Later,civil
+Future requirement for school building damage in main road.,Later,roads
+Future requirement for school building damage in market area.,Later,civil
+Future requirement for school building damage in town.,Later,civil
+Future requirement for school building damage in village.,Later,civil
+Future requirement for sewage overflow in city.,Later,water
+Future requirement for sewage overflow in highway.,Later,water
+Future requirement for sewage overflow in market area.,Later,water
+Future requirement for sewage overflow in school zone.,Later,water
+Future requirement for sewage overflow in school zone.,Later,water
+Future requirement for sewage overflow in town.,Later,water
+Future requirement for sewage overflow in village.,Later,water
+Future requirement for solar street lights installation in bus stand.,Later,roads
+Future requirement for solar street lights installation in city.,Later,roads
+Future requirement for solar street lights installation in highway.,Later,roads
+Future requirement for solar street lights installation in main road.,Later,roads
+Future requirement for solar street lights installation in residential colony.,Later,roads
+Future requirement for solar street lights installation in town.,Later,roads
+Future requirement for solar street lights installation in town.,Later,roads
+Future requirement for sports ground request in hospital area.,Later,roads
+Future requirement for sports ground request in hospital area.,Later,roads
+Future requirement for sports ground request in main road.,Later,roads
+Future requirement for sports ground request in main road.,Later,roads
+Future requirement for sports ground request in market area.,Later,roads
+Future requirement for sports ground request in market area.,Later,roads
+Future requirement for sports ground request in residential colony.,Later,roads
+Future requirement for sports ground request in town.,Later,roads
+Future requirement for sports ground request in village.,Later,roads
+Future requirement for streetlight failure in bus stand.,Later,roads
+Future requirement for streetlight failure in bus stand.,Later,roads
+Future requirement for streetlight failure in bus stand.,Later,roads
+Future requirement for streetlight failure in highway.,Later,roads
+Future requirement for streetlight failure in hospital area.,Later,roads
+Future requirement for streetlight failure in hospital area.,Later,roads
+Future requirement for streetlight failure in market area.,Later,roads
+Future requirement for streetlight failure in school zone.,Later,roads
+Future requirement for streetlight failure in school zone.,Later,roads
+Future requirement for water supply shortage in hospital area.,Later,water
+Future requirement for water supply shortage in market area.,Later,water
+Future requirement for water supply shortage in residential colony.,Later,water
+Future requirement for water supply shortage in residential colony.,Later,water
+Future requirement for water supply shortage in school zone.,Later,water
+Future requirement for water supply shortage in school zone.,Later,water
+Future requirement for water supply shortage in town.,Later,water
+Future requirement for water supply shortage in town.,Later,water
+Future requirement for water supply shortage in village.,Later,water
+Long-term development needed: broken road at bus stand.,Later,roads
+Long-term development needed: broken road at bus stand.,Later,roads
+Long-term development needed: broken road at residential colony.,Later,roads
+Long-term development needed: broken road at residential colony.,Later,roads
+Long-term development needed: broken road at school zone.,Later,roads
+Long-term development needed: broken road at school zone.,Later,roads
+Long-term development needed: building public library at bus stand.,Later,civil
+Long-term development needed: building public library at city.,Later,civil
+Long-term development needed: building public library at highway.,Later,civil
+Long-term development needed: building public library at hospital area.,Later,civil
+Long-term development needed: building public library at main road.,Later,roads
+Long-term development needed: building public library at main road.,Later,roads
+Long-term development needed: building public library at market area.,Later,civil
+Long-term development needed: building public library at school zone.,Later,civil
+Long-term development needed: building public library at town.,Later,civil
+Long-term development needed: bus stand crowding at bus stand.,Later,roads
+Long-term development needed: bus stand crowding at city.,Later,roads
+Long-term development needed: bus stand crowding at highway.,Later,roads
+Long-term development needed: bus stand crowding at hospital area.,Later,roads
+Long-term development needed: bus stand crowding at hospital area.,Later,roads
+Long-term development needed: bus stand crowding at main road.,Later,roads
+Long-term development needed: bus stand crowding at market area.,Later,roads
+Long-term development needed: bus stand crowding at residential colony.,Later,roads
+Long-term development needed: construction of bus stand at main road.,Later,roads
+Long-term development needed: construction of bus stand at market area.,Later,civil
+Long-term development needed: construction of bus stand at market area.,Later,civil
+Long-term development needed: construction of bus stand at town.,Later,civil
+Long-term development needed: construction of bus stand at village.,Later,civil
+Long-term development needed: construction of bus stand at village.,Later,civil
+Long-term development needed: electricity outage at bus stand.,Later,electricity
+Long-term development needed: electricity outage at city.,Later,electricity
+Long-term development needed: electricity outage at city.,Later,electricity
+Long-term development needed: electricity outage at city.,Later,electricity
+Long-term development needed: electricity outage at main road.,Later,electricity
+Long-term development needed: electricity outage at residential colony.,Later,electricity
+Long-term development needed: electricity outage at residential colony.,Later,electricity
+Long-term development needed: electricity outage at residential colony.,Later,electricity
+Long-term development needed: electricity outage at school zone.,Later,electricity
+Long-term development needed: electricity outage at school zone.,Later,electricity
+Long-term development needed: garbage pileup at bus stand.,Later,sanitation
+Long-term development needed: garbage pileup at city.,Later,sanitation
+Long-term development needed: garbage pileup at city.,Later,sanitation
+Long-term development needed: garbage pileup at main road.,Later,roads
+Long-term development needed: garbage pileup at main road.,Later,roads
+Long-term development needed: garbage pileup at market area.,Later,sanitation
+Long-term development needed: garbage pileup at market area.,Later,sanitation
+Long-term development needed: garbage pileup at residential colony.,Later,sanitation
+Long-term development needed: garbage pileup at village.,Later,sanitation
+Long-term development needed: hospital medicine shortage at city.,Later,water
+Long-term development needed: hospital medicine shortage at highway.,Later,water
+Long-term development needed: hospital medicine shortage at highway.,Later,water
+Long-term development needed: hospital medicine shortage at highway.,Later,water
+Long-term development needed: hospital medicine shortage at market area.,Later,water
+Long-term development needed: hospital medicine shortage at school zone.,Later,roads
+Long-term development needed: hospital medicine shortage at school zone.,Later,roads
+Long-term development needed: need new school at highway.,Later,roads
+Long-term development needed: need new school at main road.,Later,roads
+Long-term development needed: need new school at market area.,Later,roads
+Long-term development needed: need new school at market area.,Later,roads
+Long-term development needed: need new school at market area.,Later,roads
+Long-term development needed: need new school at town.,Later,roads
+Long-term development needed: need new school at town.,Later,roads
+Long-term development needed: need new school at village.,Later,roads
+Long-term development needed: need new school at village.,Later,roads
+Long-term development needed: need new school at village.,Later,roads
+Long-term development needed: need overhead water tank at bus stand.,Later,water
+Long-term development needed: need overhead water tank at city.,Later,water
+Long-term development needed: need overhead water tank at highway.,Later,water
+Long-term development needed: need overhead water tank at main road.,Later,water
+Long-term development needed: need overhead water tank at main road.,Later,water
+Long-term development needed: need overhead water tank at market area.,Later,water
+Long-term development needed: need overhead water tank at residential colony.,Later,water
+Long-term development needed: need overhead water tank at school zone.,Later,water
+Long-term development needed: need overhead water tank at village.,Later,water
+Long-term development needed: need overhead water tank at village.,Later,water
+Long-term development needed: public toilet maintenance at bus stand.,Later,sanitation
+Long-term development needed: public toilet maintenance at bus stand.,Later,sanitation
+Long-term development needed: public toilet maintenance at city.,Later,sanitation
+Long-term development needed: public toilet maintenance at highway.,Later,sanitation
+Long-term development needed: public toilet maintenance at highway.,Later,sanitation
+Long-term development needed: public toilet maintenance at hospital area.,Later,sanitation
+Long-term development needed: public toilet maintenance at market area.,Later,sanitation
+Long-term development needed: public toilet maintenance at market area.,Later,sanitation
+Long-term development needed: public toilet maintenance at market area.,Later,sanitation
+Long-term development needed: public toilet maintenance at town.,Later,sanitation
+Long-term development needed: public toilet maintenance at village.,Later,sanitation
+Long-term development needed: school building damage at bus stand.,Later,civil
+Long-term development needed: school building damage at bus stand.,Later,civil
+Long-term development needed: school building damage at bus stand.,Later,civil
+Long-term development needed: school building damage at highway.,Later,civil
+Long-term development needed: school building damage at main road.,Later,roads
+Long-term development needed: school building damage at market area.,Later,civil
+Long-term development needed: school building damage at residential colony.,Later,civil
+Long-term development needed: school building damage at school zone.,Later,civil
+Long-term development needed: sewage overflow at bus stand.,Later,water
+Long-term development needed: sewage overflow at highway.,Later,water
+Long-term development needed: sewage overflow at highway.,Later,water
+Long-term development needed: sewage overflow at hospital area.,Later,water
+Long-term development needed: sewage overflow at residential colony.,Later,water
+Long-term development needed: sewage overflow at residential colony.,Later,water
+Long-term development needed: sewage overflow at school zone.,Later,water
+Long-term development needed: solar street lights installation at bus stand.,Later,roads
+Long-term development needed: solar street lights installation at city.,Later,roads
+Long-term development needed: solar street lights installation at city.,Later,roads
+Long-term development needed: solar street lights installation at highway.,Later,roads
+Long-term development needed: solar street lights installation at hospital area.,Later,roads
+Long-term development needed: solar street lights installation at market area.,Later,roads
+Long-term development needed: solar street lights installation at market area.,Later,roads
+Long-term development needed: solar street lights installation at market area.,Later,roads
+Long-term development needed: solar street lights installation at residential colony.,Later,roads
+Long-term development needed: solar street lights installation at school zone.,Later,roads
+Long-term development needed: sports ground request at hospital area.,Later,roads
+Long-term development needed: sports ground request at hospital area.,Later,roads
+Long-term development needed: sports ground request at market area.,Later,roads
+Long-term development needed: sports ground request at residential colony.,Later,roads
+Long-term development needed: sports ground request at school zone.,Later,roads
+Long-term development needed: sports ground request at school zone.,Later,roads
+Long-term development needed: sports ground request at school zone.,Later,roads
+Long-term development needed: sports ground request at town.,Later,roads
+Long-term development needed: sports ground request at village.,Later,roads
+Long-term development needed: streetlight failure at city.,Later,roads
+Long-term development needed: streetlight failure at city.,Later,roads
+Long-term development needed: streetlight failure at highway.,Later,roads
+Long-term development needed: streetlight failure at residential colony.,Later,roads
+Long-term development needed: streetlight failure at village.,Later,roads
+Long-term development needed: water supply shortage at bus stand.,Later,water
+Long-term development needed: water supply shortage at city.,Later,water
+Long-term development needed: water supply shortage at city.,Later,water
+Long-term development needed: water supply shortage at highway.,Later,water
+Long-term development needed: water supply shortage at highway.,Later,water
+Long-term development needed: water supply shortage at hospital area.,Later,water
+Long-term development needed: water supply shortage at main road.,Later,water
+Long-term development needed: water supply shortage at main road.,Later,water
+Long-term development needed: water supply shortage at main road.,Later,water
+Long-term development needed: water supply shortage at residential colony.,Later,water
+Long-term development needed: water supply shortage at residential colony.,Later,water
+Long-term development needed: water supply shortage at town.,Later,water
+Long-term development needed: water supply shortage at town.,Later,water
+Long-term development needed: water supply shortage at village.,Later,water
+Plan to establish broken road in bus stand can be considered later.,Later,roads
+Plan to establish broken road in hospital area can be considered later.,Later,roads
+Plan to establish broken road in main road can be considered later.,Later,roads
+Plan to establish broken road in market area can be considered later.,Later,roads
+Plan to establish broken road in school zone can be considered later.,Later,roads
+Plan to establish broken road in town can be considered later.,Later,roads
+Plan to establish broken road in village can be considered later.,Later,roads
+Plan to establish broken road in village can be considered later.,Later,roads
+Plan to establish building public library in city can be considered later.,Later,civil
+Plan to establish building public library in residential colony can be considered later.,Later,civil
+Plan to establish building public library in school zone can be considered later.,Later,civil
+Plan to establish building public library in town can be considered later.,Later,civil
+Plan to establish bus stand crowding in city can be considered later.,Later,roads
+Plan to establish bus stand crowding in highway can be considered later.,Later,roads
+Plan to establish bus stand crowding in highway can be considered later.,Later,roads
+Plan to establish bus stand crowding in hospital area can be considered later.,Later,roads
+Plan to establish bus stand crowding in main road can be considered later.,Later,roads
+Plan to establish bus stand crowding in main road can be considered later.,Later,roads
+Plan to establish bus stand crowding in main road can be considered later.,Later,roads
+Plan to establish bus stand crowding in market area can be considered later.,Later,roads
+Plan to establish bus stand crowding in market area can be considered later.,Later,roads
+Plan to establish bus stand crowding in residential colony can be considered later.,Later,roads
+Plan to establish bus stand crowding in residential colony can be considered later.,Later,roads
+Plan to establish bus stand crowding in town can be considered later.,Later,roads
+Plan to establish bus stand crowding in town can be considered later.,Later,roads
+Plan to establish construction of bus stand in bus stand can be considered later.,Later,civil
+Plan to establish construction of bus stand in highway can be considered later.,Later,civil
+Plan to establish construction of bus stand in hospital area can be considered later.,Later,civil
+Plan to establish construction of bus stand in main road can be considered later.,Later,roads
+Plan to establish construction of bus stand in market area can be considered later.,Later,civil
+Plan to establish construction of bus stand in school zone can be considered later.,Later,civil
+Plan to establish construction of bus stand in town can be considered later.,Later,civil
+Plan to establish construction of bus stand in village can be considered later.,Later,civil
+Plan to establish electricity outage in main road can be considered later.,Later,electricity
+Plan to establish electricity outage in residential colony can be considered later.,Later,electricity
+Plan to establish electricity outage in residential colony can be considered later.,Later,electricity
+Plan to establish electricity outage in school zone can be considered later.,Later,electricity
+Plan to establish electricity outage in town can be considered later.,Later,electricity
+Plan to establish electricity outage in town can be considered later.,Later,electricity
+Plan to establish garbage pileup in bus stand can be considered later.,Later,sanitation
+Plan to establish garbage pileup in city can be considered later.,Later,sanitation
+Plan to establish garbage pileup in city can be considered later.,Later,sanitation
+Plan to establish garbage pileup in school zone can be considered later.,Later,sanitation
+Plan to establish garbage pileup in town can be considered later.,Later,sanitation
+Plan to establish garbage pileup in village can be considered later.,Later,sanitation
+Plan to establish hospital medicine shortage in highway can be considered later.,Later,water
+Plan to establish hospital medicine shortage in highway can be considered later.,Later,water
+Plan to establish hospital medicine shortage in hospital area can be considered later.,Later,water
+Plan to establish hospital medicine shortage in residential colony can be considered later.,Later,water
+Plan to establish hospital medicine shortage in school zone can be considered later.,Later,roads
+Plan to establish hospital medicine shortage in village can be considered later.,Later,water
+Plan to establish need new school in bus stand can be considered later.,Later,water
+Plan to establish need new school in highway can be considered later.,Later,civil
+Plan to establish need new school in hospital area can be considered later.,Later,civil
+Plan to establish need new school in residential colony can be considered later.,Later,civil
+Plan to establish need new school in town can be considered later.,Later,civil
+Plan to establish need new school in town can be considered later.,Later,civil
+Plan to establish need new school in town can be considered later.,Later,civil
+Plan to establish need new school in town can be considered later.,Later,civil
+Plan to establish need new school in town can be considered later.,Later,civil
+Plan to establish need new school in village can be considered later.,Later,civil
+Plan to establish need overhead water tank in bus stand can be considered later.,Later,water
+Plan to establish need overhead water tank in highway can be considered later.,Later,water
+Plan to establish need overhead water tank in hospital area can be considered later.,Later,water
+Plan to establish need overhead water tank in hospital area can be considered later.,Later,water
+Plan to establish need overhead water tank in main road can be considered later.,Later,water
+Plan to establish need overhead water tank in village can be considered later.,Later,water
+Plan to establish need overhead water tank in village can be considered later.,Later,water
+Plan to establish public toilet maintenance in bus stand can be considered later.,Later,sanitation
+Plan to establish public toilet maintenance in town can be considered later.,Later,sanitation
+Plan to establish public toilet maintenance in town can be considered later.,Later,sanitation
+Plan to establish public toilet maintenance in village can be considered later.,Later,sanitation
+Plan to establish school building damage in city can be considered later.,Later,civil
+Plan to establish school building damage in highway can be considered later.,Later,civil
+Plan to establish school building damage in hospital area can be considered later.,Later,civil
+Plan to establish school building damage in main road can be considered later.,Later,roads
+Plan to establish school building damage in market area can be considered later.,Later,civil
+Plan to establish school building damage in market area can be considered later.,Later,civil
+Plan to establish school building damage in residential colony can be considered later.,Later,civil
+Plan to establish school building damage in residential colony can be considered later.,Later,civil
+Plan to establish school building damage in residential colony can be considered later.,Later,civil
+Plan to establish school building damage in school zone can be considered later.,Later,civil
+Plan to establish school building damage in town can be considered later.,Later,civil
+Plan to establish school building damage in town can be considered later.,Later,civil
+Plan to establish school building damage in village can be considered later.,Later,civil
+Plan to establish school building damage in village can be considered later.,Later,civil
+Plan to establish sewage overflow in bus stand can be considered later.,Later,water
+Plan to establish sewage overflow in bus stand can be considered later.,Later,water
+Plan to establish sewage overflow in city can be considered later.,Later,water
+Plan to establish sewage overflow in highway can be considered later.,Later,water
+Plan to establish sewage overflow in highway can be considered later.,Later,water
+Plan to establish sewage overflow in highway can be considered later.,Later,water
+Plan to establish sewage overflow in market area can be considered later.,Later,water
+Plan to establish sewage overflow in residential colony can be considered later.,Later,water
+Plan to establish sewage overflow in school zone can be considered later.,Later,water
+Plan to establish sewage overflow in town can be considered later.,Later,water
+Plan to establish sewage overflow in village can be considered later.,Later,water
+Plan to establish sewage overflow in village can be considered later.,Later,water
+Plan to establish solar street lights installation in city can be considered later.,Later,roads
+Plan to establish solar street lights installation in highway can be considered later.,Later,roads
+Plan to establish solar street lights installation in hospital area can be considered later.,Later,roads
+Plan to establish solar street lights installation in market area can be considered later.,Later,roads
+Plan to establish solar street lights installation in residential colony can be considered later.,Later,roads
+Plan to establish solar street lights installation in residential colony can be considered later.,Later,roads
+Plan to establish solar street lights installation in school zone can be considered later.,Later,roads
+Plan to establish solar street lights installation in town can be considered later.,Later,roads
+Plan to establish solar street lights installation in town can be considered later.,Later,roads
+Plan to establish sports ground request in bus stand can be considered later.,Later,roads
+Plan to establish sports ground request in highway can be considered later.,Later,water
+Plan to establish sports ground request in hospital area can be considered later.,Later,roads
+Plan to establish sports ground request in residential colony can be considered later.,Later,water
+Plan to establish sports ground request in village can be considered later.,Later,roads
+Plan to establish sports ground request in village can be considered later.,Later,roads
+Plan to establish streetlight failure in hospital area can be considered later.,Later,roads
+Plan to establish streetlight failure in hospital area can be considered later.,Later,roads
+Plan to establish streetlight failure in market area can be considered later.,Later,roads
+Plan to establish streetlight failure in market area can be considered later.,Later,roads
+Plan to establish streetlight failure in market area can be considered later.,Later,roads
+Plan to establish water supply shortage in bus stand can be considered later.,Later,water
+Plan to establish water supply shortage in city can be considered later.,Later,water
+Plan to establish water supply shortage in hospital area can be considered later.,Later,water
+Plan to establish water supply shortage in hospital area can be considered later.,Later,water
+Plan to establish water supply shortage in main road can be considered later.,Later,water
+Plan to establish water supply shortage in market area can be considered later.,Later,water
+Proposal to improve broken road in city in future plans.,Later,roads
+Proposal to improve broken road in highway in future plans.,Later,roads
+Proposal to improve broken road in hospital area in future plans.,Later,roads
+Proposal to improve broken road in main road in future plans.,Later,roads
+Proposal to improve broken road in main road in future plans.,Later,roads
+Proposal to improve broken road in main road in future plans.,Later,roads
+Proposal to improve broken road in market area in future plans.,Later,roads
+Proposal to improve broken road in residential colony in future plans.,Later,roads
+Proposal to improve broken road in town in future plans.,Later,roads
+Proposal to improve building public library in city in future plans.,Later,civil
+Proposal to improve building public library in market area in future plans.,Later,civil
+Proposal to improve building public library in market area in future plans.,Later,civil
+Proposal to improve building public library in residential colony in future plans.,Later,civil
+Proposal to improve building public library in residential colony in future plans.,Later,civil
+Proposal to improve building public library in town in future plans.,Later,civil
+Proposal to improve building public library in village in future plans.,Later,civil
+Proposal to improve bus stand crowding in bus stand in future plans.,Later,civil
+Proposal to improve bus stand crowding in residential colony in future plans.,Later,roads
+Proposal to improve bus stand crowding in village in future plans.,Later,civil
+Proposal to improve construction of bus stand in bus stand in future plans.,Later,civil
+Proposal to improve construction of bus stand in bus stand in future plans.,Later,civil
+Proposal to improve construction of bus stand in city in future plans.,Later,civil
+Proposal to improve construction of bus stand in city in future plans.,Later,civil
+Proposal to improve construction of bus stand in highway in future plans.,Later,civil
+Proposal to improve construction of bus stand in highway in future plans.,Later,civil
+Proposal to improve construction of bus stand in market area in future plans.,Later,civil
+Proposal to improve construction of bus stand in town in future plans.,Later,civil
+Proposal to improve construction of bus stand in town in future plans.,Later,civil
+Proposal to improve electricity outage in highway in future plans.,Later,electricity
+Proposal to improve electricity outage in main road in future plans.,Later,electricity
+Proposal to improve electricity outage in main road in future plans.,Later,electricity
+Proposal to improve electricity outage in market area in future plans.,Later,electricity
+Proposal to improve electricity outage in residential colony in future plans.,Later,electricity
+Proposal to improve electricity outage in school zone in future plans.,Later,electricity
+Proposal to improve electricity outage in town in future plans.,Later,electricity
+Proposal to improve electricity outage in town in future plans.,Later,electricity
+Proposal to improve garbage pileup in bus stand in future plans.,Later,sanitation
+Proposal to improve garbage pileup in market area in future plans.,Later,sanitation
+Proposal to improve garbage pileup in school zone in future plans.,Later,sanitation
+Proposal to improve garbage pileup in town in future plans.,Later,sanitation
+Proposal to improve hospital medicine shortage in bus stand in future plans.,Later,water
+Proposal to improve hospital medicine shortage in city in future plans.,Later,water
+Proposal to improve hospital medicine shortage in highway in future plans.,Later,roads
+Proposal to improve hospital medicine shortage in highway in future plans.,Later,roads
+Proposal to improve hospital medicine shortage in hospital area in future plans.,Later,roads
+Proposal to improve hospital medicine shortage in hospital area in future plans.,Later,roads
+Proposal to improve hospital medicine shortage in residential colony in future plans.,Later,roads
+Proposal to improve hospital medicine shortage in town in future plans.,Later,roads
+Proposal to improve hospital medicine shortage in village in future plans.,Later,water
+Proposal to improve hospital medicine shortage in village in future plans.,Later,water
+Proposal to improve need new school in bus stand in future plans.,Later,roads
+Proposal to improve need new school in bus stand in future plans.,Later,roads
+Proposal to improve need new school in highway in future plans.,Later,roads
+Proposal to improve need new school in hospital area in future plans.,Later,roads
+Proposal to improve need new school in hospital area in future plans.,Later,roads
+Proposal to improve need new school in main road in future plans.,Later,roads
+Proposal to improve need new school in market area in future plans.,Later,roads
+Proposal to improve need new school in residential colony in future plans.,Later,roads
+Proposal to improve need new school in town in future plans.,Later,roads
+Proposal to improve need new school in town in future plans.,Later,roads
+Proposal to improve need new school in village in future plans.,Later,roads
+Proposal to improve need overhead water tank in bus stand in future plans.,Later,water
+Proposal to improve need overhead water tank in city in future plans.,Later,water
+Proposal to improve need overhead water tank in city in future plans.,Later,water
+Proposal to improve need overhead water tank in highway in future plans.,Later,water
+Proposal to improve need overhead water tank in main road in future plans.,Later,water
+Proposal to improve need overhead water tank in market area in future plans.,Later,water
+Proposal to improve need overhead water tank in market area in future plans.,Later,water
+Proposal to improve need overhead water tank in market area in future plans.,Later,water
+Proposal to improve need overhead water tank in residential colony in future plans.,Later,water
+Proposal to improve need overhead water tank in school zone in future plans.,Later,water
+Proposal to improve need overhead water tank in school zone in future plans.,Later,water
+Proposal to improve need overhead water tank in school zone in future plans.,Later,water
+Proposal to improve public toilet maintenance in bus stand in future plans.,Later,sanitation
+Proposal to improve public toilet maintenance in bus stand in future plans.,Later,sanitation
+Proposal to improve public toilet maintenance in city in future plans.,Later,sanitation
+Proposal to improve public toilet maintenance in city in future plans.,Later,sanitation
+Proposal to improve public toilet maintenance in hospital area in future plans.,Later,sanitation
+Proposal to improve public toilet maintenance in main road in future plans.,Later,sanitation
+Proposal to improve public toilet maintenance in market area in future plans.,Later,sanitation
+Proposal to improve public toilet maintenance in market area in future plans.,Later,sanitation
+Proposal to improve public toilet maintenance in town in future plans.,Later,sanitation
+Proposal to improve public toilet maintenance in village in future plans.,Later,sanitation
+Proposal to improve school building damage in bus stand in future plans.,Later,civil
+Proposal to improve school building damage in city in future plans.,Later,civil
+Proposal to improve school building damage in hospital area in future plans.,Later,civil
+Proposal to improve school building damage in school zone in future plans.,Later,civil
+Proposal to improve school building damage in village in future plans.,Later,civil
+Proposal to improve sewage overflow in city in future plans.,Later,water
+Proposal to improve sewage overflow in city in future plans.,Later,water
+Proposal to improve sewage overflow in highway in future plans.,Later,water
+Proposal to improve sewage overflow in highway in future plans.,Later,water
+Proposal to improve sewage overflow in highway in future plans.,Later,water
+Proposal to improve sewage overflow in market area in future plans.,Later,water
+Proposal to improve sewage overflow in market area in future plans.,Later,water
+Proposal to improve sewage overflow in market area in future plans.,Later,water
+Proposal to improve sewage overflow in school zone in future plans.,Later,water
+Proposal to improve sewage overflow in school zone in future plans.,Later,water
+Proposal to improve sewage overflow in school zone in future plans.,Later,water
+Proposal to improve sewage overflow in town in future plans.,Later,water
+Proposal to improve sewage overflow in village in future plans.,Later,water
+Proposal to improve solar street lights installation in hospital area in future plans.,Later,roads
+Proposal to improve solar street lights installation in main road in future plans.,Later,roads
+Proposal to improve solar street lights installation in market area in future plans.,Later,roads
+Proposal to improve sports ground request in bus stand in future plans.,Later,roads
+Proposal to improve sports ground request in city in future plans.,Later,roads
+Proposal to improve sports ground request in city in future plans.,Later,roads
+Proposal to improve sports ground request in hospital area in future plans.,Later,roads
+Proposal to improve sports ground request in main road in future plans.,Later,roads
+Proposal to improve sports ground request in town in future plans.,Later,roads
+Proposal to improve streetlight failure in highway in future plans.,Later,roads
+Proposal to improve streetlight failure in hospital area in future plans.,Later,roads
+Proposal to improve streetlight failure in market area in future plans.,Later,roads
+Proposal to improve streetlight failure in school zone in future plans.,Later,roads
+Proposal to improve streetlight failure in school zone in future plans.,Later,roads
+Proposal to improve streetlight failure in village in future plans.,Later,roads
+Proposal to improve water supply shortage in bus stand in future plans.,Later,water
+Proposal to improve water supply shortage in bus stand in future plans.,Later,water
+Proposal to improve water supply shortage in city in future plans.,Later,water
+Proposal to improve water supply shortage in market area in future plans.,Later,water
+Proposal to improve water supply shortage in market area in future plans.,Later,water
+Proposal to improve water supply shortage in market area in future plans.,Later,water
+Proposal to improve water supply shortage in school zone in future plans.,Later,water
+Proposal to improve water supply shortage in school zone in future plans.,Later,water
+Proposal to improve water supply shortage in village in future plans.,Later,water
+Request for new project regarding broken road in bus stand.,Later,roads
+Request for new project regarding broken road in bus stand.,Later,roads
+Request for new project regarding broken road in city.,Later,roads
+Request for new project regarding broken road in highway.,Later,roads
+Request for new project regarding broken road in highway.,Later,roads
+Request for new project regarding broken road in highway.,Later,roads
+Request for new project regarding broken road in highway.,Later,roads
+Request for new project regarding broken road in highway.,Later,roads
+Request for new project regarding broken road in main road.,Later,roads
+Request for new project regarding broken road in main road.,Later,roads
+Request for new project regarding broken road in residential colony.,Later,roads
+Request for new project regarding broken road in residential colony.,Later,roads
+Request for new project regarding building public library in highway.,Later,civil
+Request for new project regarding building public library in hospital area.,Later,civil
+Request for new project regarding building public library in market area.,Later,civil
+Request for new project regarding building public library in town.,Later,civil
+Request for new project regarding bus stand crowding in bus stand.,Later,roads
+Request for new project regarding bus stand crowding in bus stand.,Later,roads
+Request for new project regarding bus stand crowding in bus stand.,Later,roads
+Request for new project regarding bus stand crowding in city.,Later,roads
+Request for new project regarding bus stand crowding in highway.,Later,roads
+Request for new project regarding bus stand crowding in highway.,Later,roads
+Request for new project regarding bus stand crowding in main road.,Later,roads
+Request for new project regarding bus stand crowding in residential colony.,Later,roads
+Request for new project regarding bus stand crowding in residential colony.,Later,roads
+Request for new project regarding bus stand crowding in school zone.,Later,roads
+Request for new project regarding bus stand crowding in school zone.,Later,roads
+Request for new project regarding bus stand crowding in village.,Later,roads
+Request for new project regarding construction of bus stand in city.,Later,civil
+Request for new project regarding construction of bus stand in highway.,Later,civil
+Request for new project regarding construction of bus stand in highway.,Later,civil
+Request for new project regarding construction of bus stand in highway.,Later,civil
+Request for new project regarding construction of bus stand in school zone.,Later,civil
+Request for new project regarding construction of bus stand in school zone.,Later,civil
+Request for new project regarding construction of bus stand in school zone.,Later,civil
+Request for new project regarding construction of bus stand in town.,Later,civil
+Request for new project regarding construction of bus stand in town.,Later,civil
+Request for new project regarding construction of bus stand in village.,Later,civil
+Request for new project regarding electricity outage in city.,Later,electricity
+Request for new project regarding electricity outage in highway.,Later,electricity
+Request for new project regarding electricity outage in highway.,Later,electricity
+Request for new project regarding electricity outage in highway.,Later,electricity
+Request for new project regarding electricity outage in hospital area.,Later,electricity
+Request for new project regarding electricity outage in main road.,Later,electricity
+Request for new project regarding electricity outage in town.,Later,electricity
+Request for new project regarding electricity outage in town.,Later,electricity
+Request for new project regarding garbage pileup in city.,Later,sanitation
+Request for new project regarding garbage pileup in city.,Later,sanitation
+Request for new project regarding garbage pileup in city.,Later,sanitation
+Request for new project regarding garbage pileup in highway.,Later,sanitation
+Request for new project regarding garbage pileup in main road.,Later,roads
+Request for new project regarding garbage pileup in main road.,Later,roads
+Request for new project regarding garbage pileup in market area.,Later,sanitation
+Request for new project regarding garbage pileup in school zone.,Later,sanitation
+Request for new project regarding garbage pileup in town.,Later,sanitation
+Request for new project regarding garbage pileup in village.,Later,sanitation
+Request for new project regarding hospital medicine shortage in bus stand.,Later,roads
+Request for new project regarding hospital medicine shortage in bus stand.,Later,roads
+Request for new project regarding hospital medicine shortage in city.,Later,roads
+Request for new project regarding hospital medicine shortage in main road.,Later,roads
+Request for new project regarding hospital medicine shortage in market area.,Later,roads
+Request for new project regarding hospital medicine shortage in school zone.,Later,roads
+Request for new project regarding hospital medicine shortage in school zone.,Later,roads
+Request for new project regarding hospital medicine shortage in village.,Later,roads
+Request for new project regarding hospital medicine shortage in village.,Later,roads
+Request for new project regarding hospital medicine shortage in village.,Later,roads
+Request for new project regarding need new school in city.,Later,civil
+Request for new project regarding need new school in highway.,Later,civil
+Request for new project regarding need new school in hospital area.,Later,water
+Request for new project regarding need new school in hospital area.,Later,water
+Request for new project regarding need new school in hospital area.,Later,water
+Request for new project regarding need new school in market area.,Later,civil
+Request for new project regarding need new school in market area.,Later,civil
+Request for new project regarding need new school in town.,Later,water
+Request for new project regarding need new school in village.,Later,civil
+Request for new project regarding need overhead water tank in bus stand.,Later,water
+Request for new project regarding need overhead water tank in city.,Later,water
+Request for new project regarding need overhead water tank in city.,Later,water
+Request for new project regarding need overhead water tank in hospital area.,Later,water
+Request for new project regarding need overhead water tank in hospital area.,Later,water
+Request for new project regarding need overhead water tank in main road.,Later,water
+Request for new project regarding need overhead water tank in market area.,Later,water
+Request for new project regarding need overhead water tank in school zone.,Later,water
+Request for new project regarding public toilet maintenance in city.,Later,sanitation
+Request for new project regarding public toilet maintenance in highway.,Later,sanitation
+Request for new project regarding public toilet maintenance in hospital area.,Later,sanitation
+Request for new project regarding public toilet maintenance in main road.,Later,sanitation
+Request for new project regarding public toilet maintenance in residential colony.,Later,sanitation
+Request for new project regarding public toilet maintenance in residential colony.,Later,sanitation
+Request for new project regarding public toilet maintenance in town.,Later,sanitation
+Request for new project regarding public toilet maintenance in town.,Later,sanitation
+Request for new project regarding public toilet maintenance in village.,Later,sanitation
+Request for new project regarding public toilet maintenance in village.,Later,sanitation
+Request for new project regarding public toilet maintenance in village.,Later,sanitation
+Request for new project regarding public toilet maintenance in village.,Later,sanitation
+Request for new project regarding school building damage in city.,Later,civil
+Request for new project regarding school building damage in highway.,Later,civil
+Request for new project regarding school building damage in main road.,Later,roads
+Request for new project regarding school building damage in market area.,Later,civil
+Request for new project regarding school building damage in market area.,Later,civil
+Request for new project regarding school building damage in residential colony.,Later,civil
+Request for new project regarding school building damage in village.,Later,civil
+Request for new project regarding sewage overflow in bus stand.,Later,water
+Request for new project regarding sewage overflow in highway.,Later,water
+Request for new project regarding sewage overflow in hospital area.,Later,water
+Request for new project regarding sewage overflow in hospital area.,Later,water
+Request for new project regarding sewage overflow in hospital area.,Later,water
+Request for new project regarding sewage overflow in market area.,Later,water
+Request for new project regarding sewage overflow in residential colony.,Later,water
+Request for new project regarding sewage overflow in residential colony.,Later,water
+Request for new project regarding sewage overflow in town.,Later,water
+Request for new project regarding sewage overflow in village.,Later,water
+Request for new project regarding solar street lights installation in main road.,Later,roads
+Request for new project regarding solar street lights installation in main road.,Later,roads
+Request for new project regarding solar street lights installation in main road.,Later,roads
+Request for new project regarding solar street lights installation in market area.,Later,roads
+Request for new project regarding solar street lights installation in town.,Later,roads
+Request for new project regarding sports ground request in bus stand.,Later,roads
+Request for new project regarding sports ground request in city.,Later,roads
+Request for new project regarding sports ground request in market area.,Later,roads
+Request for new project regarding sports ground request in residential colony.,Later,roads
+Request for new project regarding sports ground request in residential colony.,Later,roads
+Request for new project regarding sports ground request in school zone.,Later,roads
+Request for new project regarding sports ground request in school zone.,Later,roads
+Request for new project regarding sports ground request in school zone.,Later,roads
+Request for new project regarding sports ground request in school zone.,Later,roads
+Request for new project regarding sports ground request in town.,Later,roads
+Request for new project regarding sports ground request in village.,Later,roads
+Request for new project regarding streetlight failure in hospital area.,Later,roads
+Request for new project regarding streetlight failure in hospital area.,Later,roads
+Request for new project regarding streetlight failure in market area.,Later,roads
+Request for new project regarding streetlight failure in market area.,Later,roads
+Request for new project regarding streetlight failure in residential colony.,Later,roads
+Request for new project regarding water supply shortage in hospital area.,Later,water
+Request for new project regarding water supply shortage in hospital area.,Later,water
+Request for new project regarding water supply shortage in main road.,Later,water
+Request for new project regarding water supply shortage in main road.,Later,water
+Request for new project regarding water supply shortage in residential colony.,Later,water
+Request for new project regarding water supply shortage in school zone.,Later,water
+Request for new project regarding water supply shortage in village.,Later,water
+Citizens have requested better broken road in bus stand.,Neutral,roads
+Citizens have requested better broken road in main road.,Neutral,roads
+Citizens have requested better broken road in market area.,Neutral,roads
+Citizens have requested better broken road in school zone.,Neutral,roads
+Citizens have requested better broken road in school zone.,Neutral,roads
+Citizens have requested better broken road in town.,Neutral,roads
+Citizens have requested better broken road in town.,Neutral,roads
+Citizens have requested better broken road in village.,Neutral,roads
+Citizens have requested better building public library in highway.,Neutral,civil
+Citizens have requested better building public library in main road.,Neutral,roads
+Citizens have requested better building public library in school zone.,Neutral,civil
+Citizens have requested better building public library in town.,Neutral,civil
+Citizens have requested better building public library in village.,Neutral,civil
+Citizens have requested better bus stand crowding in residential colony.,Neutral,water
+Citizens have requested better bus stand crowding in residential colony.,Neutral,water
+Citizens have requested better bus stand crowding in residential colony.,Neutral,water
+Citizens have requested better bus stand crowding in village.,Neutral,roads
+Citizens have requested better construction of bus stand in bus stand.,Neutral,civil
+Citizens have requested better construction of bus stand in city.,Neutral,civil
+Citizens have requested better construction of bus stand in highway.,Neutral,civil
+Citizens have requested better construction of bus stand in highway.,Neutral,civil
+Citizens have requested better construction of bus stand in main road.,Neutral,roads
+Citizens have requested better construction of bus stand in market area.,Neutral,civil
+Citizens have requested better construction of bus stand in school zone.,Neutral,civil
+Citizens have requested better construction of bus stand in town.,Neutral,civil
+Citizens have requested better electricity outage in bus stand.,Neutral,electricity
+Citizens have requested better electricity outage in bus stand.,Neutral,electricity
+Citizens have requested better electricity outage in city.,Neutral,electricity
+Citizens have requested better electricity outage in highway.,Neutral,electricity
+Citizens have requested better electricity outage in highway.,Neutral,electricity
+Citizens have requested better electricity outage in main road.,Neutral,electricity
+Citizens have requested better electricity outage in main road.,Neutral,electricity
+Citizens have requested better electricity outage in market area.,Neutral,electricity
+Citizens have requested better electricity outage in market area.,Neutral,electricity
+Citizens have requested better electricity outage in residential colony.,Neutral,electricity
+Citizens have requested better electricity outage in school zone.,Neutral,electricity
+Citizens have requested better electricity outage in village.,Neutral,electricity
+Citizens have requested better garbage pileup in city.,Neutral,sanitation
+Citizens have requested better garbage pileup in hospital area.,Neutral,sanitation
+Citizens have requested better garbage pileup in market area.,Neutral,sanitation
+Citizens have requested better garbage pileup in town.,Neutral,sanitation
+Citizens have requested better hospital medicine shortage in bus stand.,Neutral,water
+Citizens have requested better hospital medicine shortage in bus stand.,Neutral,water
+Citizens have requested better hospital medicine shortage in city.,Neutral,water
+Citizens have requested better hospital medicine shortage in hospital area.,Neutral,water
+Citizens have requested better hospital medicine shortage in market area.,Neutral,water
+Citizens have requested better hospital medicine shortage in school zone.,Neutral,roads
+Citizens have requested better hospital medicine shortage in town.,Neutral,water
+Citizens have requested better hospital medicine shortage in town.,Neutral,water
+Citizens have requested better need new school in bus stand.,Neutral,roads
+Citizens have requested better need new school in city.,Neutral,roads
+Citizens have requested better need new school in main road.,Neutral,roads
+Citizens have requested better need new school in residential colony.,Neutral,roads
+Citizens have requested better need new school in residential colony.,Neutral,roads
+Citizens have requested better need overhead water tank in bus stand.,Neutral,water
+Citizens have requested better need overhead water tank in bus stand.,Neutral,water
+Citizens have requested better need overhead water tank in city.,Neutral,water
+Citizens have requested better need overhead water tank in city.,Neutral,water
+Citizens have requested better need overhead water tank in city.,Neutral,water
+Citizens have requested better need overhead water tank in hospital area.,Neutral,water
+Citizens have requested better need overhead water tank in market area.,Neutral,water
+Citizens have requested better need overhead water tank in market area.,Neutral,water
+Citizens have requested better need overhead water tank in market area.,Neutral,water
+Citizens have requested better need overhead water tank in town.,Neutral,water
+Citizens have requested better public toilet maintenance in hospital area.,Neutral,sanitation
+Citizens have requested better public toilet maintenance in main road.,Neutral,sanitation
+Citizens have requested better public toilet maintenance in residential colony.,Neutral,sanitation
+Citizens have requested better public toilet maintenance in town.,Neutral,sanitation
+Citizens have requested better public toilet maintenance in town.,Neutral,sanitation
+Citizens have requested better public toilet maintenance in village.,Neutral,sanitation
+Citizens have requested better public toilet maintenance in village.,Neutral,sanitation
+Citizens have requested better school building damage in bus stand.,Neutral,civil
+Citizens have requested better school building damage in hospital area.,Neutral,civil
+Citizens have requested better school building damage in main road.,Neutral,roads
+Citizens have requested better school building damage in main road.,Neutral,roads
+Citizens have requested better school building damage in residential colony.,Neutral,civil
+Citizens have requested better school building damage in residential colony.,Neutral,civil
+Citizens have requested better school building damage in school zone.,Neutral,civil
+Citizens have requested better school building damage in school zone.,Neutral,civil
+Citizens have requested better school building damage in town.,Neutral,civil
+Citizens have requested better school building damage in town.,Neutral,civil
+Citizens have requested better school building damage in village.,Neutral,civil
+Citizens have requested better sewage overflow in bus stand.,Neutral,water
+Citizens have requested better sewage overflow in bus stand.,Neutral,water
+Citizens have requested better sewage overflow in bus stand.,Neutral,water
+Citizens have requested better sewage overflow in highway.,Neutral,water
+Citizens have requested better sewage overflow in highway.,Neutral,water
+Citizens have requested better sewage overflow in hospital area.,Neutral,water
+Citizens have requested better sewage overflow in hospital area.,Neutral,water
+Citizens have requested better sewage overflow in hospital area.,Neutral,water
+Citizens have requested better sewage overflow in hospital area.,Neutral,water
+Citizens have requested better sewage overflow in main road.,Neutral,water
+Citizens have requested better sewage overflow in main road.,Neutral,water
+Citizens have requested better sewage overflow in main road.,Neutral,water
+Citizens have requested better sewage overflow in market area.,Neutral,water
+Citizens have requested better sewage overflow in residential colony.,Neutral,water
+Citizens have requested better sewage overflow in school zone.,Neutral,water
+Citizens have requested better sewage overflow in town.,Neutral,water
+Citizens have requested better sewage overflow in town.,Neutral,water
+Citizens have requested better solar street lights installation in bus stand.,Neutral,roads
+Citizens have requested better solar street lights installation in bus stand.,Neutral,roads
+Citizens have requested better solar street lights installation in highway.,Neutral,roads
+Citizens have requested better solar street lights installation in highway.,Neutral,roads
+Citizens have requested better solar street lights installation in highway.,Neutral,roads
+Citizens have requested better solar street lights installation in hospital area.,Neutral,roads
+Citizens have requested better solar street lights installation in market area.,Neutral,roads
+Citizens have requested better solar street lights installation in market area.,Neutral,roads
+Citizens have requested better solar street lights installation in residential colony.,Neutral,roads
+Citizens have requested better solar street lights installation in town.,Neutral,roads
+Citizens have requested better solar street lights installation in town.,Neutral,roads
+Citizens have requested better solar street lights installation in village.,Neutral,roads
+Citizens have requested better solar street lights installation in village.,Neutral,roads
+Citizens have requested better solar street lights installation in village.,Neutral,roads
+Citizens have requested better sports ground request in bus stand.,Neutral,roads
+Citizens have requested better sports ground request in bus stand.,Neutral,roads
+Citizens have requested better sports ground request in city.,Neutral,roads
+Citizens have requested better sports ground request in highway.,Neutral,roads
+Citizens have requested better sports ground request in town.,Neutral,roads
+Citizens have requested better streetlight failure in bus stand.,Neutral,roads
+Citizens have requested better streetlight failure in city.,Neutral,roads
+Citizens have requested better streetlight failure in residential colony.,Neutral,roads
+Citizens have requested better water supply shortage in bus stand.,Neutral,water
+Citizens have requested better water supply shortage in city.,Neutral,water
+Citizens have requested better water supply shortage in main road.,Neutral,water
+Citizens have requested better water supply shortage in market area.,Neutral,water
+Citizens have requested better water supply shortage in town.,Neutral,water
+Moderate issue observed: broken road at bus stand. Kindly check.,Neutral,roads
+Moderate issue observed: broken road at bus stand. Kindly check.,Neutral,roads
+Moderate issue observed: broken road at city. Kindly check.,Neutral,roads
+Moderate issue observed: broken road at highway. Kindly check.,Neutral,roads
+Moderate issue observed: broken road at main road. Kindly check.,Neutral,roads
+Moderate issue observed: broken road at village. Kindly check.,Neutral,roads
+Moderate issue observed: building public library at bus stand. Kindly check.,Neutral,civil
+Moderate issue observed: building public library at city. Kindly check.,Neutral,civil
+Moderate issue observed: building public library at city. Kindly check.,Neutral,civil
+Moderate issue observed: building public library at city. Kindly check.,Neutral,civil
+Moderate issue observed: building public library at highway. Kindly check.,Neutral,civil
+Moderate issue observed: building public library at main road. Kindly check.,Neutral,roads
+Moderate issue observed: building public library at main road. Kindly check.,Neutral,roads
+Moderate issue observed: building public library at main road. Kindly check.,Neutral,roads
+Moderate issue observed: building public library at residential colony. Kindly check.,Neutral,civil
+Moderate issue observed: building public library at town. Kindly check.,Neutral,civil
+Moderate issue observed: bus stand crowding at bus stand. Kindly check.,Neutral,roads
+Moderate issue observed: bus stand crowding at bus stand. Kindly check.,Neutral,roads
+Moderate issue observed: bus stand crowding at city. Kindly check.,Neutral,roads
+Moderate issue observed: bus stand crowding at highway. Kindly check.,Neutral,roads
+Moderate issue observed: bus stand crowding at hospital area. Kindly check.,Neutral,roads
+Moderate issue observed: bus stand crowding at main road. Kindly check.,Neutral,roads
+Moderate issue observed: bus stand crowding at market area. Kindly check.,Neutral,roads
+Moderate issue observed: bus stand crowding at market area. Kindly check.,Neutral,roads
+Moderate issue observed: bus stand crowding at residential colony. Kindly check.,Neutral,roads
+Moderate issue observed: bus stand crowding at village. Kindly check.,Neutral,roads
+Moderate issue observed: construction of bus stand at bus stand. Kindly check.,Neutral,civil
+Moderate issue observed: construction of bus stand at bus stand. Kindly check.,Neutral,civil
+Moderate issue observed: construction of bus stand at city. Kindly check.,Neutral,civil
+Moderate issue observed: construction of bus stand at highway. Kindly check.,Neutral,civil
+Moderate issue observed: construction of bus stand at market area. Kindly check.,Neutral,civil
+Moderate issue observed: construction of bus stand at school zone. Kindly check.,Neutral,civil
+Moderate issue observed: electricity outage at bus stand. Kindly check.,Neutral,electricity
+Moderate issue observed: electricity outage at bus stand. Kindly check.,Neutral,electricity
+Moderate issue observed: electricity outage at highway. Kindly check.,Neutral,electricity
+Moderate issue observed: electricity outage at hospital area. Kindly check.,Neutral,electricity
+Moderate issue observed: electricity outage at main road. Kindly check.,Neutral,electricity
+Moderate issue observed: electricity outage at market area. Kindly check.,Neutral,electricity
+Moderate issue observed: electricity outage at market area. Kindly check.,Neutral,electricity
+Moderate issue observed: garbage pileup at bus stand. Kindly check.,Neutral,sanitation
+Moderate issue observed: garbage pileup at bus stand. Kindly check.,Neutral,sanitation
+Moderate issue observed: garbage pileup at bus stand. Kindly check.,Neutral,sanitation
+Moderate issue observed: garbage pileup at city. Kindly check.,Neutral,sanitation
+Moderate issue observed: garbage pileup at city. Kindly check.,Neutral,sanitation
+Moderate issue observed: garbage pileup at market area. Kindly check.,Neutral,sanitation
+Moderate issue observed: garbage pileup at market area. Kindly check.,Neutral,sanitation
+Moderate issue observed: garbage pileup at school zone. Kindly check.,Neutral,sanitation
+Moderate issue observed: garbage pileup at school zone. Kindly check.,Neutral,sanitation
+Moderate issue observed: hospital medicine shortage at main road. Kindly check.,Neutral,roads
+Moderate issue observed: hospital medicine shortage at town. Kindly check.,Neutral,roads
+Moderate issue observed: need new school at bus stand. Kindly check.,Neutral,civil
+Moderate issue observed: need new school at hospital area. Kindly check.,Neutral,civil
+Moderate issue observed: need new school at hospital area. Kindly check.,Neutral,civil
+Moderate issue observed: need new school at residential colony. Kindly check.,Neutral,water
+Moderate issue observed: need new school at school zone. Kindly check.,Neutral,water
+Moderate issue observed: need new school at town. Kindly check.,Neutral,civil
+Moderate issue observed: need new school at village. Kindly check.,Neutral,civil
+Moderate issue observed: need new school at village. Kindly check.,Neutral,civil
+Moderate issue observed: need overhead water tank at bus stand. Kindly check.,Neutral,water
+Moderate issue observed: need overhead water tank at bus stand. Kindly check.,Neutral,water
+Moderate issue observed: need overhead water tank at city. Kindly check.,Neutral,water
+Moderate issue observed: need overhead water tank at city. Kindly check.,Neutral,water
+Moderate issue observed: need overhead water tank at main road. Kindly check.,Neutral,water
+Moderate issue observed: need overhead water tank at main road. Kindly check.,Neutral,water
+Moderate issue observed: need overhead water tank at market area. Kindly check.,Neutral,water
+Moderate issue observed: need overhead water tank at residential colony. Kindly check.,Neutral,water
+Moderate issue observed: need overhead water tank at school zone. Kindly check.,Neutral,water
+Moderate issue observed: need overhead water tank at school zone. Kindly check.,Neutral,water
+Moderate issue observed: need overhead water tank at school zone. Kindly check.,Neutral,water
+Moderate issue observed: need overhead water tank at school zone. Kindly check.,Neutral,water
+Moderate issue observed: public toilet maintenance at bus stand. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at city. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at highway. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at hospital area. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at hospital area. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at hospital area. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at main road. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at market area. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at market area. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at residential colony. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at school zone. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at school zone. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at town. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at town. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at town. Kindly check.,Neutral,sanitation
+Moderate issue observed: public toilet maintenance at village. Kindly check.,Neutral,sanitation
+Moderate issue observed: school building damage at bus stand. Kindly check.,Neutral,civil
+Moderate issue observed: school building damage at city. Kindly check.,Neutral,civil
+Moderate issue observed: school building damage at hospital area. Kindly check.,Neutral,civil
+Moderate issue observed: school building damage at town. Kindly check.,Neutral,civil
+Moderate issue observed: school building damage at town. Kindly check.,Neutral,civil
+Moderate issue observed: school building damage at village. Kindly check.,Neutral,civil
+Moderate issue observed: school building damage at village. Kindly check.,Neutral,civil
+Moderate issue observed: sewage overflow at bus stand. Kindly check.,Neutral,water
+Moderate issue observed: sewage overflow at city. Kindly check.,Neutral,water
+Moderate issue observed: sewage overflow at market area. Kindly check.,Neutral,water
+Moderate issue observed: sewage overflow at market area. Kindly check.,Neutral,water
+Moderate issue observed: sewage overflow at residential colony. Kindly check.,Neutral,water
+Moderate issue observed: sewage overflow at residential colony. Kindly check.,Neutral,water
+Moderate issue observed: sewage overflow at school zone. Kindly check.,Neutral,water
+Moderate issue observed: sewage overflow at village. Kindly check.,Neutral,water
+Moderate issue observed: solar street lights installation at bus stand. Kindly check.,Neutral,roads
+Moderate issue observed: solar street lights installation at highway. Kindly check.,Neutral,roads
+Moderate issue observed: solar street lights installation at highway. Kindly check.,Neutral,roads
+Moderate issue observed: solar street lights installation at market area. Kindly check.,Neutral,roads
+Moderate issue observed: solar street lights installation at market area. Kindly check.,Neutral,roads
+Moderate issue observed: solar street lights installation at school zone. Kindly check.,Neutral,roads
+Moderate issue observed: solar street lights installation at town. Kindly check.,Neutral,roads
+Moderate issue observed: solar street lights installation at town. Kindly check.,Neutral,roads
+Moderate issue observed: solar street lights installation at town. Kindly check.,Neutral,roads
+Moderate issue observed: solar street lights installation at village. Kindly check.,Neutral,roads
+Moderate issue observed: sports ground request at city. Kindly check.,Neutral,roads
+Moderate issue observed: sports ground request at city. Kindly check.,Neutral,roads
+Moderate issue observed: sports ground request at highway. Kindly check.,Neutral,roads
+Moderate issue observed: sports ground request at hospital area. Kindly check.,Neutral,electricity
+Moderate issue observed: sports ground request at hospital area. Kindly check.,Neutral,electricity
+Moderate issue observed: sports ground request at hospital area. Kindly check.,Neutral,electricity
+Moderate issue observed: sports ground request at hospital area. Kindly check.,Neutral,electricity
+Moderate issue observed: sports ground request at hospital area. Kindly check.,Neutral,electricity
+Moderate issue observed: sports ground request at market area. Kindly check.,Neutral,water
+Moderate issue observed: sports ground request at residential colony. Kindly check.,Neutral,water
+Moderate issue observed: sports ground request at residential colony. Kindly check.,Neutral,water
+Moderate issue observed: sports ground request at residential colony. Kindly check.,Neutral,water
+Moderate issue observed: sports ground request at town. Kindly check.,Neutral,roads
+Moderate issue observed: streetlight failure at bus stand. Kindly check.,Neutral,roads
+Moderate issue observed: streetlight failure at hospital area. Kindly check.,Neutral,roads
+Moderate issue observed: streetlight failure at main road. Kindly check.,Neutral,roads
+Moderate issue observed: streetlight failure at residential colony. Kindly check.,Neutral,roads
+Moderate issue observed: streetlight failure at school zone. Kindly check.,Neutral,roads
+Moderate issue observed: streetlight failure at town. Kindly check.,Neutral,roads
+Moderate issue observed: streetlight failure at town. Kindly check.,Neutral,roads
+Moderate issue observed: streetlight failure at town. Kindly check.,Neutral,roads
+Moderate issue observed: streetlight failure at village. Kindly check.,Neutral,roads
+Moderate issue observed: water supply shortage at bus stand. Kindly check.,Neutral,water
+Moderate issue observed: water supply shortage at bus stand. Kindly check.,Neutral,water
+Moderate issue observed: water supply shortage at city. Kindly check.,Neutral,water
+Moderate issue observed: water supply shortage at city. Kindly check.,Neutral,water
+Moderate issue observed: water supply shortage at highway. Kindly check.,Neutral,water
+Moderate issue observed: water supply shortage at highway. Kindly check.,Neutral,water
+Moderate issue observed: water supply shortage at hospital area. Kindly check.,Neutral,water
+Moderate issue observed: water supply shortage at main road. Kindly check.,Neutral,water
+Moderate issue observed: water supply shortage at market area. Kindly check.,Neutral,water
+Need improvement in broken road at bus stand.,Neutral,roads
+Need improvement in broken road at city.,Neutral,roads
+Need improvement in broken road at city.,Neutral,roads
+Need improvement in broken road at highway.,Neutral,roads
+Need improvement in broken road at town.,Neutral,roads
+Need improvement in broken road at town.,Neutral,roads
+Need improvement in building public library at city.,Neutral,civil
+Need improvement in building public library at city.,Neutral,civil
+Need improvement in building public library at highway.,Neutral,civil
+Need improvement in building public library at hospital area.,Neutral,civil
+Need improvement in building public library at main road.,Neutral,roads
+Need improvement in building public library at main road.,Neutral,roads
+Need improvement in building public library at residential colony.,Neutral,civil
+Need improvement in building public library at town.,Neutral,civil
+Need improvement in building public library at village.,Neutral,civil
+Need improvement in bus stand crowding at bus stand.,Neutral,civil
+Need improvement in bus stand crowding at bus stand.,Neutral,civil
+Need improvement in bus stand crowding at city.,Neutral,civil
+Need improvement in bus stand crowding at city.,Neutral,civil
+Need improvement in bus stand crowding at highway.,Neutral,roads
+Need improvement in bus stand crowding at hospital area.,Neutral,civil
+Need improvement in bus stand crowding at hospital area.,Neutral,civil
+Need improvement in bus stand crowding at market area.,Neutral,civil
+Need improvement in bus stand crowding at residential colony.,Neutral,civil
+Need improvement in bus stand crowding at residential colony.,Neutral,civil
+Need improvement in bus stand crowding at school zone.,Neutral,civil
+Need improvement in bus stand crowding at town.,Neutral,civil
+Need improvement in bus stand crowding at town.,Neutral,civil
+Need improvement in bus stand crowding at town.,Neutral,civil
+Need improvement in construction of bus stand at bus stand.,Neutral,civil
+Need improvement in construction of bus stand at city.,Neutral,civil
+Need improvement in construction of bus stand at hospital area.,Neutral,civil
+Need improvement in construction of bus stand at hospital area.,Neutral,civil
+Need improvement in construction of bus stand at main road.,Neutral,roads
+Need improvement in construction of bus stand at main road.,Neutral,roads
+Need improvement in construction of bus stand at market area.,Neutral,civil
+Need improvement in construction of bus stand at residential colony.,Neutral,civil
+Need improvement in construction of bus stand at town.,Neutral,civil
+Need improvement in construction of bus stand at village.,Neutral,civil
+Need improvement in electricity outage at highway.,Neutral,electricity
+Need improvement in electricity outage at hospital area.,Neutral,electricity
+Need improvement in electricity outage at hospital area.,Neutral,electricity
+Need improvement in electricity outage at main road.,Neutral,electricity
+Need improvement in electricity outage at main road.,Neutral,electricity
+Need improvement in electricity outage at main road.,Neutral,electricity
+Need improvement in electricity outage at market area.,Neutral,electricity
+Need improvement in electricity outage at market area.,Neutral,electricity
+Need improvement in electricity outage at school zone.,Neutral,electricity
+Need improvement in electricity outage at town.,Neutral,electricity
+Need improvement in electricity outage at village.,Neutral,electricity
+Need improvement in garbage pileup at highway.,Neutral,sanitation
+Need improvement in garbage pileup at hospital area.,Neutral,sanitation
+Need improvement in garbage pileup at hospital area.,Neutral,sanitation
+Need improvement in garbage pileup at market area.,Neutral,sanitation
+Need improvement in garbage pileup at market area.,Neutral,sanitation
+Need improvement in garbage pileup at residential colony.,Neutral,sanitation
+Need improvement in garbage pileup at town.,Neutral,sanitation
+Need improvement in hospital medicine shortage at bus stand.,Neutral,roads
+Need improvement in hospital medicine shortage at bus stand.,Neutral,roads
+Need improvement in hospital medicine shortage at city.,Neutral,roads
+Need improvement in hospital medicine shortage at main road.,Neutral,roads
+Need improvement in hospital medicine shortage at main road.,Neutral,roads
+Need improvement in hospital medicine shortage at market area.,Neutral,roads
+Need improvement in hospital medicine shortage at school zone.,Neutral,roads
+Need improvement in hospital medicine shortage at school zone.,Neutral,roads
+Need improvement in need new school at city.,Neutral,civil
+Need improvement in need new school at city.,Neutral,civil
+Need improvement in need new school at city.,Neutral,civil
+Need improvement in need new school at residential colony.,Neutral,civil
+Need improvement in need new school at school zone.,Neutral,water
+Need improvement in need new school at village.,Neutral,civil
+Need improvement in need overhead water tank at bus stand.,Neutral,water
+Need improvement in need overhead water tank at bus stand.,Neutral,water
+Need improvement in need overhead water tank at highway.,Neutral,water
+Need improvement in need overhead water tank at hospital area.,Neutral,water
+Need improvement in need overhead water tank at main road.,Neutral,water
+Need improvement in need overhead water tank at school zone.,Neutral,water
+Need improvement in need overhead water tank at school zone.,Neutral,water
+Need improvement in need overhead water tank at town.,Neutral,water
+Need improvement in need overhead water tank at town.,Neutral,water
+Need improvement in need overhead water tank at village.,Neutral,water
+Need improvement in need overhead water tank at village.,Neutral,water
+Need improvement in need overhead water tank at village.,Neutral,water
+Need improvement in need overhead water tank at village.,Neutral,water
+Need improvement in public toilet maintenance at highway.,Neutral,sanitation
+Need improvement in public toilet maintenance at hospital area.,Neutral,sanitation
+Need improvement in public toilet maintenance at market area.,Neutral,sanitation
+Need improvement in public toilet maintenance at town.,Neutral,sanitation
+Need improvement in school building damage at bus stand.,Neutral,civil
+Need improvement in school building damage at bus stand.,Neutral,civil
+Need improvement in school building damage at city.,Neutral,civil
+Need improvement in school building damage at residential colony.,Neutral,civil
+Need improvement in school building damage at town.,Neutral,civil
+Need improvement in school building damage at village.,Neutral,civil
+Need improvement in sewage overflow at bus stand.,Neutral,water
+Need improvement in sewage overflow at highway.,Neutral,water
+Need improvement in sewage overflow at hospital area.,Neutral,water
+Need improvement in sewage overflow at hospital area.,Neutral,water
+Need improvement in sewage overflow at residential colony.,Neutral,water
+Need improvement in sewage overflow at town.,Neutral,water
+Need improvement in solar street lights installation at highway.,Neutral,roads
+Need improvement in solar street lights installation at main road.,Neutral,roads
+Need improvement in solar street lights installation at market area.,Neutral,roads
+Need improvement in solar street lights installation at market area.,Neutral,roads
+Need improvement in solar street lights installation at residential colony.,Neutral,roads
+Need improvement in solar street lights installation at town.,Neutral,roads
+Need improvement in sports ground request at city.,Neutral,roads
+Need improvement in sports ground request at main road.,Neutral,roads
+Need improvement in sports ground request at market area.,Neutral,roads
+Need improvement in sports ground request at market area.,Neutral,roads
+Need improvement in sports ground request at market area.,Neutral,roads
+Need improvement in sports ground request at residential colony.,Neutral,roads
+Need improvement in sports ground request at residential colony.,Neutral,roads
+Need improvement in sports ground request at village.,Neutral,roads
+Need improvement in streetlight failure at bus stand.,Neutral,roads
+Need improvement in streetlight failure at city.,Neutral,roads
+Need improvement in streetlight failure at highway.,Neutral,roads
+Need improvement in streetlight failure at market area.,Neutral,roads
+Need improvement in streetlight failure at residential colony.,Neutral,roads
+Need improvement in water supply shortage at highway.,Neutral,water
+Need improvement in water supply shortage at main road.,Neutral,water
+Need improvement in water supply shortage at market area.,Neutral,water
+Need improvement in water supply shortage at residential colony.,Neutral,water
+Need improvement in water supply shortage at residential colony.,Neutral,water
+Need improvement in water supply shortage at town.,Neutral,water
+Need improvement in water supply shortage at village.,Neutral,water
+Request for broken road at bus stand.,Neutral,roads
+Request for broken road at city.,Neutral,roads
+Request for broken road at city.,Neutral,roads
+Request for broken road at hospital area.,Neutral,roads
+Request for broken road at main road.,Neutral,roads
+Request for broken road at market area.,Neutral,roads
+Request for broken road at market area.,Neutral,roads
+Request for broken road at school zone.,Neutral,roads
+Request for broken road at village.,Neutral,roads
+Request for building public library at bus stand.,Neutral,civil
+Request for building public library at bus stand.,Neutral,civil
+Request for building public library at bus stand.,Neutral,civil
+Request for building public library at hospital area.,Neutral,civil
+Request for building public library at main road.,Neutral,roads
+Request for building public library at main road.,Neutral,roads
+Request for building public library at market area.,Neutral,civil
+Request for building public library at school zone.,Neutral,civil
+Request for building public library at school zone.,Neutral,civil
+Request for building public library at town.,Neutral,civil
+Request for bus stand crowding at main road.,Neutral,roads
+Request for bus stand crowding at main road.,Neutral,roads
+Request for bus stand crowding at market area.,Neutral,roads
+Request for bus stand crowding at market area.,Neutral,roads
+Request for bus stand crowding at school zone.,Neutral,roads
+Request for construction of bus stand at bus stand.,Neutral,civil
+Request for construction of bus stand at city.,Neutral,civil
+Request for construction of bus stand at highway.,Neutral,civil
+Request for construction of bus stand at market area.,Neutral,civil
+Request for construction of bus stand at school zone.,Neutral,civil
+Request for construction of bus stand at school zone.,Neutral,civil
+Request for construction of bus stand at school zone.,Neutral,civil
+Request for construction of bus stand at town.,Neutral,civil
+Request for electricity outage at main road.,Neutral,electricity
+Request for electricity outage at market area.,Neutral,electricity
+Request for electricity outage at residential colony.,Neutral,electricity
+Request for electricity outage at school zone.,Neutral,electricity
+Request for garbage pileup at bus stand.,Neutral,sanitation
+Request for garbage pileup at bus stand.,Neutral,sanitation
+Request for garbage pileup at city.,Neutral,sanitation
+Request for garbage pileup at main road.,Neutral,roads
+Request for garbage pileup at main road.,Neutral,roads
+Request for garbage pileup at market area.,Neutral,sanitation
+Request for garbage pileup at school zone.,Neutral,sanitation
+Request for garbage pileup at school zone.,Neutral,sanitation
+Request for hospital medicine shortage at city.,Neutral,roads
+Request for hospital medicine shortage at hospital area.,Neutral,roads
+Request for hospital medicine shortage at main road.,Neutral,roads
+Request for hospital medicine shortage at market area.,Neutral,roads
+Request for hospital medicine shortage at market area.,Neutral,roads
+Request for hospital medicine shortage at school zone.,Neutral,roads
+Request for hospital medicine shortage at school zone.,Neutral,roads
+Request for hospital medicine shortage at town.,Neutral,roads
+Request for hospital medicine shortage at town.,Neutral,roads
+Request for need new school at bus stand.,Neutral,water
+Request for need new school at city.,Neutral,civil
+Request for need new school at highway.,Neutral,civil
+Request for need new school at highway.,Neutral,civil
+Request for need new school at market area.,Neutral,civil
+Request for need new school at school zone.,Neutral,roads
+Request for need new school at school zone.,Neutral,roads
+Request for need new school at town.,Neutral,water
+Request for need new school at town.,Neutral,water
+Request for need new school at village.,Neutral,civil
+Request for need overhead water tank at market area.,Neutral,water
+Request for need overhead water tank at town.,Neutral,water
+Request for need overhead water tank at town.,Neutral,water
+Request for need overhead water tank at village.,Neutral,water
+Request for public toilet maintenance at main road.,Neutral,sanitation
+Request for public toilet maintenance at main road.,Neutral,sanitation
+Request for public toilet maintenance at main road.,Neutral,sanitation
+Request for public toilet maintenance at market area.,Neutral,sanitation
+Request for public toilet maintenance at school zone.,Neutral,sanitation
+Request for public toilet maintenance at school zone.,Neutral,sanitation
+Request for public toilet maintenance at village.,Neutral,sanitation
+Request for school building damage at city.,Neutral,civil
+Request for school building damage at hospital area.,Neutral,civil
+Request for school building damage at hospital area.,Neutral,civil
+Request for school building damage at market area.,Neutral,civil
+Request for school building damage at residential colony.,Neutral,civil
+Request for sewage overflow at bus stand.,Neutral,water
+Request for sewage overflow at city.,Neutral,water
+Request for sewage overflow at market area.,Neutral,water
+Request for sewage overflow at town.,Neutral,water
+Request for sewage overflow at town.,Neutral,water
+Request for sewage overflow at village.,Neutral,water
+Request for solar street lights installation at bus stand.,Neutral,roads
+Request for solar street lights installation at hospital area.,Neutral,roads
+Request for solar street lights installation at hospital area.,Neutral,roads
+Request for solar street lights installation at village.,Neutral,roads
+Request for sports ground request at bus stand.,Neutral,roads
+Request for sports ground request at bus stand.,Neutral,roads
+Request for sports ground request at highway.,Neutral,roads
+Request for sports ground request at highway.,Neutral,roads
+Request for sports ground request at highway.,Neutral,roads
+Request for sports ground request at hospital area.,Neutral,roads
+Request for sports ground request at hospital area.,Neutral,roads
+Request for sports ground request at market area.,Neutral,roads
+Request for sports ground request at market area.,Neutral,roads
+Request for sports ground request at town.,Neutral,roads
+Request for sports ground request at town.,Neutral,roads
+Request for streetlight failure at highway.,Neutral,roads
+Request for streetlight failure at highway.,Neutral,roads
+Request for streetlight failure at main road.,Neutral,roads
+Request for streetlight failure at residential colony.,Neutral,roads
+Request for streetlight failure at school zone.,Neutral,roads
+Request for water supply shortage at city.,Neutral,water
+Request for water supply shortage at highway.,Neutral,water
+Request for water supply shortage at highway.,Neutral,water
+Request for water supply shortage at highway.,Neutral,water
+Request for water supply shortage at highway.,Neutral,water
+Request for water supply shortage at hospital area.,Neutral,water
+Request for water supply shortage at hospital area.,Neutral,water
+Request for water supply shortage at market area.,Neutral,water
+Request for water supply shortage at residential colony.,Neutral,water
+Request for water supply shortage at school zone.,Neutral,water
+Request for water supply shortage at town.,Neutral,water
+Request for water supply shortage at village.,Neutral,water
+Suggestion to resolve broken road in bus stand.,Neutral,roads
+Suggestion to resolve broken road in city.,Neutral,roads
+Suggestion to resolve broken road in city.,Neutral,roads
+Suggestion to resolve broken road in hospital area.,Neutral,roads
+Suggestion to resolve broken road in hospital area.,Neutral,roads
+Suggestion to resolve broken road in market area.,Neutral,roads
+Suggestion to resolve broken road in market area.,Neutral,roads
+Suggestion to resolve broken road in town.,Neutral,roads
+Suggestion to resolve broken road in village.,Neutral,roads
+Suggestion to resolve building public library in city.,Neutral,civil
+Suggestion to resolve building public library in highway.,Neutral,civil
+Suggestion to resolve building public library in hospital area.,Neutral,civil
+Suggestion to resolve building public library in hospital area.,Neutral,civil
+Suggestion to resolve building public library in main road.,Neutral,roads
+Suggestion to resolve building public library in village.,Neutral,civil
+Suggestion to resolve building public library in village.,Neutral,civil
+Suggestion to resolve bus stand crowding in city.,Neutral,roads
+Suggestion to resolve bus stand crowding in highway.,Neutral,roads
+Suggestion to resolve bus stand crowding in hospital area.,Neutral,roads
+Suggestion to resolve bus stand crowding in main road.,Neutral,roads
+Suggestion to resolve bus stand crowding in market area.,Neutral,roads
+Suggestion to resolve bus stand crowding in market area.,Neutral,roads
+Suggestion to resolve bus stand crowding in residential colony.,Neutral,roads
+Suggestion to resolve bus stand crowding in school zone.,Neutral,roads
+Suggestion to resolve bus stand crowding in school zone.,Neutral,roads
+Suggestion to resolve construction of bus stand in bus stand.,Neutral,civil
+Suggestion to resolve construction of bus stand in town.,Neutral,civil
+Suggestion to resolve construction of bus stand in village.,Neutral,civil
+Suggestion to resolve electricity outage in bus stand.,Neutral,electricity
+Suggestion to resolve electricity outage in main road.,Neutral,electricity
+Suggestion to resolve electricity outage in main road.,Neutral,electricity
+Suggestion to resolve electricity outage in school zone.,Neutral,electricity
+Suggestion to resolve electricity outage in town.,Neutral,electricity
+Suggestion to resolve electricity outage in village.,Neutral,electricity
+Suggestion to resolve garbage pileup in highway.,Neutral,sanitation
+Suggestion to resolve garbage pileup in hospital area.,Neutral,sanitation
+Suggestion to resolve garbage pileup in main road.,Neutral,roads
+Suggestion to resolve garbage pileup in main road.,Neutral,roads
+Suggestion to resolve garbage pileup in main road.,Neutral,roads
+Suggestion to resolve garbage pileup in market area.,Neutral,sanitation
+Suggestion to resolve garbage pileup in market area.,Neutral,sanitation
+Suggestion to resolve garbage pileup in school zone.,Neutral,sanitation
+Suggestion to resolve hospital medicine shortage in bus stand.,Neutral,water
+Suggestion to resolve hospital medicine shortage in market area.,Neutral,water
+Suggestion to resolve hospital medicine shortage in residential colony.,Neutral,water
+Suggestion to resolve hospital medicine shortage in school zone.,Neutral,water
+Suggestion to resolve hospital medicine shortage in village.,Neutral,water
+Suggestion to resolve need new school in city.,Neutral,roads
+Suggestion to resolve need new school in hospital area.,Neutral,roads
+Suggestion to resolve need new school in hospital area.,Neutral,roads
+Suggestion to resolve need new school in hospital area.,Neutral,roads
+Suggestion to resolve need new school in main road.,Neutral,roads
+Suggestion to resolve need new school in school zone.,Neutral,roads
+Suggestion to resolve need new school in school zone.,Neutral,roads
+Suggestion to resolve need new school in school zone.,Neutral,roads
+Suggestion to resolve need new school in town.,Neutral,roads
+Suggestion to resolve need new school in village.,Neutral,roads
+Suggestion to resolve need overhead water tank in bus stand.,Neutral,water
+Suggestion to resolve need overhead water tank in bus stand.,Neutral,water
+Suggestion to resolve need overhead water tank in city.,Neutral,water
+Suggestion to resolve need overhead water tank in highway.,Neutral,water
+Suggestion to resolve need overhead water tank in highway.,Neutral,water
+Suggestion to resolve need overhead water tank in hospital area.,Neutral,water
+Suggestion to resolve need overhead water tank in hospital area.,Neutral,water
+Suggestion to resolve need overhead water tank in market area.,Neutral,water
+Suggestion to resolve need overhead water tank in residential colony.,Neutral,water
+Suggestion to resolve need overhead water tank in school zone.,Neutral,water
+Suggestion to resolve need overhead water tank in town.,Neutral,water
+Suggestion to resolve need overhead water tank in town.,Neutral,water
+Suggestion to resolve need overhead water tank in town.,Neutral,water
+Suggestion to resolve need overhead water tank in village.,Neutral,water
+Suggestion to resolve public toilet maintenance in bus stand.,Neutral,sanitation
+Suggestion to resolve public toilet maintenance in bus stand.,Neutral,sanitation
+Suggestion to resolve public toilet maintenance in city.,Neutral,sanitation
+Suggestion to resolve public toilet maintenance in main road.,Neutral,sanitation
+Suggestion to resolve public toilet maintenance in main road.,Neutral,sanitation
+Suggestion to resolve public toilet maintenance in village.,Neutral,sanitation
+Suggestion to resolve public toilet maintenance in village.,Neutral,sanitation
+Suggestion to resolve school building damage in bus stand.,Neutral,civil
+Suggestion to resolve school building damage in city.,Neutral,civil
+Suggestion to resolve school building damage in highway.,Neutral,civil
+Suggestion to resolve school building damage in highway.,Neutral,civil
+Suggestion to resolve school building damage in hospital area.,Neutral,civil
+Suggestion to resolve school building damage in market area.,Neutral,civil
+Suggestion to resolve school building damage in village.,Neutral,civil
+Suggestion to resolve school building damage in village.,Neutral,civil
+Suggestion to resolve sewage overflow in bus stand.,Neutral,water
+Suggestion to resolve sewage overflow in highway.,Neutral,water
+Suggestion to resolve sewage overflow in hospital area.,Neutral,water
+Suggestion to resolve sewage overflow in hospital area.,Neutral,water
+Suggestion to resolve sewage overflow in main road.,Neutral,water
+Suggestion to resolve sewage overflow in market area.,Neutral,water
+Suggestion to resolve sewage overflow in market area.,Neutral,water
+Suggestion to resolve sewage overflow in school zone.,Neutral,water
+Suggestion to resolve solar street lights installation in bus stand.,Neutral,roads
+Suggestion to resolve solar street lights installation in city.,Neutral,roads
+Suggestion to resolve solar street lights installation in highway.,Neutral,roads
+Suggestion to resolve solar street lights installation in highway.,Neutral,roads
+Suggestion to resolve solar street lights installation in highway.,Neutral,roads
+Suggestion to resolve solar street lights installation in hospital area.,Neutral,roads
+Suggestion to resolve solar street lights installation in market area.,Neutral,roads
+Suggestion to resolve solar street lights installation in school zone.,Neutral,roads
+Suggestion to resolve solar street lights installation in school zone.,Neutral,roads
+Suggestion to resolve solar street lights installation in town.,Neutral,roads
+Suggestion to resolve solar street lights installation in village.,Neutral,roads
+Suggestion to resolve sports ground request in bus stand.,Neutral,roads
+Suggestion to resolve sports ground request in bus stand.,Neutral,roads
+Suggestion to resolve sports ground request in city.,Neutral,roads
+Suggestion to resolve sports ground request in city.,Neutral,roads
+Suggestion to resolve sports ground request in highway.,Neutral,roads
+Suggestion to resolve sports ground request in highway.,Neutral,roads
+Suggestion to resolve sports ground request in hospital area.,Neutral,roads
+Suggestion to resolve sports ground request in main road.,Neutral,roads
+Suggestion to resolve sports ground request in market area.,Neutral,roads
+Suggestion to resolve sports ground request in market area.,Neutral,roads
+Suggestion to resolve sports ground request in village.,Neutral,roads
+Suggestion to resolve streetlight failure in city.,Neutral,roads
+Suggestion to resolve streetlight failure in city.,Neutral,roads
+Suggestion to resolve streetlight failure in highway.,Neutral,roads
+Suggestion to resolve streetlight failure in hospital area.,Neutral,roads
+Suggestion to resolve streetlight failure in hospital area.,Neutral,roads
+Suggestion to resolve streetlight failure in hospital area.,Neutral,roads
+Suggestion to resolve streetlight failure in hospital area.,Neutral,roads
+Suggestion to resolve streetlight failure in hospital area.,Neutral,roads
+Suggestion to resolve streetlight failure in market area.,Neutral,roads
+Suggestion to resolve streetlight failure in village.,Neutral,roads
+Suggestion to resolve water supply shortage in bus stand.,Neutral,water
+Suggestion to resolve water supply shortage in city.,Neutral,water
+Suggestion to resolve water supply shortage in hospital area.,Neutral,water
+Suggestion to resolve water supply shortage in market area.,Neutral,water
+Suggestion to resolve water supply shortage in residential colony.,Neutral,water
+Suggestion to resolve water supply shortage in residential colony.,Neutral,water
+Suggestion to resolve water supply shortage in school zone.,Neutral,water
+Suggestion to resolve water supply shortage in town.,Neutral,water
+Suggestion to resolve water supply shortage in town.,Neutral,water
+Suggestion to resolve water supply shortage in village.,Neutral,water
+Suggestion to resolve water supply shortage in village.,Neutral,water
+broken road has created unsafe conditions in hospital area. Needs urgent fix.,Urgent,roads
+broken road has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,roads
+broken road has created unsafe conditions in school zone. Needs urgent fix.,Urgent,roads
+broken road has created unsafe conditions in school zone. Needs urgent fix.,Urgent,roads
+building public library has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+building public library has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,civil
+building public library has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,civil
+building public library has created unsafe conditions in school zone. Needs urgent fix.,Urgent,civil
+building public library has created unsafe conditions in town. Needs urgent fix.,Urgent,civil
+building public library has created unsafe conditions in town. Needs urgent fix.,Urgent,civil
+building public library has created unsafe conditions in village. Needs urgent fix.,Urgent,civil
+bus stand crowding has created unsafe conditions in city. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in highway. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in highway. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in hospital area. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in hospital area. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in market area. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in market area. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in school zone. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in village. Needs urgent fix.,Urgent,roads
+bus stand crowding has created unsafe conditions in village. Needs urgent fix.,Urgent,roads
+construction of bus stand has created unsafe conditions in bus stand. Needs urgent fix.,Urgent,civil
+construction of bus stand has created unsafe conditions in bus stand. Needs urgent fix.,Urgent,civil
+construction of bus stand has created unsafe conditions in city. Needs urgent fix.,Urgent,civil
+construction of bus stand has created unsafe conditions in highway. Needs urgent fix.,Urgent,civil
+construction of bus stand has created unsafe conditions in highway. Needs urgent fix.,Urgent,civil
+construction of bus stand has created unsafe conditions in hospital area. Needs urgent fix.,Urgent,civil
+construction of bus stand has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+construction of bus stand has created unsafe conditions in market area. Needs urgent fix.,Urgent,civil
+construction of bus stand has created unsafe conditions in village. Needs urgent fix.,Urgent,civil
+electricity outage has created unsafe conditions in bus stand. Needs urgent fix.,Urgent,electricity
+electricity outage has created unsafe conditions in highway. Needs urgent fix.,Urgent,electricity
+electricity outage has created unsafe conditions in highway. Needs urgent fix.,Urgent,electricity
+electricity outage has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,electricity
+electricity outage has created unsafe conditions in town. Needs urgent fix.,Urgent,electricity
+electricity outage has created unsafe conditions in village. Needs urgent fix.,Urgent,electricity
+garbage pileup has created unsafe conditions in bus stand. Needs urgent fix.,Urgent,sanitation
+garbage pileup has created unsafe conditions in city. Needs urgent fix.,Urgent,sanitation
+garbage pileup has created unsafe conditions in highway. Needs urgent fix.,Urgent,sanitation
+garbage pileup has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+garbage pileup has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+garbage pileup has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+garbage pileup has created unsafe conditions in market area. Needs urgent fix.,Urgent,sanitation
+garbage pileup has created unsafe conditions in market area. Needs urgent fix.,Urgent,sanitation
+garbage pileup has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,sanitation
+garbage pileup has created unsafe conditions in school zone. Needs urgent fix.,Urgent,sanitation
+garbage pileup has created unsafe conditions in village. Needs urgent fix.,Urgent,sanitation
+garbage pileup has created unsafe conditions in village. Needs urgent fix.,Urgent,sanitation
+hospital medicine shortage has created unsafe conditions in market area. Needs urgent fix.,Urgent,water
+hospital medicine shortage has created unsafe conditions in school zone. Needs urgent fix.,Urgent,roads
+hospital medicine shortage has created unsafe conditions in town. Needs urgent fix.,Urgent,water
+hospital medicine shortage has created unsafe conditions in village. Needs urgent fix.,Urgent,water
+Immediate action required: broken road in city.,Urgent,roads
+Immediate action required: broken road in city.,Urgent,roads
+Immediate action required: broken road in highway.,Urgent,roads
+Immediate action required: broken road in hospital area.,Urgent,roads
+Immediate action required: broken road in main road.,Urgent,roads
+Immediate action required: broken road in main road.,Urgent,roads
+Immediate action required: broken road in market area.,Urgent,roads
+Immediate action required: broken road in market area.,Urgent,roads
+Immediate action required: broken road in residential colony.,Urgent,roads
+Immediate action required: broken road in residential colony.,Urgent,roads
+Immediate action required: broken road in school zone.,Urgent,roads
+Immediate action required: broken road in town.,Urgent,roads
+Immediate action required: broken road in village.,Urgent,roads
+Immediate action required: building public library in hospital area.,Urgent,civil
+Immediate action required: building public library in hospital area.,Urgent,civil
+Immediate action required: building public library in village.,Urgent,civil
+Immediate action required: building public library in village.,Urgent,civil
+Immediate action required: bus stand crowding in bus stand.,Urgent,roads
+Immediate action required: bus stand crowding in city.,Urgent,roads
+Immediate action required: bus stand crowding in city.,Urgent,roads
+Immediate action required: bus stand crowding in main road.,Urgent,roads
+Immediate action required: bus stand crowding in main road.,Urgent,roads
+Immediate action required: bus stand crowding in residential colony.,Urgent,roads
+Immediate action required: bus stand crowding in school zone.,Urgent,roads
+Immediate action required: bus stand crowding in school zone.,Urgent,roads
+Immediate action required: bus stand crowding in village.,Urgent,roads
+Immediate action required: construction of bus stand in bus stand.,Urgent,civil
+Immediate action required: construction of bus stand in main road.,Urgent,roads
+Immediate action required: construction of bus stand in main road.,Urgent,roads
+Immediate action required: construction of bus stand in main road.,Urgent,roads
+Immediate action required: construction of bus stand in main road.,Urgent,roads
+Immediate action required: construction of bus stand in residential colony.,Urgent,civil
+Immediate action required: construction of bus stand in school zone.,Urgent,civil
+Immediate action required: construction of bus stand in town.,Urgent,civil
+Immediate action required: construction of bus stand in village.,Urgent,civil
+Immediate action required: construction of bus stand in village.,Urgent,civil
+Immediate action required: electricity outage in bus stand.,Urgent,electricity
+Immediate action required: electricity outage in bus stand.,Urgent,electricity
+Immediate action required: electricity outage in bus stand.,Urgent,electricity
+Immediate action required: electricity outage in hospital area.,Urgent,electricity
+Immediate action required: electricity outage in market area.,Urgent,electricity
+Immediate action required: electricity outage in residential colony.,Urgent,electricity
+Immediate action required: electricity outage in town.,Urgent,electricity
+Immediate action required: electricity outage in town.,Urgent,electricity
+Immediate action required: garbage pileup in bus stand.,Urgent,sanitation
+Immediate action required: garbage pileup in main road.,Urgent,roads
+Immediate action required: garbage pileup in market area.,Urgent,sanitation
+Immediate action required: garbage pileup in market area.,Urgent,sanitation
+Immediate action required: garbage pileup in residential colony.,Urgent,sanitation
+Immediate action required: garbage pileup in village.,Urgent,sanitation
+Immediate action required: hospital medicine shortage in bus stand.,Urgent,roads
+Immediate action required: hospital medicine shortage in city.,Urgent,roads
+Immediate action required: hospital medicine shortage in city.,Urgent,roads
+Immediate action required: hospital medicine shortage in main road.,Urgent,roads
+Immediate action required: hospital medicine shortage in market area.,Urgent,roads
+Immediate action required: hospital medicine shortage in residential colony.,Urgent,roads
+Immediate action required: hospital medicine shortage in school zone.,Urgent,roads
+Immediate action required: hospital medicine shortage in school zone.,Urgent,roads
+Immediate action required: need new school in bus stand.,Urgent,civil
+Immediate action required: need new school in city.,Urgent,water
+Immediate action required: need new school in hospital area.,Urgent,water
+Immediate action required: need new school in market area.,Urgent,water
+Immediate action required: need new school in town.,Urgent,civil
+Immediate action required: need overhead water tank in city.,Urgent,water
+Immediate action required: need overhead water tank in highway.,Urgent,water
+Immediate action required: need overhead water tank in hospital area.,Urgent,water
+Immediate action required: need overhead water tank in market area.,Urgent,water
+Immediate action required: need overhead water tank in school zone.,Urgent,water
+Immediate action required: need overhead water tank in school zone.,Urgent,water
+Immediate action required: need overhead water tank in village.,Urgent,water
+Immediate action required: need overhead water tank in village.,Urgent,water
+Immediate action required: public toilet maintenance in bus stand.,Urgent,sanitation
+Immediate action required: public toilet maintenance in city.,Urgent,sanitation
+Immediate action required: public toilet maintenance in highway.,Urgent,sanitation
+Immediate action required: public toilet maintenance in hospital area.,Urgent,sanitation
+Immediate action required: public toilet maintenance in main road.,Urgent,sanitation
+Immediate action required: public toilet maintenance in market area.,Urgent,sanitation
+Immediate action required: public toilet maintenance in school zone.,Urgent,sanitation
+Immediate action required: public toilet maintenance in school zone.,Urgent,sanitation
+Immediate action required: public toilet maintenance in school zone.,Urgent,sanitation
+Immediate action required: public toilet maintenance in village.,Urgent,sanitation
+Immediate action required: school building damage in highway.,Urgent,civil
+Immediate action required: school building damage in highway.,Urgent,civil
+Immediate action required: school building damage in main road.,Urgent,roads
+Immediate action required: school building damage in residential colony.,Urgent,civil
+Immediate action required: school building damage in town.,Urgent,civil
+Immediate action required: school building damage in town.,Urgent,civil
+Immediate action required: sewage overflow in bus stand.,Urgent,water
+Immediate action required: sewage overflow in city.,Urgent,water
+Immediate action required: sewage overflow in highway.,Urgent,water
+Immediate action required: sewage overflow in hospital area.,Urgent,water
+Immediate action required: sewage overflow in main road.,Urgent,water
+Immediate action required: sewage overflow in main road.,Urgent,water
+Immediate action required: sewage overflow in residential colony.,Urgent,water
+Immediate action required: sewage overflow in school zone.,Urgent,water
+Immediate action required: sewage overflow in town.,Urgent,water
+Immediate action required: sewage overflow in village.,Urgent,water
+Immediate action required: solar street lights installation in bus stand.,Urgent,roads
+Immediate action required: solar street lights installation in city.,Urgent,roads
+Immediate action required: solar street lights installation in market area.,Urgent,roads
+Immediate action required: solar street lights installation in market area.,Urgent,roads
+Immediate action required: solar street lights installation in residential colony.,Urgent,roads
+Immediate action required: solar street lights installation in residential colony.,Urgent,roads
+Immediate action required: solar street lights installation in residential colony.,Urgent,roads
+Immediate action required: solar street lights installation in residential colony.,Urgent,roads
+Immediate action required: solar street lights installation in school zone.,Urgent,roads
+Immediate action required: solar street lights installation in town.,Urgent,roads
+Immediate action required: solar street lights installation in town.,Urgent,roads
+Immediate action required: solar street lights installation in village.,Urgent,roads
+Immediate action required: solar street lights installation in village.,Urgent,roads
+Immediate action required: sports ground request in bus stand.,Urgent,roads
+Immediate action required: sports ground request in highway.,Urgent,roads
+Immediate action required: sports ground request in highway.,Urgent,roads
+Immediate action required: sports ground request in hospital area.,Urgent,roads
+Immediate action required: sports ground request in residential colony.,Urgent,roads
+Immediate action required: sports ground request in school zone.,Urgent,roads
+Immediate action required: sports ground request in school zone.,Urgent,roads
+Immediate action required: sports ground request in town.,Urgent,roads
+Immediate action required: streetlight failure in bus stand.,Urgent,roads
+Immediate action required: streetlight failure in highway.,Urgent,roads
+Immediate action required: streetlight failure in hospital area.,Urgent,roads
+Immediate action required: streetlight failure in hospital area.,Urgent,roads
+Immediate action required: streetlight failure in market area.,Urgent,roads
+Immediate action required: streetlight failure in residential colony.,Urgent,roads
+Immediate action required: streetlight failure in residential colony.,Urgent,roads
+Immediate action required: streetlight failure in school zone.,Urgent,roads
+Immediate action required: streetlight failure in school zone.,Urgent,roads
+Immediate action required: streetlight failure in village.,Urgent,roads
+Immediate action required: water supply shortage in market area.,Urgent,water
+Immediate action required: water supply shortage in market area.,Urgent,water
+Immediate action required: water supply shortage in residential colony.,Urgent,water
+Immediate action required: water supply shortage in school zone.,Urgent,water
+Immediate action required: water supply shortage in school zone.,Urgent,water
+Immediate action required: water supply shortage in school zone.,Urgent,water
+Immediate action required: water supply shortage in town.,Urgent,water
+Immediate action required: water supply shortage in village.,Urgent,water
+Immediate action required: water supply shortage in village.,Urgent,water
+need new school has created unsafe conditions in bus stand. Needs urgent fix.,Urgent,roads
+need new school has created unsafe conditions in city. Needs urgent fix.,Urgent,roads
+need new school has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+need new school has created unsafe conditions in village. Needs urgent fix.,Urgent,roads
+need overhead water tank has created unsafe conditions in city. Needs urgent fix.,Urgent,water
+need overhead water tank has created unsafe conditions in city. Needs urgent fix.,Urgent,water
+need overhead water tank has created unsafe conditions in city. Needs urgent fix.,Urgent,water
+need overhead water tank has created unsafe conditions in city. Needs urgent fix.,Urgent,water
+need overhead water tank has created unsafe conditions in market area. Needs urgent fix.,Urgent,water
+need overhead water tank has created unsafe conditions in school zone. Needs urgent fix.,Urgent,water
+Public facing severe issues due to broken road. Request urgent solution.,Urgent,roads
+Public facing severe issues due to broken road. Request urgent solution.,Urgent,roads
+Public facing severe issues due to broken road. Request urgent solution.,Urgent,roads
+Public facing severe issues due to broken road. Request urgent solution.,Urgent,roads
+Public facing severe issues due to broken road. Request urgent solution.,Urgent,roads
+Public facing severe issues due to broken road. Request urgent solution.,Urgent,roads
+Public facing severe issues due to broken road. Request urgent solution.,Urgent,roads
+Public facing severe issues due to broken road. Request urgent solution.,Urgent,roads
+Public facing severe issues due to broken road. Request urgent solution.,Urgent,roads
+Public facing severe issues due to building public library. Request urgent solution.,Urgent,civil
+Public facing severe issues due to building public library. Request urgent solution.,Urgent,civil
+Public facing severe issues due to building public library. Request urgent solution.,Urgent,civil
+Public facing severe issues due to building public library. Request urgent solution.,Urgent,civil
+Public facing severe issues due to building public library. Request urgent solution.,Urgent,civil
+Public facing severe issues due to building public library. Request urgent solution.,Urgent,civil
+Public facing severe issues due to building public library. Request urgent solution.,Urgent,civil
+Public facing severe issues due to building public library. Request urgent solution.,Urgent,civil
+Public facing severe issues due to building public library. Request urgent solution.,Urgent,civil
+Public facing severe issues due to building public library. Request urgent solution.,Urgent,civil
+Public facing severe issues due to building public library. Request urgent solution.,Urgent,civil
+Public facing severe issues due to bus stand crowding. Request urgent solution.,Urgent,civil
+Public facing severe issues due to bus stand crowding. Request urgent solution.,Urgent,civil
+Public facing severe issues due to bus stand crowding. Request urgent solution.,Urgent,civil
+Public facing severe issues due to bus stand crowding. Request urgent solution.,Urgent,civil
+Public facing severe issues due to bus stand crowding. Request urgent solution.,Urgent,civil
+Public facing severe issues due to bus stand crowding. Request urgent solution.,Urgent,civil
+Public facing severe issues due to bus stand crowding. Request urgent solution.,Urgent,civil
+Public facing severe issues due to bus stand crowding. Request urgent solution.,Urgent,civil
+Public facing severe issues due to bus stand crowding. Request urgent solution.,Urgent,civil
+Public facing severe issues due to bus stand crowding. Request urgent solution.,Urgent,civil
+Public facing severe issues due to bus stand crowding. Request urgent solution.,Urgent,civil
+Public facing severe issues due to construction of bus stand. Request urgent solution.,Urgent,civil
+Public facing severe issues due to construction of bus stand. Request urgent solution.,Urgent,civil
+Public facing severe issues due to construction of bus stand. Request urgent solution.,Urgent,civil
+Public facing severe issues due to construction of bus stand. Request urgent solution.,Urgent,civil
+Public facing severe issues due to construction of bus stand. Request urgent solution.,Urgent,civil
+Public facing severe issues due to construction of bus stand. Request urgent solution.,Urgent,civil
+Public facing severe issues due to construction of bus stand. Request urgent solution.,Urgent,civil
+Public facing severe issues due to construction of bus stand. Request urgent solution.,Urgent,civil
+Public facing severe issues due to construction of bus stand. Request urgent solution.,Urgent,civil
+Public facing severe issues due to construction of bus stand. Request urgent solution.,Urgent,civil
+Public facing severe issues due to construction of bus stand. Request urgent solution.,Urgent,civil
+Public facing severe issues due to electricity outage. Request urgent solution.,Urgent,electricity
+Public facing severe issues due to electricity outage. Request urgent solution.,Urgent,electricity
+Public facing severe issues due to electricity outage. Request urgent solution.,Urgent,electricity
+Public facing severe issues due to electricity outage. Request urgent solution.,Urgent,electricity
+Public facing severe issues due to electricity outage. Request urgent solution.,Urgent,electricity
+Public facing severe issues due to electricity outage. Request urgent solution.,Urgent,electricity
+Public facing severe issues due to garbage pileup. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to garbage pileup. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to garbage pileup. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to garbage pileup. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to garbage pileup. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to garbage pileup. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to garbage pileup. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to garbage pileup. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to garbage pileup. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to hospital medicine shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to need new school. Request urgent solution.,Urgent,civil
+Public facing severe issues due to need new school. Request urgent solution.,Urgent,civil
+Public facing severe issues due to need new school. Request urgent solution.,Urgent,civil
+Public facing severe issues due to need new school. Request urgent solution.,Urgent,civil
+Public facing severe issues due to need new school. Request urgent solution.,Urgent,civil
+Public facing severe issues due to need new school. Request urgent solution.,Urgent,civil
+Public facing severe issues due to need new school. Request urgent solution.,Urgent,civil
+Public facing severe issues due to need new school. Request urgent solution.,Urgent,civil
+Public facing severe issues due to need new school. Request urgent solution.,Urgent,civil
+Public facing severe issues due to need new school. Request urgent solution.,Urgent,civil
+Public facing severe issues due to need overhead water tank. Request urgent solution.,Urgent,water
+Public facing severe issues due to need overhead water tank. Request urgent solution.,Urgent,water
+Public facing severe issues due to need overhead water tank. Request urgent solution.,Urgent,water
+Public facing severe issues due to need overhead water tank. Request urgent solution.,Urgent,water
+Public facing severe issues due to need overhead water tank. Request urgent solution.,Urgent,water
+Public facing severe issues due to need overhead water tank. Request urgent solution.,Urgent,water
+Public facing severe issues due to need overhead water tank. Request urgent solution.,Urgent,water
+Public facing severe issues due to need overhead water tank. Request urgent solution.,Urgent,water
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to public toilet maintenance. Request urgent solution.,Urgent,sanitation
+Public facing severe issues due to school building damage. Request urgent solution.,Urgent,civil
+Public facing severe issues due to school building damage. Request urgent solution.,Urgent,civil
+Public facing severe issues due to school building damage. Request urgent solution.,Urgent,civil
+Public facing severe issues due to school building damage. Request urgent solution.,Urgent,civil
+Public facing severe issues due to school building damage. Request urgent solution.,Urgent,civil
+Public facing severe issues due to school building damage. Request urgent solution.,Urgent,civil
+Public facing severe issues due to school building damage. Request urgent solution.,Urgent,civil
+Public facing severe issues due to school building damage. Request urgent solution.,Urgent,civil
+Public facing severe issues due to sewage overflow. Request urgent solution.,Urgent,water
+Public facing severe issues due to sewage overflow. Request urgent solution.,Urgent,water
+Public facing severe issues due to sewage overflow. Request urgent solution.,Urgent,water
+Public facing severe issues due to sewage overflow. Request urgent solution.,Urgent,water
+Public facing severe issues due to sewage overflow. Request urgent solution.,Urgent,water
+Public facing severe issues due to sewage overflow. Request urgent solution.,Urgent,water
+Public facing severe issues due to sewage overflow. Request urgent solution.,Urgent,water
+Public facing severe issues due to sewage overflow. Request urgent solution.,Urgent,water
+Public facing severe issues due to sewage overflow. Request urgent solution.,Urgent,water
+Public facing severe issues due to sewage overflow. Request urgent solution.,Urgent,water
+Public facing severe issues due to sewage overflow. Request urgent solution.,Urgent,water
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to solar street lights installation. Request urgent solution.,Urgent,roads
+Public facing severe issues due to sports ground request. Request urgent solution.,Urgent,roads
+Public facing severe issues due to sports ground request. Request urgent solution.,Urgent,roads
+Public facing severe issues due to sports ground request. Request urgent solution.,Urgent,roads
+Public facing severe issues due to sports ground request. Request urgent solution.,Urgent,roads
+Public facing severe issues due to sports ground request. Request urgent solution.,Urgent,roads
+Public facing severe issues due to sports ground request. Request urgent solution.,Urgent,roads
+Public facing severe issues due to streetlight failure. Request urgent solution.,Urgent,roads
+Public facing severe issues due to streetlight failure. Request urgent solution.,Urgent,roads
+Public facing severe issues due to streetlight failure. Request urgent solution.,Urgent,roads
+Public facing severe issues due to streetlight failure. Request urgent solution.,Urgent,roads
+Public facing severe issues due to streetlight failure. Request urgent solution.,Urgent,roads
+Public facing severe issues due to streetlight failure. Request urgent solution.,Urgent,roads
+Public facing severe issues due to streetlight failure. Request urgent solution.,Urgent,roads
+Public facing severe issues due to streetlight failure. Request urgent solution.,Urgent,roads
+Public facing severe issues due to streetlight failure. Request urgent solution.,Urgent,roads
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+Public facing severe issues due to water supply shortage. Request urgent solution.,Urgent,water
+public toilet maintenance has created unsafe conditions in bus stand. Needs urgent fix.,Urgent,sanitation
+public toilet maintenance has created unsafe conditions in city. Needs urgent fix.,Urgent,sanitation
+public toilet maintenance has created unsafe conditions in hospital area. Needs urgent fix.,Urgent,sanitation
+public toilet maintenance has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,sanitation
+public toilet maintenance has created unsafe conditions in school zone. Needs urgent fix.,Urgent,sanitation
+school building damage has created unsafe conditions in city. Needs urgent fix.,Urgent,civil
+school building damage has created unsafe conditions in city. Needs urgent fix.,Urgent,civil
+school building damage has created unsafe conditions in highway. Needs urgent fix.,Urgent,civil
+school building damage has created unsafe conditions in hospital area. Needs urgent fix.,Urgent,civil
+school building damage has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+school building damage has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+school building damage has created unsafe conditions in market area. Needs urgent fix.,Urgent,civil
+school building damage has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,civil
+school building damage has created unsafe conditions in school zone. Needs urgent fix.,Urgent,civil
+school building damage has created unsafe conditions in town. Needs urgent fix.,Urgent,civil
+school building damage has created unsafe conditions in town. Needs urgent fix.,Urgent,civil
+"Serious problem of broken road in city, kindly resolve immediately.",Urgent,roads
+"Serious problem of broken road in city, kindly resolve immediately.",Urgent,roads
+"Serious problem of broken road in highway, kindly resolve immediately.",Urgent,roads
+"Serious problem of broken road in hospital area, kindly resolve immediately.",Urgent,roads
+"Serious problem of broken road in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of broken road in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of broken road in market area, kindly resolve immediately.",Urgent,roads
+"Serious problem of broken road in residential colony, kindly resolve immediately.",Urgent,roads
+"Serious problem of broken road in village, kindly resolve immediately.",Urgent,roads
+"Serious problem of building public library in city, kindly resolve immediately.",Urgent,civil
+"Serious problem of building public library in highway, kindly resolve immediately.",Urgent,civil
+"Serious problem of building public library in hospital area, kindly resolve immediately.",Urgent,civil
+"Serious problem of building public library in market area, kindly resolve immediately.",Urgent,civil
+"Serious problem of building public library in residential colony, kindly resolve immediately.",Urgent,civil
+"Serious problem of building public library in school zone, kindly resolve immediately.",Urgent,civil
+"Serious problem of building public library in town, kindly resolve immediately.",Urgent,civil
+"Serious problem of building public library in village, kindly resolve immediately.",Urgent,civil
+"Serious problem of bus stand crowding in highway, kindly resolve immediately.",Urgent,civil
+"Serious problem of bus stand crowding in highway, kindly resolve immediately.",Urgent,civil
+"Serious problem of bus stand crowding in market area, kindly resolve immediately.",Urgent,roads
+"Serious problem of bus stand crowding in town, kindly resolve immediately.",Urgent,civil
+"Serious problem of construction of bus stand in highway, kindly resolve immediately.",Urgent,civil
+"Serious problem of construction of bus stand in hospital area, kindly resolve immediately.",Urgent,civil
+"Serious problem of construction of bus stand in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of construction of bus stand in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of construction of bus stand in school zone, kindly resolve immediately.",Urgent,civil
+"Serious problem of construction of bus stand in school zone, kindly resolve immediately.",Urgent,civil
+"Serious problem of construction of bus stand in town, kindly resolve immediately.",Urgent,civil
+"Serious problem of construction of bus stand in village, kindly resolve immediately.",Urgent,civil
+"Serious problem of electricity outage in bus stand, kindly resolve immediately.",Urgent,electricity
+"Serious problem of electricity outage in highway, kindly resolve immediately.",Urgent,electricity
+"Serious problem of electricity outage in hospital area, kindly resolve immediately.",Urgent,electricity
+"Serious problem of electricity outage in market area, kindly resolve immediately.",Urgent,electricity
+"Serious problem of electricity outage in residential colony, kindly resolve immediately.",Urgent,electricity
+"Serious problem of electricity outage in school zone, kindly resolve immediately.",Urgent,electricity
+"Serious problem of electricity outage in town, kindly resolve immediately.",Urgent,electricity
+"Serious problem of electricity outage in town, kindly resolve immediately.",Urgent,electricity
+"Serious problem of electricity outage in town, kindly resolve immediately.",Urgent,electricity
+"Serious problem of electricity outage in village, kindly resolve immediately.",Urgent,electricity
+"Serious problem of electricity outage in village, kindly resolve immediately.",Urgent,electricity
+"Serious problem of electricity outage in village, kindly resolve immediately.",Urgent,electricity
+"Serious problem of garbage pileup in bus stand, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of garbage pileup in bus stand, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of garbage pileup in city, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of garbage pileup in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of garbage pileup in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of garbage pileup in market area, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of garbage pileup in residential colony, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of hospital medicine shortage in city, kindly resolve immediately.",Urgent,roads
+"Serious problem of hospital medicine shortage in city, kindly resolve immediately.",Urgent,roads
+"Serious problem of hospital medicine shortage in highway, kindly resolve immediately.",Urgent,roads
+"Serious problem of hospital medicine shortage in highway, kindly resolve immediately.",Urgent,roads
+"Serious problem of hospital medicine shortage in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of hospital medicine shortage in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of hospital medicine shortage in residential colony, kindly resolve immediately.",Urgent,roads
+"Serious problem of hospital medicine shortage in school zone, kindly resolve immediately.",Urgent,roads
+"Serious problem of hospital medicine shortage in school zone, kindly resolve immediately.",Urgent,roads
+"Serious problem of need new school in bus stand, kindly resolve immediately.",Urgent,civil
+"Serious problem of need new school in hospital area, kindly resolve immediately.",Urgent,water
+"Serious problem of need new school in hospital area, kindly resolve immediately.",Urgent,water
+"Serious problem of need new school in market area, kindly resolve immediately.",Urgent,civil
+"Serious problem of need new school in school zone, kindly resolve immediately.",Urgent,water
+"Serious problem of need new school in school zone, kindly resolve immediately.",Urgent,water
+"Serious problem of need new school in town, kindly resolve immediately.",Urgent,civil
+"Serious problem of need new school in village, kindly resolve immediately.",Urgent,water
+"Serious problem of need overhead water tank in highway, kindly resolve immediately.",Urgent,water
+"Serious problem of need overhead water tank in highway, kindly resolve immediately.",Urgent,water
+"Serious problem of need overhead water tank in hospital area, kindly resolve immediately.",Urgent,water
+"Serious problem of need overhead water tank in hospital area, kindly resolve immediately.",Urgent,water
+"Serious problem of need overhead water tank in hospital area, kindly resolve immediately.",Urgent,water
+"Serious problem of need overhead water tank in main road, kindly resolve immediately.",Urgent,water
+"Serious problem of need overhead water tank in market area, kindly resolve immediately.",Urgent,water
+"Serious problem of need overhead water tank in school zone, kindly resolve immediately.",Urgent,water
+"Serious problem of need overhead water tank in town, kindly resolve immediately.",Urgent,water
+"Serious problem of need overhead water tank in town, kindly resolve immediately.",Urgent,water
+"Serious problem of need overhead water tank in village, kindly resolve immediately.",Urgent,water
+"Serious problem of public toilet maintenance in bus stand, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of public toilet maintenance in city, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of public toilet maintenance in hospital area, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of public toilet maintenance in hospital area, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of public toilet maintenance in main road, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of public toilet maintenance in market area, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of public toilet maintenance in market area, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of public toilet maintenance in town, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of public toilet maintenance in town, kindly resolve immediately.",Urgent,sanitation
+"Serious problem of school building damage in market area, kindly resolve immediately.",Urgent,civil
+"Serious problem of school building damage in town, kindly resolve immediately.",Urgent,civil
+"Serious problem of sewage overflow in market area, kindly resolve immediately.",Urgent,water
+"Serious problem of sewage overflow in residential colony, kindly resolve immediately.",Urgent,water
+"Serious problem of sewage overflow in school zone, kindly resolve immediately.",Urgent,water
+"Serious problem of sewage overflow in town, kindly resolve immediately.",Urgent,water
+"Serious problem of sewage overflow in town, kindly resolve immediately.",Urgent,water
+"Serious problem of sewage overflow in village, kindly resolve immediately.",Urgent,water
+"Serious problem of solar street lights installation in bus stand, kindly resolve immediately.",Urgent,roads
+"Serious problem of solar street lights installation in bus stand, kindly resolve immediately.",Urgent,roads
+"Serious problem of solar street lights installation in highway, kindly resolve immediately.",Urgent,roads
+"Serious problem of solar street lights installation in highway, kindly resolve immediately.",Urgent,roads
+"Serious problem of solar street lights installation in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of solar street lights installation in market area, kindly resolve immediately.",Urgent,roads
+"Serious problem of solar street lights installation in market area, kindly resolve immediately.",Urgent,roads
+"Serious problem of solar street lights installation in market area, kindly resolve immediately.",Urgent,roads
+"Serious problem of solar street lights installation in residential colony, kindly resolve immediately.",Urgent,roads
+"Serious problem of solar street lights installation in residential colony, kindly resolve immediately.",Urgent,roads
+"Serious problem of sports ground request in city, kindly resolve immediately.",Urgent,roads
+"Serious problem of sports ground request in hospital area, kindly resolve immediately.",Urgent,roads
+"Serious problem of sports ground request in hospital area, kindly resolve immediately.",Urgent,roads
+"Serious problem of sports ground request in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of sports ground request in market area, kindly resolve immediately.",Urgent,roads
+"Serious problem of sports ground request in school zone, kindly resolve immediately.",Urgent,roads
+"Serious problem of sports ground request in town, kindly resolve immediately.",Urgent,roads
+"Serious problem of sports ground request in town, kindly resolve immediately.",Urgent,roads
+"Serious problem of sports ground request in town, kindly resolve immediately.",Urgent,roads
+"Serious problem of sports ground request in town, kindly resolve immediately.",Urgent,roads
+"Serious problem of streetlight failure in city, kindly resolve immediately.",Urgent,roads
+"Serious problem of streetlight failure in hospital area, kindly resolve immediately.",Urgent,roads
+"Serious problem of streetlight failure in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of streetlight failure in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of streetlight failure in main road, kindly resolve immediately.",Urgent,roads
+"Serious problem of streetlight failure in residential colony, kindly resolve immediately.",Urgent,roads
+"Serious problem of streetlight failure in school zone, kindly resolve immediately.",Urgent,roads
+"Serious problem of water supply shortage in bus stand, kindly resolve immediately.",Urgent,water
+"Serious problem of water supply shortage in city, kindly resolve immediately.",Urgent,water
+"Serious problem of water supply shortage in main road, kindly resolve immediately.",Urgent,water
+"Serious problem of water supply shortage in school zone, kindly resolve immediately.",Urgent,water
+"Serious problem of water supply shortage in village, kindly resolve immediately.",Urgent,water
+"Serious problem of water supply shortage in village, kindly resolve immediately.",Urgent,water
+"Serious problem of water supply shortage in village, kindly resolve immediately.",Urgent,water
+sewage overflow has created unsafe conditions in bus stand. Needs urgent fix.,Urgent,water
+sewage overflow has created unsafe conditions in city. Needs urgent fix.,Urgent,water
+sewage overflow has created unsafe conditions in hospital area. Needs urgent fix.,Urgent,water
+sewage overflow has created unsafe conditions in main road. Needs urgent fix.,Urgent,water
+sewage overflow has created unsafe conditions in market area. Needs urgent fix.,Urgent,water
+sewage overflow has created unsafe conditions in town. Needs urgent fix.,Urgent,water
+sewage overflow has created unsafe conditions in town. Needs urgent fix.,Urgent,water
+sewage overflow has created unsafe conditions in village. Needs urgent fix.,Urgent,water
+solar street lights installation has created unsafe conditions in bus stand. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in bus stand. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in city. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in highway. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in highway. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in market area. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in school zone. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in school zone. Needs urgent fix.,Urgent,roads
+solar street lights installation has created unsafe conditions in school zone. Needs urgent fix.,Urgent,roads
+sports ground request has created unsafe conditions in highway. Needs urgent fix.,Urgent,sanitation
+sports ground request has created unsafe conditions in highway. Needs urgent fix.,Urgent,sanitation
+sports ground request has created unsafe conditions in market area. Needs urgent fix.,Urgent,water
+sports ground request has created unsafe conditions in market area. Needs urgent fix.,Urgent,water
+sports ground request has created unsafe conditions in market area. Needs urgent fix.,Urgent,water
+sports ground request has created unsafe conditions in residential colony. Needs urgent fix.,Urgent,roads
+sports ground request has created unsafe conditions in school zone. Needs urgent fix.,Urgent,roads
+streetlight failure has created unsafe conditions in hospital area. Needs urgent fix.,Urgent,roads
+streetlight failure has created unsafe conditions in main road. Needs urgent fix.,Urgent,roads
+streetlight failure has created unsafe conditions in town. Needs urgent fix.,Urgent,roads
+Urgent complaint regarding broken road. Needs quick attention at bus stand.,Urgent,roads
+Urgent complaint regarding broken road. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding broken road. Needs quick attention at main road.,Urgent,roads
+Urgent complaint regarding broken road. Needs quick attention at residential colony.,Urgent,roads
+Urgent complaint regarding broken road. Needs quick attention at residential colony.,Urgent,roads
+Urgent complaint regarding broken road. Needs quick attention at residential colony.,Urgent,roads
+Urgent complaint regarding broken road. Needs quick attention at school zone.,Urgent,roads
+Urgent complaint regarding broken road. Needs quick attention at town.,Urgent,roads
+Urgent complaint regarding building public library. Needs quick attention at bus stand.,Urgent,civil
+Urgent complaint regarding building public library. Needs quick attention at bus stand.,Urgent,civil
+Urgent complaint regarding building public library. Needs quick attention at highway.,Urgent,civil
+Urgent complaint regarding building public library. Needs quick attention at highway.,Urgent,civil
+Urgent complaint regarding building public library. Needs quick attention at highway.,Urgent,civil
+Urgent complaint regarding building public library. Needs quick attention at hospital area.,Urgent,civil
+Urgent complaint regarding building public library. Needs quick attention at main road.,Urgent,roads
+Urgent complaint regarding building public library. Needs quick attention at town.,Urgent,civil
+Urgent complaint regarding building public library. Needs quick attention at town.,Urgent,civil
+Urgent complaint regarding building public library. Needs quick attention at town.,Urgent,civil
+Urgent complaint regarding building public library. Needs quick attention at town.,Urgent,civil
+Urgent complaint regarding building public library. Needs quick attention at village.,Urgent,civil
+Urgent complaint regarding building public library. Needs quick attention at village.,Urgent,civil
+Urgent complaint regarding bus stand crowding. Needs quick attention at city.,Urgent,roads
+Urgent complaint regarding bus stand crowding. Needs quick attention at highway.,Urgent,roads
+Urgent complaint regarding bus stand crowding. Needs quick attention at highway.,Urgent,roads
+Urgent complaint regarding bus stand crowding. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding bus stand crowding. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding bus stand crowding. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding bus stand crowding. Needs quick attention at main road.,Urgent,roads
+Urgent complaint regarding bus stand crowding. Needs quick attention at school zone.,Urgent,roads
+Urgent complaint regarding bus stand crowding. Needs quick attention at town.,Urgent,roads
+Urgent complaint regarding bus stand crowding. Needs quick attention at town.,Urgent,roads
+Urgent complaint regarding bus stand crowding. Needs quick attention at town.,Urgent,roads
+Urgent complaint regarding construction of bus stand. Needs quick attention at bus stand.,Urgent,civil
+Urgent complaint regarding construction of bus stand. Needs quick attention at city.,Urgent,civil
+Urgent complaint regarding construction of bus stand. Needs quick attention at hospital area.,Urgent,civil
+Urgent complaint regarding construction of bus stand. Needs quick attention at main road.,Urgent,roads
+Urgent complaint regarding construction of bus stand. Needs quick attention at market area.,Urgent,civil
+Urgent complaint regarding construction of bus stand. Needs quick attention at market area.,Urgent,civil
+Urgent complaint regarding construction of bus stand. Needs quick attention at market area.,Urgent,civil
+Urgent complaint regarding construction of bus stand. Needs quick attention at residential colony.,Urgent,civil
+Urgent complaint regarding construction of bus stand. Needs quick attention at residential colony.,Urgent,civil
+Urgent complaint regarding construction of bus stand. Needs quick attention at residential colony.,Urgent,civil
+Urgent complaint regarding construction of bus stand. Needs quick attention at residential colony.,Urgent,civil
+Urgent complaint regarding electricity outage. Needs quick attention at bus stand.,Urgent,electricity
+Urgent complaint regarding electricity outage. Needs quick attention at highway.,Urgent,electricity
+Urgent complaint regarding electricity outage. Needs quick attention at school zone.,Urgent,electricity
+Urgent complaint regarding garbage pileup. Needs quick attention at bus stand.,Urgent,sanitation
+Urgent complaint regarding garbage pileup. Needs quick attention at city.,Urgent,sanitation
+Urgent complaint regarding garbage pileup. Needs quick attention at highway.,Urgent,sanitation
+Urgent complaint regarding garbage pileup. Needs quick attention at hospital area.,Urgent,sanitation
+Urgent complaint regarding garbage pileup. Needs quick attention at main road.,Urgent,roads
+Urgent complaint regarding garbage pileup. Needs quick attention at main road.,Urgent,roads
+Urgent complaint regarding garbage pileup. Needs quick attention at market area.,Urgent,sanitation
+Urgent complaint regarding garbage pileup. Needs quick attention at market area.,Urgent,sanitation
+Urgent complaint regarding garbage pileup. Needs quick attention at school zone.,Urgent,sanitation
+Urgent complaint regarding garbage pileup. Needs quick attention at school zone.,Urgent,sanitation
+Urgent complaint regarding garbage pileup. Needs quick attention at town.,Urgent,sanitation
+Urgent complaint regarding garbage pileup. Needs quick attention at town.,Urgent,sanitation
+Urgent complaint regarding garbage pileup. Needs quick attention at town.,Urgent,sanitation
+Urgent complaint regarding garbage pileup. Needs quick attention at village.,Urgent,sanitation
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at bus stand.,Urgent,civil
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at city.,Urgent,water
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at hospital area.,Urgent,water
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at residential colony.,Urgent,roads
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at town.,Urgent,water
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at town.,Urgent,water
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at town.,Urgent,water
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at town.,Urgent,water
+Urgent complaint regarding hospital medicine shortage. Needs quick attention at village.,Urgent,water
+Urgent complaint regarding need new school. Needs quick attention at bus stand.,Urgent,roads
+Urgent complaint regarding need new school. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding need new school. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding need new school. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding need new school. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding need new school. Needs quick attention at main road.,Urgent,roads
+Urgent complaint regarding need new school. Needs quick attention at school zone.,Urgent,roads
+Urgent complaint regarding need new school. Needs quick attention at town.,Urgent,roads
+Urgent complaint regarding need new school. Needs quick attention at town.,Urgent,roads
+Urgent complaint regarding need overhead water tank. Needs quick attention at bus stand.,Urgent,water
+Urgent complaint regarding need overhead water tank. Needs quick attention at city.,Urgent,water
+Urgent complaint regarding need overhead water tank. Needs quick attention at city.,Urgent,water
+Urgent complaint regarding need overhead water tank. Needs quick attention at city.,Urgent,water
+Urgent complaint regarding need overhead water tank. Needs quick attention at main road.,Urgent,water
+Urgent complaint regarding need overhead water tank. Needs quick attention at town.,Urgent,water
+Urgent complaint regarding public toilet maintenance. Needs quick attention at bus stand.,Urgent,sanitation
+Urgent complaint regarding public toilet maintenance. Needs quick attention at bus stand.,Urgent,sanitation
+Urgent complaint regarding public toilet maintenance. Needs quick attention at school zone.,Urgent,sanitation
+Urgent complaint regarding public toilet maintenance. Needs quick attention at town.,Urgent,sanitation
+Urgent complaint regarding public toilet maintenance. Needs quick attention at town.,Urgent,sanitation
+Urgent complaint regarding public toilet maintenance. Needs quick attention at village.,Urgent,sanitation
+Urgent complaint regarding public toilet maintenance. Needs quick attention at village.,Urgent,sanitation
+Urgent complaint regarding school building damage. Needs quick attention at bus stand.,Urgent,civil
+Urgent complaint regarding school building damage. Needs quick attention at bus stand.,Urgent,civil
+Urgent complaint regarding school building damage. Needs quick attention at city.,Urgent,civil
+Urgent complaint regarding school building damage. Needs quick attention at city.,Urgent,civil
+Urgent complaint regarding school building damage. Needs quick attention at highway.,Urgent,civil
+Urgent complaint regarding school building damage. Needs quick attention at hospital area.,Urgent,civil
+Urgent complaint regarding school building damage. Needs quick attention at residential colony.,Urgent,civil
+Urgent complaint regarding school building damage. Needs quick attention at residential colony.,Urgent,civil
+Urgent complaint regarding school building damage. Needs quick attention at school zone.,Urgent,civil
+Urgent complaint regarding school building damage. Needs quick attention at village.,Urgent,civil
+Urgent complaint regarding school building damage. Needs quick attention at village.,Urgent,civil
+Urgent complaint regarding sewage overflow. Needs quick attention at bus stand.,Urgent,water
+Urgent complaint regarding sewage overflow. Needs quick attention at city.,Urgent,water
+Urgent complaint regarding sewage overflow. Needs quick attention at city.,Urgent,water
+Urgent complaint regarding sewage overflow. Needs quick attention at market area.,Urgent,water
+Urgent complaint regarding sewage overflow. Needs quick attention at village.,Urgent,water
+Urgent complaint regarding sewage overflow. Needs quick attention at village.,Urgent,water
+Urgent complaint regarding solar street lights installation. Needs quick attention at bus stand.,Urgent,roads
+Urgent complaint regarding solar street lights installation. Needs quick attention at highway.,Urgent,roads
+Urgent complaint regarding solar street lights installation. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding solar street lights installation. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding solar street lights installation. Needs quick attention at main road.,Urgent,roads
+Urgent complaint regarding solar street lights installation. Needs quick attention at main road.,Urgent,roads
+Urgent complaint regarding solar street lights installation. Needs quick attention at main road.,Urgent,roads
+Urgent complaint regarding solar street lights installation. Needs quick attention at market area.,Urgent,roads
+Urgent complaint regarding solar street lights installation. Needs quick attention at market area.,Urgent,roads
+Urgent complaint regarding solar street lights installation. Needs quick attention at village.,Urgent,roads
+Urgent complaint regarding sports ground request. Needs quick attention at bus stand.,Urgent,roads
+Urgent complaint regarding sports ground request. Needs quick attention at city.,Urgent,roads
+Urgent complaint regarding sports ground request. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding sports ground request. Needs quick attention at school zone.,Urgent,roads
+Urgent complaint regarding sports ground request. Needs quick attention at school zone.,Urgent,roads
+Urgent complaint regarding sports ground request. Needs quick attention at school zone.,Urgent,roads
+Urgent complaint regarding sports ground request. Needs quick attention at town.,Urgent,roads
+Urgent complaint regarding sports ground request. Needs quick attention at town.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at bus stand.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at city.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at city.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at highway.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at hospital area.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at hospital area.,Urgent,roads
+ I want to arrange protest political  Demonstration  Agitation  Rally  Sit-in  March  Campaign   Boycott  Strike  Walkout  Hartal  Picketing  Hunger strike  Civil disobedience  Conference  Summit  Emergency meeting  Assembly  Convention  Press conference  Gathering  Forum  Session on 13th august 2022 at chennai Main road.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at market area.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at market area.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at residential colony.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at residential colony.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at residential colony.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at school zone.,Urgent,roads
+we want permission to arrange  conference on 29th aug at trichy high traffic main road from 10am to 5pm,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at village.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at village.,Urgent,roads
+Urgent complaint regarding streetlight failure. Needs quick attention at village.,Urgent,roads
+Urgent complaint regarding water supply shortage. Needs quick attention at highway.,Urgent,water
+Urgent complaint regarding water supply shortage. Needs quick attention at hospital area.,Urgent,water
+Urgent complaint regarding water supply shortage. Needs quick attention at market area.,Urgent,water
+water supply shortage has created unsafe conditions in bus stand. Needs urgent fix.,Urgent,water
+water supply shortage has created unsafe conditions in market area. Needs urgent fix.,Urgent,water
+water supply shortage has created unsafe conditions in village. Needs urgent fix.,Urgent,water
+water supply shortage has created unsafe conditions in village. Needs urgent fix.,Urgent,water
