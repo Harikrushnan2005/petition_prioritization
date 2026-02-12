@@ -27,10 +27,10 @@ const Login = () => {
       const data = await response.json();
 
       if (response.ok) {
-        localStorage.setItem("isLoggedIn", "true");
-        localStorage.setItem("username", data.username);
-        localStorage.setItem("userRole", data.role);
-        localStorage.setItem("userDepartment", data.department || '');
+        sessionStorage.setItem("isLoggedIn", "true");
+        sessionStorage.setItem("username", data.username);
+        sessionStorage.setItem("userRole", data.role);
+        sessionStorage.setItem("userDepartment", data.department || '');
         toast({
           title: "Login successful!",
           description: `Welcome back, ${data.username}`,
@@ -131,28 +131,14 @@ const Login = () => {
           </Button>
         </form>
 
-        {/* Social login section */}
-        <div className="mt-8">
-          <p className="text-center text-sm text-muted-foreground mb-4">
-            Or Sign Up Using
-          </p>
-          <div className="flex justify-center gap-4">
-            <button className="w-12 h-12 rounded-full bg-[#3b5998] flex items-center justify-center text-white hover:opacity-80 transition-opacity">
-              <span className="text-xl font-bold">f</span>
-            </button>
-            <button className="w-12 h-12 rounded-full bg-[#1da1f2] flex items-center justify-center text-white hover:opacity-80 transition-opacity">
-              <span className="text-xl font-bold">t</span>
-            </button>
-            <button className="w-12 h-12 rounded-full bg-[#db4437] flex items-center justify-center text-white hover:opacity-80 transition-opacity">
-              <span className="text-xl font-bold">g</span>
-            </button>
-          </div>
-        </div>
 
         {/* Sign up link */}
         <div className="mt-8 text-center">
-          <p className="text-sm text-muted-foreground mb-2">Or Sign Up Using</p>
-          <button className="text-sm font-semibold text-foreground hover:text-primary transition-colors">
+          <p className="text-sm text-muted-foreground mb-2">Don't have an account?</p>
+          <button
+            onClick={() => navigate("/signup")}
+            className="text-sm font-semibold text-foreground hover:text-primary transition-colors"
+          >
             SIGN UP
           </button>
         </div>

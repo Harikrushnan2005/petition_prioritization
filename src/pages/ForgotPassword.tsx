@@ -4,10 +4,10 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { useToast } from "@/hooks/use-toast";
-import { User, ArrowLeft } from "lucide-react";
+import { Mail, ArrowLeft } from "lucide-react";
 
 const ForgotPassword = () => {
-  const [username, setUsername] = useState("");
+  const [email, setEmail] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const [emailSent, setEmailSent] = useState(false);
   const navigate = useNavigate();
@@ -21,7 +21,7 @@ const ForgotPassword = () => {
       const response = await fetch("http://localhost:5000/api/forgot-password", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ username }),
+        body: JSON.stringify({ username: email }),
       });
 
       const data = await response.json();
@@ -52,7 +52,7 @@ const ForgotPassword = () => {
 
   return (
     <div className="min-h-screen flex items-center justify-center relative overflow-hidden">
-      {/* Gradient background */}
+      
       <div 
         className="absolute inset-0 z-0"
         style={{
@@ -60,7 +60,7 @@ const ForgotPassword = () => {
         }}
       />
       
-      {/* Content card */}
+      
       <div className="relative z-10 bg-white rounded-2xl shadow-2xl p-8 w-full max-w-md mx-4">
         <button
           onClick={() => navigate("/login")}
@@ -72,23 +72,23 @@ const ForgotPassword = () => {
 
         <h1 className="text-3xl font-bold text-center mb-2 text-foreground">Forgot Password?</h1>
         <p className="text-center text-muted-foreground mb-8">
-          Enter your username to receive password reset instructions
+          Enter your email to receive password reset instructions
         </p>
         
         {!emailSent ? (
           <form onSubmit={handleSubmit} className="space-y-6">
             <div className="space-y-2">
-              <Label htmlFor="username" className="text-sm font-medium text-foreground">
-                Username
+              <Label htmlFor="email" className="text-sm font-medium text-foreground">
+                Email
               </Label>
               <div className="relative">
-                <User className="absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground w-4 h-4" />
+                <Mail className="absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground w-4 h-4" />
                 <Input
-                  id="username"
-                  type="text"
-                  placeholder="Type your username"
-                  value={username}
-                  onChange={(e) => setUsername(e.target.value)}
+                  id="email"
+                  type="email"
+                  placeholder="Type your email"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
                   className="pl-10 bg-white border-b-2 border-t-0 border-x-0 border-input rounded-none focus-visible:border-primary focus-visible:ring-0"
                   required
                 />
@@ -117,7 +117,7 @@ const ForgotPassword = () => {
               Password reset email sent!
             </p>
             <p className="text-sm text-muted-foreground">
-              Check your email (harikrushnan2005@gamil.com) for the reset link
+              Check your email ({email}) for the reset link
             </p>
             <Button
               onClick={() => navigate("/login")}

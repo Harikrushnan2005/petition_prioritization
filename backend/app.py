@@ -563,6 +563,35 @@ def clear_all_petitions():
         return jsonify({"success": True, "deleted": deleted_count}), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+    
+@app.route('/api/signup', methods=['POST'])
+def signup():
+    """User signup with email only"""
+    try:
+        data = request.json
+        email = data.get('email', '').strip()
+        password = data.get('password', '').strip()
+        
+        if not email or not password:
+            return jsonify({"error": "Email and password are required"}), 400
+        
+        conn = sqlite3.connect('petitions.db')
+        c = conn.cursor()
+        c.execute('SELECT * FROM users WHERE username = ?', (email,))
+        if c.fetchone():
+            conn.close()
+            return jsonify({"error": "An account with this email already exists"}), 409
+        
+        c.execute('''
+            INSERT INTO users (username, password, email, role) 
+            VALUES (?, ?, ?, ?)
+        ''', (email, password, email, 'admin'))
+        conn.commit()
+        conn.close()
+        
+        return jsonify({"success": True, "message": "Account created successfully"}), 201
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 @app.route('/api/login', methods=['POST'])
 def login():
@@ -626,7 +655,9 @@ def forgot_password():
             return jsonify({"error": "Email not configured"}), 500
         
         user_email = user[3]  # user[3] is email column
-        reset_url = f"http://localhost:5173/reset-password?token={reset_token}"
+        # Use frontend URL from environment variable, fallback to localhost
+        frontend_url = os.getenv('FRONTEND_URL', 'https://id-preview--a0b65845-62e3-4fd3-80f2-2c80fbabeed6.lovable.app')
+        reset_url = f"{frontend_url}/reset-password?token={reset_token}"
         
         msg = MIMEMultipart()
         msg['From'] = gmail_user
@@ -689,7 +720,7 @@ def reset_password():
             return jsonify({"error": "Invalid reset token"}), 400
         
         # Check if token expired
-        expiry = user[5]  # user[5] is reset_token_expiry column
+        expiry = user[7]  # user[7] is reset_token_expiry column
         if datetime.now().timestamp() > expiry:
             return jsonify({"error": "Reset token expired"}), 400
         

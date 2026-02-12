@@ -24,8 +24,9 @@ const Index = () => {
   const [isProcessing, setIsProcessing] = useState(false);
   const { toast } = useToast();
   const navigate = useNavigate();
-  const userRole = localStorage.getItem('userRole');
-  const userDepartment = localStorage.getItem('userDepartment');
+    const userRole = sessionStorage.getItem('userRole');
+  const userDepartment = sessionStorage.getItem('userDepartment');
+
 
   useEffect(() => {
     fetchPetitions();
@@ -153,10 +154,10 @@ const Index = () => {
                 </DropdownMenuSub>
                 <DropdownMenuItem 
                   onClick={() => {
-                    localStorage.removeItem("isLoggedIn");
-                    localStorage.removeItem("username");
-                    localStorage.removeItem("userRole");
-                    localStorage.removeItem("userDepartment");
+                    sessionStorage.removeItem("isLoggedIn");
+                    sessionStorage.removeItem("username");
+                    sessionStorage.removeItem("userRole");
+                    sessionStorage.removeItem("userDepartment");
                     navigate("/login");
                   }}
                 >
