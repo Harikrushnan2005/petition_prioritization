@@ -18,7 +18,7 @@ const ForgotPassword = () => {
     setIsLoading(true);
 
     try {
-      const response = await fetch("http://localhost:5000/api/forgot-password", {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || "http://localhost:5000"}/api/forgot-password`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ username: email }),
@@ -52,15 +52,15 @@ const ForgotPassword = () => {
 
   return (
     <div className="min-h-screen flex items-center justify-center relative overflow-hidden">
-      
-      <div 
+
+      <div
         className="absolute inset-0 z-0"
         style={{
           background: "linear-gradient(135deg, hsl(200 100% 60%) 0%, hsl(260 90% 60%) 50%, hsl(320 85% 60%) 100%)"
         }}
       />
-      
-      
+
+
       <div className="relative z-10 bg-white rounded-2xl shadow-2xl p-8 w-full max-w-md mx-4">
         <button
           onClick={() => navigate("/login")}
@@ -74,7 +74,7 @@ const ForgotPassword = () => {
         <p className="text-center text-muted-foreground mb-8">
           Enter your email to receive password reset instructions
         </p>
-        
+
         {!emailSent ? (
           <form onSubmit={handleSubmit} className="space-y-6">
             <div className="space-y-2">

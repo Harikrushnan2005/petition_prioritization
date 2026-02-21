@@ -53,7 +53,7 @@ const ResetPassword = () => {
     setIsLoading(true);
 
     try {
-      const response = await fetch("http://localhost:5000/api/reset-password", {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || "http://localhost:5000"}/api/reset-password`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ token, password }),
@@ -88,20 +88,20 @@ const ResetPassword = () => {
   return (
     <div className="min-h-screen flex items-center justify-center relative overflow-hidden">
       {/* Gradient background */}
-      <div 
+      <div
         className="absolute inset-0 z-0"
         style={{
           background: "linear-gradient(135deg, hsl(200 100% 60%) 0%, hsl(260 90% 60%) 50%, hsl(320 85% 60%) 100%)"
         }}
       />
-      
+
       {/* Content card */}
       <div className="relative z-10 bg-white rounded-2xl shadow-2xl p-8 w-full max-w-md mx-4">
         <h1 className="text-3xl font-bold text-center mb-2 text-foreground">Reset Password</h1>
         <p className="text-center text-muted-foreground mb-8">
           Enter your new password
         </p>
-        
+
         <form onSubmit={handleSubmit} className="space-y-6">
           <div className="space-y-2">
             <Label htmlFor="password" className="text-sm font-medium text-foreground">

@@ -24,7 +24,7 @@ const Index = () => {
   const [isProcessing, setIsProcessing] = useState(false);
   const { toast } = useToast();
   const navigate = useNavigate();
-    const userRole = sessionStorage.getItem('userRole');
+  const userRole = sessionStorage.getItem('userRole');
   const userDepartment = sessionStorage.getItem('userDepartment');
 
 
@@ -34,7 +34,7 @@ const Index = () => {
 
   const fetchPetitions = async () => {
     try {
-      const response = await fetch('http://localhost:5000/api/petitions');
+      const response = await fetch(`${import.meta.env.VITE_API_URL || "http://localhost:5000"}/api/petitions`);
       const data = await response.json();
 
       if (data.petitions) {
@@ -64,7 +64,7 @@ const Index = () => {
         formData.append('files', file);
       });
 
-      const response = await fetch('http://localhost:5000/api/upload', {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || "http://localhost:5000"}/api/upload`, {
         method: 'POST',
         body: formData,
       });
@@ -152,7 +152,7 @@ const Index = () => {
                     )}
                   </DropdownMenuSubContent>
                 </DropdownMenuSub>
-                <DropdownMenuItem 
+                <DropdownMenuItem
                   onClick={() => {
                     sessionStorage.removeItem("isLoggedIn");
                     sessionStorage.removeItem("username");
@@ -193,9 +193,9 @@ const Index = () => {
             <h2 className="text-2xl font-semibold text-foreground mb-6">
               Classified Complaints ({complaints.length})
             </h2>
-            <ClassificationResults 
-              complaints={complaints} 
-              onEmailSent={fetchPetitions} 
+            <ClassificationResults
+              complaints={complaints}
+              onEmailSent={fetchPetitions}
               onHistoryCleared={fetchPetitions}
             />
           </div>

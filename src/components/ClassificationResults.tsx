@@ -21,21 +21,21 @@ export const ClassificationResults = ({ complaints, onEmailSent, onHistoryCleare
 
   const handleClearFolder = async (priority: string, folderName: string) => {
     setClearingFolder(folderName);
-    
+
     try {
-      const response = await fetch(`http://localhost:5000/api/petitions/clear/${priority}`, {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || "http://localhost:5000"}/api/petitions/clear/${priority}`, {
         method: 'DELETE',
       });
 
       if (!response.ok) throw new Error('Failed to clear folder');
 
       const data = await response.json();
-      
+
       toast({
         title: "Folder cleared",
         description: `Cleared ${data.deleted} petition${data.deleted !== 1 ? 's' : ''} from ${folderName} folder`,
       });
-      
+
       onHistoryCleared();
     } catch (error) {
       console.error("Clear folder error:", error);
@@ -51,21 +51,21 @@ export const ClassificationResults = ({ complaints, onEmailSent, onHistoryCleare
 
   const handleClearAll = async () => {
     setClearingAll(true);
-    
+
     try {
-      const response = await fetch('http://localhost:5000/api/petitions/clear-all', {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || "http://localhost:5000"}/api/petitions/clear-all`, {
         method: 'DELETE',
       });
 
       if (!response.ok) throw new Error('Failed to clear all');
 
       const data = await response.json();
-      
+
       toast({
         title: "All cleared",
         description: `Cleared ${data.deleted} petition${data.deleted !== 1 ? 's' : ''} from history`,
       });
-      
+
       onHistoryCleared();
     } catch (error) {
       console.error("Clear all error:", error);
@@ -81,7 +81,7 @@ export const ClassificationResults = ({ complaints, onEmailSent, onHistoryCleare
 
   const handleSendFolderEmails = async (folderComplaints: ClassifiedComplaint[], folderName: string) => {
     setSendingFolder(folderName);
-    
+
     try {
       let successCount = 0;
       let failCount = 0;
@@ -90,7 +90,7 @@ export const ClassificationResults = ({ complaints, onEmailSent, onHistoryCleare
         if (complaint.email_sent) continue;
 
         try {
-          const response = await fetch(`http://localhost:5000/api/send-email/${complaint.id}`, {
+          const response = await fetch(`${import.meta.env.VITE_API_URL || "http://localhost:5000"}/api/send-email/${complaint.id}`, {
             method: 'POST',
           });
 
@@ -214,9 +214,9 @@ export const ClassificationResults = ({ complaints, onEmailSent, onHistoryCleare
 
   const renderPrioritySection = (title: string, complaints: ClassifiedComplaint[], color: string, priority: string) => {
     if (complaints.length === 0) return null;
-    
+
     const unsentCount = complaints.filter(c => !c.email_sent).length;
-    
+
     return (
       <div className="space-y-4">
         <div className="flex items-center gap-3 justify-between">
@@ -263,11 +263,11 @@ export const ClassificationResults = ({ complaints, onEmailSent, onHistoryCleare
           </Button>
         </div>
       )}
-      
+
       {renderPrioritySection("🔴 Urgent Folder", urgentComplaints, "text-urgent", "urgent")}
       {renderPrioritySection("🟡 Neutral Folder", neutralComplaints, "text-neutral", "neutral")}
       {renderPrioritySection("🟢 Later Folder", laterComplaints, "text-later", "later")}
-      
+
       {complaints.length === 0 && (
         <Card className="p-6 bg-gradient-card">
           <p className="text-center text-muted-foreground">No petitions classified yet</p>
